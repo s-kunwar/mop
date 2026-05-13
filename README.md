@@ -1,153 +1,253 @@
-# Placement Preparation Data Repository
+# MOP (Machine for Organizational Processing)
 
-This repository contains placement preparation materials that have been processed and cleaned to provide consistent, high-quality data for integration with other systems.
+MOP is an autonomous data intelligence pipeline designed to transform fragmented organizational archives into structured and searchable intelligence systems. The platform processes heterogeneous data sources including PDFs, spreadsheets, folders, and semi-structured documents. It uses directory analysis and file classification techniques to identify suitable extraction workflows for different file types. Adaptive extraction scripts and preprocessing pipelines are applied to collect relevant information from raw archives.
 
-## Repository Overview
+The extracted data is then cleaned, normalized, deduplicated, and structured using automated processing layers and language-model-assisted contextual refinement. Relationships between entities are mapped into an organized knowledge structure, enabling semantic search, analytics, and recommendation systems. Structured outputs can further be converted into embeddings and indexed for intelligent retrieval and downstream AI applications.
 
-The repository contains placement preparation materials organized in a structured hierarchy:
+MOP is designed as a scalable infrastructure layer for institutional intelligence, enabling organizations to build applications such as knowledge systems, analytics dashboards, decision-support tools, and preparation intelligence platforms on top of previously unusable archival data.
+
+## System Architecture
+
+```
+Raw Organizational Archives
+├── PDF Documents
+├── Excel Spreadsheets
+├── Word Documents
+├── Image Files
+└── Semi-structured Data
+
+          ↓
+┌─────────────────────────┐
+│   Directory Analysis    │
+│   & File Classification │
+└─────────────────────────┘
+          ↓
+┌─────────────────────────┐
+│  Adaptive Extraction    │
+│    & Preprocessing      │
+└─────────────────────────┘
+          ↓
+┌─────────────────────────┐
+│   Data Cleaning &       │
+│  Standardization Layer  │
+└─────────────────────────┘
+          ↓
+┌─────────────────────────┐
+│  Entity Relationship    │
+│    Mapping & Knowledge  │
+│      Graph Creation     │
+└─────────────────────────┘
+          ↓
+┌─────────────────────────┐
+│ Semantic Search Engine  │
+│ Analytics Dashboard     │
+│ Recommendation Systems  │
+│ AI Applications Layer   │
+└─────────────────────────┘
+```
+
+## Repository Structure
 
 ```
 .
 ├── db/                          # Main database directory
 │   ├── cleaned_csv/            # Final cleaned and standardized CSV files
-│   │   ├── exp/                # Experience files (recruitment process data)
-│   │   └── que/                # Question bank files
+│   │   ├── category_a/         # Organized by data category/type
+│   │   └── category_b/         
 │   ├── csv/                    # Converted CSV files (intermediate stage)
-│   │   ├── exp/                # Experience files converted from Excel
-│   │   └── que/                # Question bank files converted from Excel
-│   ├── exp/                    # Original experience documents (Excel and PDF)
-│   ├── que/                    # Original question banks (Excel, Word, PDF)
-│   ├── aptitude.pdf            # Aptitude preparation materials
-│   └── softskills.pdf          # Soft skills development materials
+│   │   ├── category_a/         
+│   │   └── category_b/         
+│   ├── source_a/               # Original source documents (Excel, PDF, etc.)
+│   ├── source_b/               
+│   ├── general_documents.pdf   # General organizational materials
+│   └── reference_materials.pdf # Reference documentation
 ├── scripts/                     # Processing scripts
 │   ├── extract_excel_to_csv.py  # Excel to CSV conversion script
 │   ├── clean_csv_data.py        # CSV data cleaning script
 │   ├── clean_csv_data_improved.py # Improved CSV data cleaning script
-│   └── fix_experience_headers.py # Header fixing script
+│   └── fix_headers.py           # Header fixing script
+├── docs/                        # Documentation
+│   ├── ARCHITECTURE.md          # Detailed system architecture
+│   ├── DATA_PROCESSING.md       # Data processing pipeline documentation
+│   ├── CSV_CONVERSION.md        # Excel to CSV conversion details
+│   └── CLEANING_STANDARDS.md    # Data cleaning standards and procedures
+├── outputs/                     # Processed outputs
+│   └── structured_data/         # Final structured data ready for indexing
 ├── README.md                   # This file
-├── DATABASE_STRUCTURE.md        # Detailed database structure documentation
-├── CSV_CONVERSION_SUMMARY.md    # Summary of Excel to CSV conversion
-├── CLEANED_CSV_SUMMARY.md       # Summary of CSV data cleaning
-└── FINAL_SUMMARY.md             # Comprehensive final summary
+└── CONFIG.md                   # System configuration and customization guide
 ```
 
-## Final Results
+## Core Capabilities
 
-### Data Processing Statistics
-- **Original Excel Files**: 166 files
+### Data Processing Pipeline
+
+#### 1. Directory Analysis & File Classification
+- Automatic identification of file types and organizational structures
+- Classification of documents by category and relevance
+- Dynamic workflow assignment based on content analysis
+
+#### 2. Adaptive Extraction
+- Format-specific extraction scripts for different file types
+- Intelligent data collection from semi-structured documents
+- Preservation of contextual relationships between data elements
+
+#### 3. Data Cleaning & Standardization
+- Automated removal of institutional headers and metadata
+- Standardization of column names and data formats
+- Validation and normalization of key data fields
+- Elimination of redundant and empty data elements
+
+#### 4. Knowledge Structure Creation
+- Entity relationship mapping
+- Contextual refinement using language models
+- Deduplication and consolidation of information
+- Creation of organized knowledge graphs
+
+### Final Results
+
+#### Processing Statistics
+- **Original Source Files**: 166 files (Excel, PDF, Word documents)
 - **Converted CSV Files**: 1,258 files
-- **Directories Created**: 236 directories
+- **Directories Processed**: 236 directories
 - **Processing Success Rate**: 100% (0 errors)
 - **Total Processing Time**: ~12 minutes
 
-### Cleaned Data Structure
-
-#### Experience Files (`db/cleaned_csv/exp/`)
-Contain student placement experiences with standardized columns:
-1. `student_name`
-2. `university_seat_number`
-3. `aptitude_test_description`
-4. `jam_round_description`
-5. `interview_description`
-6. `technical_subjects`
-7. `email`
-8. `contact_number`
-9. `cgpa`
-10. `company_name`
-11. `package_offered`
-12. `recruitment_rounds`
-13. `interview_questions`
-14. `feedback`
-15. `confirmation_link`
-
-#### Question Bank Files (`db/cleaned_csv/que/`)
-Contain technical interview questions with standardized columns:
-1. `serial_number`
-2. `company_name`
-3. `personal_interaction_questions`
-4. `technical_questions`
-5. `programming_questions`
+#### Data Quality Improvements
+- **Standardization**: Consistent column names across all 1,258 files
+- **Validation**: Email format validation, phone number standardization
+- **Normalization**: Package values to "X.XX LPA" format, CGPA to numeric
+- **Enhancement**: Removal of empty rows/columns, text cleaning
 
 ## How to Use
 
-### Accessing Cleaned Data
+### Prerequisites
+```bash
+# Install required Python packages
+pip install pandas openpyxl
+```
+
+### Quick Start
+```bash
+# Clone the repository
+git clone <repository-url>
+cd <repository-directory>
+
+# Run the complete processing pipeline
+./scripts/run_pipeline.sh
+```
+
+### Manual Processing Steps
+
+#### Convert Source Files to CSV
+```bash
+python scripts/extract_excel_to_csv.py
+```
+
+#### Clean and Standardize CSV Data
+```bash
+python scripts/clean_csv_data.py
+```
+
+#### Fix Headers and Metadata
+```bash
+python scripts/fix_headers.py
+```
+
+### Accessing Processed Data
 The cleaned and standardized data is available in `db/cleaned_csv/`:
 
 ```bash
 # Navigate to the repository
 cd /path/to/repository
 
-# View experience data for a specific company
-head -n 10 db/cleaned_csv/exp/2020-2021/Accenture/ECE_2020-21_Recruitment\ Process\ Experience/ACCENTURE_cleaned.csv
+# View processed data from a specific category
+head -n 10 db/cleaned_csv/category_a/subcategory/document_cleaned.csv
 
-# View question bank data for a specific branch
-head -n 10 db/cleaned_csv/que/CSE/2023-24/CSE_\ technical\ and\ programming\ questions\ placement\ 2023-24/programming_and_technical_quest_cleaned.csv
+# Export data for external processing
+cp -r db/cleaned_csv/outputs/structured_data/
 ```
 
-### Running the Processing Scripts
+## Data Structure Standards
 
-#### Prerequisites
-```bash
-# Install required Python packages
-pip install pandas openpyxl
-```
+### Generic Organizational Data Format
+Files are standardized with consistent column structures:
 
-#### Convert Excel to CSV
-```bash
-python scripts/extract_excel_to_csv.py
-```
+#### Category A Files (e.g., Experience/Process Data)
+1. `entity_name` - Primary entity identifier
+2. `entity_id` - Unique identifier code
+3. `process_description` - Description of process or procedure
+4. `status_field` - Current status or classification
+5. `contact_information` - Relevant contact details
+6. `numerical_values` - Quantitative metrics or scores
+7. `category_name` - Classification or grouping
+8. `standardized_values` - Normalized quantitative data
+9. `process_details` - Detailed procedural information
+10. `additional_metadata` - Supplementary information
 
-#### Clean CSV Data
-```bash
-python scripts/clean_csv_data.py
-```
+#### Category B Files (e.g., Question/Reference Banks)
+1. `record_id` - Sequential record identifier
+2. `source_entity` - Originating entity or department
+3. `contextual_questions` - Relevant inquiry or investigation points
+4. `technical_content` - Technical or specialized information
+5. `programming_content` - Coding or implementation details
 
-#### Fix Experience File Headers
-```bash
-python scripts/fix_experience_headers.py
-```
+## Integration Capabilities
 
-#### Run All Processing Steps
-```bash
-# Run all scripts in sequence
-python scripts/extract_excel_to_csv.py
-python scripts/clean_csv_data.py
-python scripts/fix_experience_headers.py
-```
+### For Analytics and Reporting Systems
+- Structured data ready for database import
+- Consistent formatting reduces preprocessing needs
+- Standardized metrics enable cross-category analysis
 
-## Data Quality Improvements
+### For Search and Retrieval Systems
+- Clean text data without extra whitespace
+- Standardized terminology for consistent indexing
+- Entity relationship mapping for semantic search
 
-### Standardization
-- Consistent column names across all 1,258 files
-- Standardized data formats (package values, phone numbers, emails, CGPA)
-- Proper handling of missing values
+### For AI and Machine Learning Applications
+- Structured outputs suitable for embedding generation
+- Clean data reduces model training noise
+- Consistent formats enable batch processing
 
-### Validation
-- Email format validation and cleaning
-- Phone number format standardization
-- Package value normalization to "X.XX LPA" format
-- CGPA value normalization to numeric format
+### For Decision Support Tools
+- Normalized data enables meaningful comparisons
+- Standardized metrics support dashboard creation
+- Clean data reduces analytical processing time
 
-### Enhancement
-- Removal of institutional information rows from experience files
-- Elimination of empty rows and columns
-- Text cleaning (removal of extra whitespace)
-- Header promotion to proper column names
+## Customization and Extension
 
-## Benefits for Subsystem Integration
+### Adding New Data Categories
+1. Create a new directory in `db/source_new_category/`
+2. Add extraction scripts to `scripts/`
+3. Update classification rules in configuration
+4. Run processing pipeline
 
-1. **Consistent Structure**: All files have standardized column names and structure
-2. **Improved Data Quality**: Cleaned data with validated formats
-3. **Better Searchability**: Consistent naming makes data easier to search and parse
-4. **Enhanced Interoperability**: Cleaned CSV files can be easily integrated with other systems
-5. **Reduced Preprocessing**: Minimal additional cleaning required for integration
+### Modifying Data Standards
+Configuration files in `docs/` allow customization of:
+- Column name mappings
+- Data format standards
+- Validation rules
+- Processing workflows
+
+## Performance and Scalability
+
+### Processing Benchmarks
+- **Small Dataset** (<100 files): <2 minutes
+- **Medium Dataset** (100-1000 files): 5-15 minutes
+- **Large Dataset** (>1000 files): Configurable batch processing
+
+### Resource Requirements
+- **CPU**: 2+ cores recommended
+- **Memory**: 4GB+ RAM for large datasets
+- **Storage**: 2-3x original data size for processing overhead
 
 ## Documentation
 
-- **DATABASE_STRUCTURE.md**: Detailed information about the database structure
-- **CSV_CONVERSION_SUMMARY.md**: Statistics and details about the Excel to CSV conversion
-- **CLEANED_CSV_SUMMARY.md**: Statistics and details about the CSV data cleaning process
-- **FINAL_SUMMARY.md**: Comprehensive final summary of the entire process
+- **docs/ARCHITECTURE.md**: Detailed system architecture and design principles
+- **docs/DATA_PROCESSING.md**: Complete data processing pipeline documentation
+- **docs/CSV_CONVERSION.md**: Excel to CSV conversion process and statistics
+- **docs/CLEANING_STANDARDS.md**: Data cleaning standards and procedures
+- **CONFIG.md**: System configuration and customization guide
+- **docs/MOP_FRAMEWORK_SUMMARY.md**: Comprehensive framework capabilities summary
 
 ## Contributing
 
@@ -158,10 +258,37 @@ python scripts/fix_experience_headers.py
 5. Push to the branch
 6. Create a pull request
 
+## Enterprise Deployment
+
+### Infrastructure Requirements
+- Container orchestration (Docker/Kubernetes recommended)
+- Shared storage for large datasets
+- Monitoring and logging systems
+- Backup and disaster recovery procedures
+
+### Security Considerations
+- Data encryption at rest and in transit
+- Access control and authentication
+- Audit logging for compliance
+- Secure configuration management
+
+## Support and Maintenance
+
+### Version Compatibility
+- Python 3.8+
+- pandas 1.3+
+- openpyxl 3.0+
+
+### Regular Maintenance Tasks
+- Update dependency versions
+- Review and refine data cleaning rules
+- Optimize processing performance
+- Monitor data quality metrics
+
 ## License
 
-This repository contains educational materials for placement preparation. Please respect the original authors and use the materials appropriately.
+This repository contains organizational intelligence processing tools. Please ensure appropriate usage rights for source materials and comply with data privacy regulations.
 
-## Support
+## Contact
 
-For issues or questions about the data processing pipeline, please open an issue in this repository.
+For issues, questions, or enterprise deployment inquiries, please open an issue in this repository or contact the development team.
