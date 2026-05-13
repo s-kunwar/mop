@@ -1,16 +1,9 @@
-Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15
-,"#132, AECS Layout, IT Park, Kundalahalli, Bangalore-560037",,,,,,,,,,,,,
-,"CMR
- Institute
- of Technology",,,,,,,,,,,,,
-,Department of Electronics and Communication Engineering,,,,,,,,,,,,,
-,Deloitte Placement Experiece (AY 2021-22 ),,,,,,,,,,,,,
-Name,USN,Aptitude Test,JAM,Interview,Technical Subjects,Email,Contact Number,CGPA,Company Name,Package,No. of rounds & Names of those,Questions asked during F2F interview,Feedback,Offer Letter/Proof of Communication
-KARAN BHAGAT,1CR18EC082,,,,,kabh18ec@cmrit.ac.in,,,,7.6 LPA,,,,https://forms.gle/342eTwkouJQBCGpQ7
-MEHUL KUMAR,1CR18EC116,,,,,meku18ec@cmrit.ac.in,,,,7.6 LPA,,,,https://forms.gle/342eTwkouJQBCGpQ7
-MOSES MONIE A,1CR18EC123,,,,,momo18ec@cmrit.ac.in,,,,7.6 LPA,,,,https://forms.gle/342eTwkouJQBCGpQ7
-SANKET KUMAR SATPATHY,1CR18EC181,,,,,saku18ec@cmrit.ac.in,,,,7.6 LPA,,,,https://forms.gle/342eTwkouJQBCGpQ7
-SOUMIL BISWAS,1CR18EC200,,,,,sobi18ec@cmrit.ac.in,,,,7.6 LPA,,,,https://forms.gle/342eTwkouJQBCGpQ7
-SRI SAGAR KP,1CR18EC202,,,,,sakp18ec@cmrit.ac.in,,,,7.6 LPA,,,,https://forms.gle/342eTwkouJQBCGpQ7
-T SHRUTHI,1CR18EC214,"Aptitude test was conducted on AMCAT platform. QA( 25Q 35mins), LR(25Q 35mins), VA(25Q 25mins). It was an adaptive test.",,"Questions of moderate difficulty were asked, be thorough with your resume",Basic understanding of one programming language/ DBMS,tshr18ec@cmrit.ac.in,7022938675,7.67,Deloitte USI,7.6 LPA,Aptitude and Tech/HR Interview,"Technical Questions:              Difference b/w C++ & Java, What ismarker interface? Can we create a variable inside an interface? What is the scope of that variable?, Explain Quick Sort Algo, What is error boundary?, Diff. b/w Linked List and Array List, Program to swap values of two variables without using temp, How will you disable F5 key on your laptop using a browser; ReactJS(related to my internship): Difference b/w functional and class components, react hooks, how to make a function render only once?                Puzzles:  3L & 5L water jug, fitting footballs in a room, basic decoding                        HR Questions: What do you fear the most?, What is your biggest failure?, Most exciting thing that happened in the last 3 days, Do you like reading books? What's your favourite?",,https://forms.gle/342eTwkouJQBCGpQ7
-THIRUMALESHA V,1CR18EC217,,,,,thiv18ec@cmrit.ac.in,6361339882,7.87,Deloitte USI,7.6 LPA,,,,https://forms.gle/342eTwkouJQBCGpQ7
+Name,USN,Aptitude Test,Interview,Technical Subjects,Email,Contact Number,CGPA,Company Name,Package,No. of rounds & Names of those,Questions asked during F2F interview,Offer Letter/Proof of Communication
+KARAN BHAGAT,1CR18EC082,,,,kabh18ec@cmrit.ac.in,,,,7.6 LPA,,,https://forms.gle/342eTwkouJQBCGpQ7
+MEHUL KUMAR,1CR18EC116,,,,meku18ec@cmrit.ac.in,,,,7.6 LPA,,,https://forms.gle/342eTwkouJQBCGpQ7
+MOSES MONIE A,1CR18EC123,,,,momo18ec@cmrit.ac.in,,,,7.6 LPA,,,https://forms.gle/342eTwkouJQBCGpQ7
+SANKET KUMAR SATPATHY,1CR18EC181,,,,saku18ec@cmrit.ac.in,,,,7.6 LPA,,,https://forms.gle/342eTwkouJQBCGpQ7
+SOUMIL BISWAS,1CR18EC200,,,,sobi18ec@cmrit.ac.in,,,,7.6 LPA,,,https://forms.gle/342eTwkouJQBCGpQ7
+SRI SAGAR KP,1CR18EC202,,,,sakp18ec@cmrit.ac.in,,,,7.6 LPA,,,https://forms.gle/342eTwkouJQBCGpQ7
+T SHRUTHI,1CR18EC214,"Aptitude test was conducted on AMCAT platform. QA( 25Q 35mins), LR(25Q 35mins), VA(25Q 25mins). It was an adaptive test.","Questions of moderate difficulty were asked, be thorough with your resume",Basic understanding of one programming language/ DBMS,tshr18ec@cmrit.ac.in,7022938675,7.67,Deloitte USI,7.6 LPA,Aptitude and Tech/HR Interview,"Technical Questions:              Difference b/w C++ & Java, What ismarker interface? Can we create a variable inside an interface? What is the scope of that variable?, Explain Quick Sort Algo, What is error boundary?, Diff. b/w Linked List and Array List, Program to swap values of two variables without using temp, How will you disable F5 key on your laptop using a browser; ReactJS(related to my internship): Difference b/w functional and class components, react hooks, how to make a function render only once?                Puzzles:  3L & 5L water jug, fitting footballs in a room, basic decoding                        HR Questions: What do you fear the most?, What is your biggest failure?, Most exciting thing that happened in the last 3 days, Do you like reading books? What's your favourite?",https://forms.gle/342eTwkouJQBCGpQ7
+THIRUMALESHA V,1CR18EC217,,,,thiv18ec@cmrit.ac.in,6361339882,7.87,Deloitte USI,7.6 LPA,,,https://forms.gle/342eTwkouJQBCGpQ7
