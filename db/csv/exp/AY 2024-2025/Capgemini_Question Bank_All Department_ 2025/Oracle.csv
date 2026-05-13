@@ -1,0 +1,75 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.
+MCA,Anusha B Y,1CR23MC012,Capgemini,4L,"In aptitude round,there was three sections to clear.In first section there was code snippets ,mcq questions related to dsa,java ,computer networking.In second section there was an essay writing on the given topic which should be within 100-200 words.In third section there was a game round which includes puzzles,memory games etc.",it was included in second round english assessment test.they have given the topic about rush in a bus .,,"they asked basic java questions and also about sql.they also asked about the projects.To speak about ratan tata in 1 min,about strength and weakness,who is the inspiration to us,short term and long term goals.Few basic questions in software engineering.","java basic questions like methodoverloading,overriding,oops concepts,arrays,strings,stack,queue,agile method,features of java.sql questions like ddl,dml queries,joins,operations.","code snippets of java which includes operators and methods.c++,SQL"
+MCA,Sahana S,1CR23MC092,Capgemini,4LPA,"Quantitative aptitude, logical reasoning based games, Online communication round, and Personality test",No,No,"HR and Programming questions were asked 
+1. Self introduction
+2. Comparison between Chennai and bangalore traffic 
+3. Who is my role model?","(I was asked which programming language I was familiar with, I said Java)
+1. Features of Java
+2. Threading concepts
+3.Explain the final keyword in variable 
+4. Exception handling","Two questions were asked 
+1. Simple lopping question
+2. String and permutation based"
+MCA,NISARGA N,1CR23MC068,Capgemini,4LPA,"There were two rounds in the Capgemini Interview process.
+
+Round 1(Written Test): The test was divided into four sections and each section was an elimination round. If you clear the first section, only then you will get to another section.
+
+Pseudo-Code: There were around 25 questions that you have to solve within 30 minutes. The questions were related to bitwise operators, if-else, loops, switch statements, and recursive functions. The level of questions was easy to medium.
+
+If you clear the pseudo-code section, you will immediately proceed to the next section. 
+
+Essay Writing: Candidates had to compose a 200-word essay on given topic within approximately 15 minutes.
+
+Game-Based Aptitude Test: This section contains four types of games.
+
+Motion Challenge: You have to throw the red ball into the black hole by clearing all the obstacles in the path. You have to do it in the minimum possible steps.
+
+Inductive Logical Thinking: The grids on the left side follow a rule. You have to find out the two grids from the right which follow the same rules as the left.
+
+Deductive Logical Thinking: There is an NXN matrix that contains N symbols. Each column must have all the symbols and no symbol should be repeated.
+
+Grid Challenge: This challenge checks your concentration and memory. First, you will be seen lots of circles on the screen along with only one colored circle .you have to remember the position of the colored circle as the slide will disappear within 2 or 3 seconds.
+In the next slide, a question will be asked whether the given images are identical or not and you have to click the right answer at the same time.
+
+
+Symmetric or not?
+
+Again a number of circles will be shown in which one would be colored and you have to memorize its position. In continuation, a question to check symmetry between two figures will be asked. This process will continue. And at last, you have to click all the circles in the same order in which it has been shown to you.
+
+Behavioral Round: This is a personality check round and not an elimination round. You have to answer 100 questions in 20 minutes.
+
+SVAR Test: This was an online test which you are supposed to complete within the time mentioned, focusing on English speaking skills. It includes approximately 7 sections with different tasks(repeat what you hear, say the sentences that appear on the screen).",,,"Round 3(Technical + HR): Personal Interview
+
+In this round, they mainly are interested to check our subject knowledge, communication skills, and problem-solving skills. The interview was of 15-20 minutes duration.
+Firstly the interviewer asked me to introduce myself.
+Then he asked me about basic DBMS questions like joins, keys, and normalization. He also asked me the query to retrieve data from certain columns.
+Some more questions on the basis of skills and technology mentioned in my resume. (Prepare your resume thoroughly).
+Then he also asked a situational-based question which I answered confidently.
+After it, HR questions started.
+What makes you fit for this role?
+What is your hobby?(I said reading books and hence he asked me which book did i read recently and who is my favorite author)
+What are your interests apart from the study?
+Why Capgemini?
+And the last question was Do have you any questions for me?(Well I asked him ""Can you describe the company culture?"", ""What are the next steps in the hiring process?"")
+
+Here are some tips to help you do well:
+
+Focus on Pseudo-Code: More focus and practice pseudo-code, particularly focusing on bitwise operators (because 70% of student got eliminated in this round only).
+Essay Writing: Pay attention to spelling, punctuation, and structure. Craft a three-paragraph essay with novel ideas supported by facts.
+Gamification Round: Practice various games available online to grind critical and creative thinking skills.
+SVAR Test: Find a quiet spot, maybe do it at mid-night, and use a good microphone. Focus on the questions and answer naturally.
+Coding and Interview Preparation: Practice extensively and familiarize yourself with common technical topics. Be prepared for both scenario-based and technical questions and be confident.
+
+My Result: I got selected!!
+
+Best of luck to all future candidates embarking on their placement journey!!",Few questions on DBMS topics,
+"Important Links for Placement Preparation:
+
+https://prepinsta.com/capgemini-syllabus/
+
+https://www.interviewbit.com/java-interview-questions/
+
+
+
+
+",,,,,,,,,,

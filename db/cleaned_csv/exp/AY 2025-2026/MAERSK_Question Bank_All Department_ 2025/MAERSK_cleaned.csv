@@ -1,0 +1,187 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Online Exam Pattern
+","Important Links for Placement Preparation
+"
+AIML*,Ankitha T,1CR22AI016,Maersk,10.83,Just basic pattern match and blood relation,..,..,They asked questions out of the resume and the projects which are unpredictable,"What is docker 
+ What is vectorB",Nothing,Mcqs and code,No
+AIML*,Harshini R,1CR22CI020,MAERSK,10.83 LPA; 50k pm for internship,-,-,-,-,"ROUND - 1
+ - Tell me about yourself
+ - About projects in detail (especially about AI/ML and GenAI stuff)
+ - Text cleaning and preprocessing
+ - Neural networks working
+ - Activation functions
+ - Simple DSA question on arrays (no language preference)
+ - SQL Joins (Asked about SQL Windows but I said I didn't know)
+ - Metrics for model evaluation - Confusion Matrix, Precision and Recall, F1 score
+ - Transformers
+ - Rest API and Fast API theoretical fundamentals
+ - Challenges you faced in your project (Explain about how you solved them as well even if they don't ask)
+ - If you are given a problem that you do not how to solve or are asked to work with a technology that you do not know; and no seniors or peers can help you, what would you do to solve it?
+ 
+ ROUND - 2
+ - Tell me about yourself
+ - Choose your fav project and explain about it
+ - Questions related to project's tech stacks
+ - Multiple sales-based scenarios or challenges and how would you deal with them?","Given an array and a die, if die roll is even, sum of all even elements of an array and if odd, sum of all odd numbers of the array.","MCQs based on ML and SQL, 1 coding question",
+AIML*,Asifa Bandulal Beedi,1CR22AI024,MAERSK,"50,000 for internship",,,,"Tell me about yourself , Tell me about the most innovative project you completed, Tell me about how do you handle conflicts in team . Some scenario based questions.","Project discussion in very detail, tech that you used to build it .Might ask to write a pseudocode of few functions. Asked about the ML concepts , LLM architecture , Agentic workflow orchestration , SQL queries , Frameworks for ML Pipelines ,was asked a lot on the tech mentioned in the resume",Was asked BFS traversal in graph,,
+AIML*,G Likhitha,1CR22AI041,Maersk,10.8 LPA,,,,"Technical Round :
+ 
+ This round was quite casual, and I genuinely enjoyed the conversation.
+ In-depth discussion of my academic and projects, including tech stacks used and the challenges I faced.
+ Some scenario-based problem-solving questions to assess logical thinking and approach to solutions.
+ 
+ HR Round:
+ 
+ The HR round was quite formal and focused on assessing my personality, communication skills, and overall cultural fit for the organization.
+ During the conversation, I was asked to speak about Generative AI for 2 minutes, where I explained its core concept, highlighted some real-world applications, and discussed its transformative impact on various industries.
+ I was asked situation-based questions, specifically around how I would apply AI to solve real-world problems in various scenarios
+ My GitHub profile was also reviewed to assess my project work.","What are the evaluation metrics used for different types of ML algorithm
+ What is the YOLO model, and how does it work?
+ What is the best LLM to use for building a chatbot, and why?
+ How can you use LLMs like GPT to enhance chatbot performance?
+ What is a typical percentage split between training and testing datasets in machine learning, and why is this split important?
+ How do you handle and normalize multilingual text data from different countries using NLP techniques?
+ What are AI models with example, and how are they helpful?
+ Can you explain the end-to-end workflow of your project, including the tools, technologies, and steps involved from data collection to deployment
+ What is BERT?
+ What are the types of AI agents?
+ How would you ensure data privacy and security while developing and deploying a chatbot?
+ Can you walk me through the complete NLP pipeline you follow when building a Natural Language Processing application
+ What are Transformers in AI?","Remove vowels from a give string (Time complexity)
+ Longest substring without repeating charecters(Time complexity)
+ Write a Pandas query to retrieve the records of each course with the students who scored the maximum marks in that course",,
+AIML*,G Likhitha,1CR22AI041,Maersk,10.83 LPA,,,,"Technical Round:
+ This round was quite casual, and I genuinely enjoyed the conversation.
+ It involved an in-depth discussion of my academics and projects, including the tech stacks I used and the challenges I faced.
+ I was also asked scenario-based problem-solving questions to assess my logical thinking and approach to solutions, as well as some use case–based questions.
+ 
+ HR Round:
+ The HR round was more formal and focused on assessing my personality, communication skills, and overall cultural fit for the organization.
+ During the conversation, I was asked to speak about Generative AI for two minutes, where I explained its core concept, highlighted real-world applications, and discussed its transformative impact across various industries.
+ I was also asked situation-based questions, specifically on how I would apply AI to solve real-world problems in different scenarios.
+ Additionally, my GitHub profile was reviewed to evaluate my project work.","Machine Learning & AI Questions
+ What are the evaluation metrics used for different types of ML algorithms?
+ What is the YOLO model, and how does it work?
+ What is the best LLM to use for building a chatbot, and why?
+ How can you use LLMs like GPT to enhance chatbot performance?
+ What is a typical percentage split between training and testing datasets in machine learning, and why is this split important?
+ How do you handle and normalize multilingual text data from different countries using NLP techniques?
+ What are AI models, with examples, and how are they helpful?
+ Can you explain the end-to-end workflow of your project, including the tools, technologies, and steps involved from data collection to deployment?
+ What is BERT?
+ What are the types of AI agents?
+ How would you ensure data privacy and security while developing and deploying a chatbot?
+ Can you walk me through the complete NLP pipeline you follow when building a Natural Language Processing application?
+ What are Transformers in AI?","Remove vowels from a give string (Time complexity)
+ Longest substring without repeating charecters(Time complexity)
+ Write a Pandas query to retrieve the records of each course with the students who scored the maximum marks in that course",,"Data Structures & Algorithms (DSA): Solved Easy to Intermediate level problems, focusing on pattern-based learning such as Two Pointers, Sliding Window, Binary Search, Recursion, and Hashing.
+ Machine Learning: Covered all major learning models (Supervised, Unsupervised, and Reinforcement Learning), explored different algorithms (Linear Regression, Logistic Regression, SVM, KNN, Decision Trees, Random Forest, Gradient Boosting, etc.), and studied key evaluation metrics (accuracy, precision, recall, F1-score, ROC-AUC).
+ Natural Language Processing (NLP): Revised core concepts including tokenization, stemming, lemmatization, stopword removal, word embeddings, sequence models, Transformers, and pre-trained models like BERT and GPT.
+ Python Libraries: Revised NumPy and Pandas concepts such as array manipulation, indexing, broadcasting, data cleaning, merging, and aggregation.
+ SQL: Practiced queries involving JOIN, GROUP BY, HAVING, subqueries, window functions, and performance optimization techniques.
+ Core Computer Science Subjects: Revised Software Engineering & Project Management (SEPM), Database Management Systems (DBMS), and Operating Systems (OS).
+ Version Control & Tools: Practiced Git/GitHub for code versioning and collaboration.
+ Project Review: Prepared end-to-end explanations for my projects, including workflows, tools/technologies used, challenges faced, and deployment process."
+BE-ISE,ROHAN KUMAR JHA,1CR22IS116,MAERSK(AIML ENGINEER),10.83LPA,"• Part 1 - AI / ML MCQ Assessment – 15 Q, 30 min
+ • Part 2 - Database SQL MCQ Assessment - 20 Q, 20 min
+ • Part 3 - Coding Assessment - 1 Q, 15 min
+ • Part 4 - Written English Test - 1 Q, 20 min",Nil,Nil,"2nd round : tech + managerial(30-45 mins)
+ 
+ Introduction
+ Detailed discussion on ml project..same as first round but more emphasis to tech stack and techniques used..why was it used ..count vectorizers, cosine similarity internal working.
+ Ensemble methods (stacking,bagging & boosting)
+ How to handle missing/null values 
+ PCA,pandas
+ Have you worked with any LLM api's
+ 
+ 
+ Preferred language & why? 
+ Rate yourself in python
+ Basic python questions(list tuple string)
+ 
+ 
+ Rate yourself in sql
+ 2 medium level sql queries consisting of group by,top ,limit ,offset,order by
+ Sql vs mongodb
+ About mongoose 
+ Can we structure schema of mongodb? 
+ 
+ 
+ About Ai 
+ Generative ai
+ Prompt engineering 
+ Chatgpt ,bert ,bart 
+ LLM , transformers
+ How does chatgpt function internally..
+ What does gpt work on.. supervised or unsupervised learning 
+ How can you get a info of next election results from chatgpt if tha data is not fed to it.
+ Applications of generative for the company
+ RAG
+ 
+ 
+ 
+ 1.Which role do you prefer aiml or software developer.
+ 2.If you were assigned to a different tech stack other than ai by your manager what would you do ..
+ Will you be open to switch tech stack if needed?
+  
+ 
+ Give a 1 minute speech on ai revolution in the next 5 years 
+ 
+ Where do you see yourself in 5 years?
+ About extra curricular activities & sports.","1st round :Technical interview (30-45) mins
+ 
+ Introduction 
+ Detailed discussion about projects ,real world applications & tech stack questions on(nlp,porter stemmer-stemming,count vectorizers, cosine similarity,data preprocessing,ml models, performance metrics,datasets used & size, feature engineering,numpy,pandas,streamlit,outlier z score,overfitting vs underfitting and its representation).
+ About supervised & unsupervised learning 
+ Kmeans ,knn
+ Decision tree
+ 
+ 
+ Sql:
+ Joins(venn diagram & explain)
+ Sql contraints
+ Difference between
+ 1.stored procedure & function 
+ 2.Primary key foreign key 
+ 3.union & union all
+ 4.drop, delete, truncate 
+ sql subqueries
+ 5.rdbms & dbms ..mongo vs mysql
+ 
+ Dbms: 
+ Acid properties 
+ Normalisation
+ Ddl & dml commands
+ 
+ Question on preferred coding language & why ,its datatypes
+ What are conditional statements 
+ In which instances do we use for & while 
+ 
+ 
+ JavaScript:
+ Let var const 
+ Datatypes 
+ Http methods- get post put patch , delete & explanation 
+ about express js
+ About Api -rest,flask ,fastapi
+ Code for https methods (get put post)- pen paper
+ About json & xml","Preferred language-Python..
+ easy level questions 
+ Rest api (get,push) code pen paper",,
+BE-CSE,Reet,1cr22cs148,Maersk/AIML Intern,1083000,,,,Not selected,"SQL Window functions
+ SQL Joins
+ SQL Where Clause
+ SQL Joins (Time Complexity)
+ Relu and Sigmoid functions
+ Basics of Large Language Models
+ Basics of Neural Networks
+ Introductory questions on transformers
+ In-depth questions related to ai/ml projects in resume
+ In-depth questions related to resume and skills",Python- List comprehension,AIML Section- Advanced/Professional level questions related to AIML. Sql section- intermediate level sql. Dsa- 1 easy question. English writing.,
+AInDS*,Lakshitha S R,1CR22AD060,Maersk,10.83,-,-,-,"Questions about project, Python, sql and ML","What is dictionary, difference between list and set, supervised and unsupervised Learning, triggers in sql, DDL and DML languages","SQL
+ Given an employee dataset with employee id, salary and department attribute. Retrieval max salary with employee id in each department",-,-
+BE-ISE,Saketh Padmanabhuni,1CR22IS128,Maersk,10.83,No aptitude,No JAM,No GD,Lot of cross questions regarding resume and what I did during my time at college,"Explain projects
+ Explain BERT
+ Explain Transformers
+ Differences of Encoders and Decoders
+ Fast API, Rest API and PostMan","Solve min of array without built-in function, any language
+ Bit manipulation, any language",,

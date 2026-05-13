@@ -1,0 +1,58 @@
+Sno,Company name,Technical Questions,Programming questions,Personal interaction
+1,Cognizant ,"1. Basic html questions. 
+2. Oops concept.
+3. Syntax of dbms like creating a table etc
+4. To write queries from a given table.
+5. Basic syntax and definitions from python.
+6.Difference btw foreign key and primary key 
+7. Simple SQL queries
+8. Difference between C vs C++
+9. Using namespace std;   -> it's explanation ","1. General questions on C++
+",
+2,Bosch Drive,"1. ""Questions related to language provided in resume 
+Eg. Python 
+2. Features, how it will advance in future, how different it is compared to other languages.
+3. Libraries, some coding questions, OOPS concepts, DS ""
+4 Django,flutter cross questions
+5. On project",1. Sorting,
+3,Deloitte ,"1. Sorting algorithm
+2. Search method
+3. Oops 
+4. DBMS
+5. Project ""
+6. ""What is ML
+7. What is multiclass regression
+8.Program to count no of words 
+9.Real word regression example with internal and external factors.
+10.Java oops concepts.
+11. Questions related to my Java project ""
+12. How was your progress with Deloitte interviews throughout the day ","1. Java : Swap a number without a third variable
+2. Java rotate matrix""
+3. Program to count no of words (any language)
+4. Program to replace a word (python)
+5. Program to split 2 words (python)""",
+4,Ceptes Software Drive,"1. Difference between python and Java
+2. Why is python better than java?
+3. Comparison between different languages
+4. What is IaaS, PaaS, SaaS? Different types of databases. 
+5. What is DDL and DML?
+6. What is salesforce",No programming questions were asked ,
+5,Capgemini(Dec),"1. My projects and internships.
+2. DBMS , OOPS , DSA,OS and HR questions ",1. What is Slicing in Python?,
+6,TATA ELXSI,Explain Project,"1. What is the use of internal keyword in OOPs?
+2. Reverse individual Words in a String","About Family background, "
+7,Publicis Sapient,"1. Questions related to the topics which I mentioned in resume, 
+2. About final year project","1. C++ code snippets 
+2. simple programs were given to solve and  some puzzles were also asked.","Why should I hire you?
+Where you are willing to see yourself in future?"
+8,Lights& Wonder,General technical interview ,,
+9,Publicis Sapient,"1.Completely project related questions
+2. Oops, Networking 
+3. Data Structures","1.LeetCode Balloons problem : Find Maximum number of balloon
+2. Program to find Prime Numbers Between given Interval","What are your strengths, weaknesses ?
+How would your friends describe your positive and negative traits?"
+10,Tata Elxsi,"1. questions on c programming, pointers, 
+2. data structures, linked list basic
+3. In Techical interview they asked about project,oops ,basic questions on programmimg languages 
+4. questions were asked based on what you have mentioned in your resume","1. sorting program
+2. reverse of a number program",

@@ -1,0 +1,14 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.
+BE-CSE,Aditya Raj,1CR21CS012,Amadeus,"INR 12,62,218","There was 30 aptitude questions which needs to be solved in 25 min. All questions were related to data interpretation and graphs. 
+There was 25 verbal related questions needs to be solved in 18 min. A 10 line paragraph was there from which a question was asked. From one paragraph, 2 to 3 questions were there.",No JAM,No group discussion,"HR Interview:
+There was around 15 questions she asked. All were general HR questions like why should i select you, tell me your strength and weakness, Why you want to join Amadeus, Tell me a time when you took lead role in your project.","Technical Interview:
+1. About Project and questions related to that.
+2. three DSA questions.
+(i) Merge two sorted linked list
+(ii)Find the first occurrence of a palindrome substring present in a string.
+(iii)Implement stack (overflow and underflow).
+3. DBMS: Different type of keys and then he asked me to write a query for a problem statement. Difficulty level of query question was easy.
+4. Stages of Software Development Life Cycle and explain in detail.","(i) Merge two sorted linked list
+(ii)Find the first occurrence of a palindrome substring present in a string.
+(iii)Implement stack (overflow and underflow).
+You can choose any programming language. I did with Java ."

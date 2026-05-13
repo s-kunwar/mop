@@ -1,0 +1,206 @@
+Column_0,Column_1,Column_2,Column_3,Column_4
+S.No,Name of the Company/Drive,Personal interaction,Technical questions,Programming questions
+1,ELLUCIAN,"The questions mostly were on 1) HR type  and  
+2) The students were asked with the situational based questions.","1)Cloud based questions were the common. 
+2)coding questions -sorting the numbers,
+ 3)even or odd question
+4)Questions related to the project work.","1)To print the prime numbers and to print the unique prime numbers from the set of numbers were asked.
+2)MCQ based on DBMS,OOPs etc were asked."
+2,Phonepe,"1.HR type questions
+2.Project based questions","1.OOPS based questions
+2.Output based questions
+3.Linux based
+4.Networking
+5.Python Script","1.Find the current age of person if dob is given in java
+2,Sum of digits until it becomes a unit number
+3.Merge two arrays
+4.Calculate discount based on conditions"
+3,Mathco,"1.Questions on the projects being done
+2.Perefernce of Programming Language and questions related to it","1.Questions on Machine Learning
+2.Supervised and Unsupervised Learning
+3.Reinforcement Learning
+4.K-means
+5.SVM
+6.Hyperplane
+7.Regression
+8.classification","1.Reverse a string using python
+2.Remove duplicates using python"
+5,Outcomes,1.Questions related to resume and project,"1.Questions on DBMS
+2.What are the 4 plllars of OOPS?
+3.Puzzle Questions","1.Programming Questions on Data structure
+2.Two sum problem"
+6,MSG,"1.Questions based on projects
+2.Questions based on full stack","1.Basic DSA Questions
+2Sorting.
+3.Questions related to pointers
+4.In depth questions on projects","1.MCQ questions based on computer fundamentals.
+2.Output prediction questions
+3.Verbal Communication questions"
+7,Epsilon,"1.Internship related questions
+2.Webite Development
+3.Selling a water bottle-Marketing
+4.Block Chain Questions
+5.Regsarding college","1.Basic SQL questions
+2.Rate in SQL
+3.Triggers in SQL
+4.Graphs and Trees
+5.DFS,BFS
+6.Recursion
+7.Transaction in Database","1.Compettitive programming questions
+2.Parity bit program
+3.Few plants are given and 1 mug of water you have to waterthe plants by prioritizing
+4.Buyer  Seller problem -Max profit
+5.Array is given find the subarray with mximum value."
+8,Accenture,"1.Personal Introduction
+2.Internship
+3.Conflicts related Internship
+4.Least favourite subject and how you cope up
+5.Related to Project
+6.Strengths and Weakness
+7.Challenges faced during Project","1.Questions based on Computer Networks
+2.Psuedocode
+3.Basics of SQL
+4.Question on OOPS
+5.Microsoft Excel office questions
+6.Questions based on Cloud
+7.Questions on DBMS","1.Check a number is round or not
+2.Pattern based Aptitude questions
+3.Coding and Decoding questions
+4.Bood Relations
+5.Directions questions
+6.Seating arrangements
+7.Programming through a game"
+9,Capgemini,"1.Personal introduction 2.Normal HR questions
+3.Java based questions
+4.Project based questions","1.Questions based on Cloud
+2.Binary trees
+3.Prefix Postfix Evaluation
+4.DBMS based questions
+5.Pseudo code questions","1.From the array you have to seggregrate numbers as even or odd with minimum number of steps
+2.Scenarion based programming question"
+8,Maesrk,"1.Questions based on Projects
+2.Interest in stock market and questions related to it
+3.Questions based on Bit Coin","1.Questions from DBMS
+2.ACID property
+3.Writing simple SQL queries
+4.JRE in Java
+5.Real life examples
+6.Polymorphism
+7.Multiple Inheritance
+8.Reverse a linked list
+9.Depth First search
+10.Security related questions based on database","1.Leet code programming questions
+2.To check how many palindromes are possible using a set of characters
+3.How to read the contents from CSV file?
+4.A die is rooled if the number is even sum of all even elements of array and if number is odd then sum of all odd numbers"
+9,Surewaves,"1.Personal Introduction
+2.Questions based on Project
+3.Given a situation and then to analyse about it","1.Basic questions reated to common subjects like operating systems, Data structures etc.",1.Only Aptitude questions in the first round
+10,Oracle,"1.Questions on innovation skills
+2.Questions on General Knowledge and communication skils","1.Questions based on Java and OOPS
+2.SQL queries","1.Python program to find  a number is prime or not
+2.Fibonacci series"
+11,Oracle- CSS-GSC,"1.Personal questions
+2.Questions related to Project","1.Basic OOPS questions
+2.SQL query","1.32 questions in total
+2.Coding question based on KMP algorithm
+3.SQL questions
+4.30 MCQ based OOPS,DBMS,"
+12,KickDrum,,,"1. 2 coding questions
+2.28 MCQ questions based on Data structures,Cloud computing etc.were asked"
+13,Ascendion,"1.Questions about yourself 
+2.About the company, projects, working hours flexibility, challenges etc.","1.Resume based discussion including projects and skills in resume(line by line scrutiny)
+,2.discussion on databases, 
+3.handling null values
+4.interviewer gave an example dataset and you have to write code to handle null values using pandas and numpy, 
+5.DBMS joins, project based discussion
+ 6. questions from oops 
+7. SQL queries 
+8.basic programming questions.","1.Missing Keyboards(coding)
+2.Factorial of final sum(coding)
+3.Verbal ability 
+4.Cognitive ability(logical reasoning)
+5.Programming aptitude had pseudocode, data structures and algorithms, time complexity based mcqs"
+14,Himitsu labs,"1)Introduce yourself
+2)Why do you want to join this company?
+3)How do you spend your free time and how it shapes you as a person?
+4)How do you face challenges and explain with an example you faced?
+5)Questions regarding the previous internships.",,"1)Write a function to generate all combinations of well-formed parentheses for n pairs.
+Input: n = 3
+Output: [""((()))"", ""(()())"", ""(())()"", ""()(())"", ""()()()""]
+2)Write a function to rotate an array k steps to the right.
+Input: nums = [1, 2, 3, 4, 5, 6, 7], k = 3
+Output: [5, 6, 7, 1, 2, 3, 4]
+3)Write a function to group anagrams from a list of strings.
+Input: [""eat"", ""tea"", ""tan"", ""ate"", ""nat"", ""bat""]
+Output: [[""eat"", ""tea"", ""ate""], [""tan"", ""nat""], [""bat""]]"
+15,Swift,"1.About the project.    2.Assignment questions discussion,3.how to estimate number of ac's in May 2025 with and without data",Nil,"1.reverse a string, 2.palindrome, 3.anagram 4.Second smallest element in an array"
+16,Zepto,"1.They showed me a picture of product in Zepto application 
+And said to tell me the mistakes in catalogue and image 
+2.And asked me to tell  what all features you can add to a bell pepper description rather than weight and size 
+3.When did u feel proud of yourself 
+4.What you’ll do if u get bored of this work
+Also 
+5.How do u use ai in your life and academics",nil,nil
+17,MsgGlobal,"1.Self Introduction
+2.About the projects and Hackathons","1.Basics of OOPS
+2.DBMS and SQL questions","1.To count the sum of the consecutive numbers
+2.Two logical solving problems"
+18,7th Gear,"1.Project Based
+2.RAG
+3.LLM
+4.Some technical senerio based questions relevant to a company who is providing service to the clients.
+5.One coding question (medium level leetcode)
+6.Questions regarding models, how we train them, how they work etc",1.Gave 24hrs time to build a AI project that takes transcripts of conversation between people in text form as an input and can predict the objective of the conversation.,"1.Determine if a number is palindrome 
+2.reverse an array
+3.merge two sorted array and return merged array in sorted form
+4.given 2 input strings check if both the strings are rotated versions of each other or not
+
+Aptitude:-
+1.There are 2 jars of 5l and 3l and we need to measure 4l water
+2.There are 2 conveyer belts one is moving at 10m/s and other is moving at 20m/s, there are 2 blocks initially on the 1st conveyer belts seperated by 1m distance, what will be the seperation between the blocks after 1sec the frontier box reached the second conveyer belts.
+3.A man and a train is running in same direction with speed of 6 and 66m/s respectively, the train took 10 sec to pass the man, find length of train.
+4.you have 5 similar balls in which one is heavy,and a wring machine, you need to determine which ball is heavier.
+5.there are 100 doors all closed.one person opens all doors in first go if doors are closed and closes them if they are open , then every second round he does the same thing with every second door,he repeats the same with every 3rd door in the third round and so on,how many doors will be open after 100th round."
+19,Scalar Academy,"1.Personal Introduction
+2.Situation based questions
+3.IPersonal Interest
+4.Why this Job?",NIL,NIL
+20,EsyaSoft,"1. Personal introduction
+2.Questions on project","1.Program to print pattern
+2.SQL based questions
+3.Print second hoghest salary using SQL
+4.OOPS concepts","1.Two programming and 2 SQL questions
+2.Write a program to print first non repeating alphabet
+3.Given a string , sum up the difits and check if it is prime or not
+4.Given two tables customers and purchase 
+5. Sum up the total purchases and return the maximum one
+6.Return recent purschases made by unique customers"
+21,ANZ Bank,"1.Personal Introduction
+2. Questions from Resume and Project","1.Sorting algorithms
+2.Greedy Algorithms
+3.Searching Algorithms",
+22,7-11 Global Solutions,"1.Personal Introduction
+2.Questions from Resume
+3.Discussion about company, 
+4.my goals, 
+5.how internship will benefit me
+6.biggest life lesson from college apart from academics and general questions.","1.About Python libararies
+2.SQL based questions
+3.odes like palindrome, hash-maps or dictionarie
+4. python data structures 
+5.queries like second highest salary, common table expressions etc.
+ML based questions
+6.collinearity
+7.curse of dimensionality 
+8.one hot encoding, 
+9.undersampling and oversampling,
+10. ML models, linear regression equations and best fit had to be judges based on a graph drawn by the interviewer, epsilon or bias meaning in wx+b, what is slope and some basic like pi, tan45,e value
+11. logistic regression, 
+12.threshold value of LR,
+13. ROC curve, Bell curve, 
+14.Standard normal distribution, 
+15.Confusion matrix, accuracy, sensitivity and specificity, 
+16.Conditional probability and Bayes theorem,",1.Programming questions based on Python and SQL
+23,Unisys,"1.Personal Introduction
+2.Scenario and Behavioual questions",,

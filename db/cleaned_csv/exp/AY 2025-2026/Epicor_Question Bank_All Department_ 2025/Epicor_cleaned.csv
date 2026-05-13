@@ -1,0 +1,204 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Online Exam Pattern
+","Important Links for Placement Preparation
+"
+BE-ISE,Devika G,1CR22IS046,Epicor,14LPA,"Questions on aptitude was easy level, mostly focusing on percentages, coding decoding, ranking arrangements.",,,2 coding questions related to arrays and stacks. Projects related questions. Logical reasoning questions,DSA 2 coding questions,"Buy and sell stocks 1, stack question. Any programming language","Aptitude, DSA, ADA, SQL, DBMS, RESTful APIs",
+AInDS*,Varun Kumar M,1CR22AD122,Epicor,14 lpa,Na,Na,Na2,"Round 1 - Technical:
+ Oops,DBMS,sql query,1dsa question(on paper), projects in detail, technical skills in resume 
+ Round 2 - Manageral:
+ 1 project in detail,2 dsa questions(on laptop)
+ Round 3 -HR:
+ Resume go through, project, about company","Sql: 
+ 1.How to find 2nd highest salary 
+ 2.How to find distinct elements in a column 
+ 3.Difference between sql and no sql
+ 4.MongoDB 
+ Oops:
+ 1.abstraction
+ 2.classes and objects 
+ 3.interface","Dsa:
+ 1.finding frequency of elements of an array without using dictionary (on paper)
+ 2.Rotate array problem(to do in laptop)
+ 3.string question,
+ input: abc2[de]f
+ output: abcdedef",,
+AIML*,Sayan Mondal,1CR22CI045,Epicor,14 Lakhs,Basic quantitative and logical reasoning question were asked.,There was no JAM session,There was no Group Discussions,Didn't clear till HR Round,"Questions on OOPs. 
+ Implemention of Abstraction in Java. 
+ OOPs concepts in java. 
+ About REST APIs. 
+ Decorators in Python. 
+ Questions on projects mentioned in the Resume.","Code to swap two numbers without using third variable. 
+ Code to find the frequency of numbers in the given list.",,
+BE-ISE,Veeresh Nayak,1CR22IS183,Epicor,14 lpa,"First round consisted of 7-8 rounds of MCQs like
+ 1. Aptitude 
+ 2. Verbal
+ 3. Sql
+ 4.Cloud
+ 5. A coding question on sliding window technique 
+ 6. DSA
+ 7. Time complexity",,,,"Technical Interview :
+ Write a program to
+ 1. Find transpose of a matrix
+ 2. Check if given two words are anagrams
+ 3. Return an array of repeated elements from a given array of integers","Write a program to
+ 1. Find transpose of a matrix
+ 2. Check if given two words are anagrams
+ 3. Return an array of repeated elements from a given array of integers
+ 
+ Any language is considered ( preferably JAVA)",,
+BE-ISE,Rayavarapu Megha Chowdary,1CR22IS114,Epicor,14LPA,"Easy-Medium questions with timers for each section(sections- SQL, APTITUDE, VISUAL REASONING, CLOUD, DATA STRUCTURES)",,,,"Explain about RDBMS
+ Why is Normalization done, how and the types of Normal forms
+ OOPS concepts
+ Algorithms of sorting functions
+ REST API vs SOAP API
+ Recursive functions","2D matrix Backtracking 
+ Any programming language",,
+AIML*,Jonathan Frazer,1CR22CI022,Epicor,14LPA,"Basic aptitude, Encoding Decoding, Ranking and Ordering, Permutations, Combinations",,,"About background, family history, why specifically this company. Whether wanted to pursue masters or not","Database Normalisation Forms 1NF, 2NF, 3NF.
+ Given an array and an integer 'a'. Move the first 'a' elements to the back of the list.
+ Questions on projects.
+ (Note that the use of python for some of the questions was discouraged. Highly encourage any candidates to learn Java or C/C++ for interview questions)","Problem
+ Given a String: ""abbababacfefg"" (Can be string of any length)
+ An integer N = length of the string
+ and an Integer k: 2
+ 
+ Find the largest window that will always have at most k distinct characters
+ 
+ Eg:
+ input = ""abbaacac""
+ length = 8
+ k = 2
+ 
+ Window Size 2
+ ""ab"" -> 2
+  ""bb"" -> 1
+  ""ba"" -> 2
+  ""aa"" -> 1
+  ""ac"" -> 2
+  ""ca"" -> 2
+  ""ac""-> 2
+ Valid
+ 
+ Window Size 3
+ ""abb"" -> 2
+  ""bba"" -> 2
+  ""baa"" -> 2
+  ""aac"" -> 1
+  ""aca"" -> 2
+  ""cac"" -> 2
+ Valid
+ 
+ Window Size 4
+ ""abba"" -> 2
+  ""bbab"" -> 2
+  ""baac"" -> 3 > k X
+ 
+ Invalid
+ 
+ Output:-
+ 3
+ 
+ 3 Is the largest Window size we can fit for the given problem
+ 
+ 
+ ANSWER:-
+ ```
+ import java.util.*;
+ 
+ public class LargestWindowWithKDistinct 
+ { 
+  public static int findMaxWindow(String s, int n, int k) {
+  int low = 1, high = n, 
+  result = 0;
+  while (low <= high) 
+  {
+  int mid = (low + high) / 2;
+ 
+  if (isValid(s, mid, k)) 
+  {
+  result = mid; // mid is valid, try to go higher
+  low = mid + 1;
+  } else {
+  high = mid - 1; // mid is not valid, go lower
+  }
+  }
+ 
+  return result;
+  }
+ 
+  private static boolean isValid(String s, int windowSize, int k) 
+  {
+  Map<Character, Integer> freqMap = new HashMap<>();
+  int l=0;
+  int r=0;
+ 
+  // Initialize the frequency map for the first 'k' characters
+  while(r < windowSize)
+  {
+  char cR = s.charAt(r++);
+  freqMap.put(cR, freqMap.getOrDefault(cR, 0) + 1);
+ 
+  if(freqMap.size() > k)
+  return false;
+  }
+ 
+  //Slide window
+  while(r < s.length())
+  {
+  char cR = s.charAt(r++);
+  char cL = s.charAt(l++);
+  freqMap.put(cR, freqMap.getOrDefault(cR, 0) + 1);
+ 
+  freqMap.put(cL, freqMap.get(cL) - 1);
+  if (freqMap.get(cL) == 0) { 
+  freqMap.remove(cL);
+  }
+ 
+  if(freqMap.size() > k)
+  return false;
+  }
+ 
+  return true;
+  }
+ 
+  // Example usage
+  public static void main(String[] args) {
+  String input = ""abbaacac"";
+  int k = 2;
+  int result = findMaxWindow(input, input.length(), k);
+  System.out.println(""Maximum valid window size: "" + result);
+  }
+ }
+ ```","Section based:- 1. Attention to Detail, 2. General Aptitude, 3. Programming, 4. Software Design Patterns(MCQ), 5. Database Management Systems(MCQ), 6. Cloud Computing (MCQ), 7. Rest API(MCQ)",Just study TYL notes and Leetcode Medium to Hard
+AIML*,Sannareddy Hemanth,1CR22AI101,Epicor,"14,00,000","There were 10 aptitude questions in the online assessment, mainly consisting - encoding, blood relations, time, ranking and ordering.",,,"Technical Interview - OOPS, Networking and DSA questions(Dutch National Flag problem)
+ Managerial Interview - Projects, problem solving questions, ""what kind of a developer do you want to be?""
+ HR Interview - Casual conversation, about yourself, future prospects, strengths.","Classes and Objects
+ TCP related
+ Inheritance in OOPS","Dutch National flag problem
+ Loop in linked list
+ Reversal of linked list","Used Mercer Mettl, 9 sections, each with individual timer.",
+AIML*,Ajay J,1CR22CI002,Epicor,14LPA,Tyl questions mainly reasoning type question,Explain all of ur projects,No group discussion involved,"Complete introduction, tell me about ur resume , aspirations in life , where do u see urself in life after 3 yrs, technical questions from leetcode for problem solving 
+ Stock buy and sell, hashmap q , one more array sub partion q based on constrains.,
+ Scenario based q how to u guide and assistt the lowest contribution person in a project team , how will u uplift them . Detailed information and questions related to projects",Same mentioned in the previous list,"Python , C 
+ Stock buy and sell 
+ Hashmap q
+ Duplications elements 
+ Array partion and relocation based on constrains 
+ And logic analysis",.,
+BE-ISE,G.L.K. Abhiram Reddy,1CR22IS049,Epicor,"14LPA, 50K Stipend for 1 Year Internship",Aptitude was straight forward and not complicated.,-,-,-,"Explain pillar of OOPs
+ What is Normalization in DBMS
+ Difference between SQL and NoSQL
+ Pain Point you are solving in your projects
+ How will you implement Stack in JavaScript/Java",0,-,"https://www.ambitionbox.com/interviews/epicor-software-corporation-interview-questions
+ https://www.geeksforgeeks.org/interview-experiences/epicor-interview-experience/
+ https://www.pathrise.com/companies/epicor-software
+ OOP Interview Questions : https://www.youtube.com/watch?v=R_uqDROtXSk
+ OOPs In-depth Interview Questions : https://www.youtube.com/watch?v=u99wAoBjDvQ
+ DBMS Interview Questions: https://youtu.be/jNbStxNKyCg?si=7Fl7zuswl8UWEsgk
+ 
+ Bubble Sort: https://youtu.be/CYD9p1K51iw?si=Ij2uBrkxOMPQd3-n
+ Quick Sort: https://youtu.be/YQhfIoK8UDY?si=nvV8EndQOGSuAhfk
+ Insertion Sort: https://youtu.be/W-4qYm6ZnJc?si=1Q8qmXXUopWQ31kN
+ Selection Sort: https://youtu.be/8ps1XQigk7U?si=mFZuJlBDVacR6tUG
+ Merge Sort: https://youtu.be/g1AwUYauqgg?si=PlB3FlswUpjmIOJc
+ Heap Sort 
+ Concept: https://youtu.be/2DmK_H7IdTo?si=y3HJfHxrQinc9hAS
+ Complexity Analysis: https://youtu.be/d1HbgAFE1kU?si=zj69n9gTqGZQ1c3N"

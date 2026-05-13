@@ -1,0 +1,346 @@
+Sno,Company name,Technical Questions,programming questions
+1,Ellucian,"1.Basic knowledge on React, Node.js,MongoDB,
+2. Java Programming concepts,
+3.Moderate Programming Qs
+4. OOPS concepts, Project related questions, Java Classes, Python basics, Array related questions.
+5.  JAVA Collection Frameworks, C and C++ basic questions - Constructors, Destructors, Memory Allocation, structures, 
+6. DBMS definitions (Primary key, foreign key, unique key),
+7. GitHub related questions and commands 8. 
+sep
+=====
+8.Write code in an IDE to check for odd and even numbers.
+9.Frame SQL queries based on given scenarios.
+10.The situational questions revolved around handling work challenges and teamwork experiences. 
+11.JavaScript Code snippet, to predict it's possible output
+12.What is SQL and NoSQL
+13.What is MongoDB
+14.How to limit number of elements in database using MongoDB
+15.What are CSS Grid, How to deploy it
+16.How to style a text in center in HTML
+17.How do you design and implement RESTful APIs?
+18.What is your experience with Python frameworks Django ?
+19.How do you use Docker for containerization?
+20.How do you design and deploy cloud architecture?
+21.What is your understanding of the SaaS model?
+22.How have you implemented or integrated Ellucian Journey AI in your projects?""
+23.Reading a file in python
+nov
+======
+string manipulation pattern based question which was there in online assessment along with that in depth questions about resume and projects
+DBMS concepts
+Resume related concepts
+MYSQL
+JAVA OOPS
+Project related
+Data Structurtes and Algorithms
+","1.Parathesis Checker & Prime Number
+2.Java basics 
+3.Programs like Multiplication Tables - Language of your choice
+4. Reversal of a String and Array - Python
+5. C programing questions                                                                                                                                                                                  6. Correct Output based questions in languages such as C++, C, Python and Java.                                                             7.DBMS questions on query output on languages such as MySQL and POSTGRESQL.
+
+sep
+=====
+8. write a program to check even or odd numbers, in Java language
+9. Find the LCM of two given numbers(No specific language mentioned)
+10.Create a Docker container and write a Python script to run inside it.
+11.Implement a simple RESTful API using Django.
+12.Prime TIme
+13.Prime factors in a range
+october
+=========
+14.Valid Anagram
+15.Saddle Point in a Matrix
+16.Eliminate more than 1 consecutive vowel
+17.maximum sum submatrix
+18.String matching 
+19.Missing number in array
+20.choose whatever language you want to code in OA as well as in Interview
+21. to check if 2 words are anagram or not
+22. pattern matching,ex: give 2 string """"""""""""""""bombay"""""""""""""""" an """"""""""""""""om*"""""""""""""""", it should print """"""""""""""""ombay""""""""""""""""
+23. find saddle points in a matrix, points in a matrix which have the highest value in a row and lowest value in column, print index in sorted order
+24. given string , remove single vowels, if continuos not remove it, for ex """"""""""""""""abbaabb"""""""""""""""" will be """"""""""""""""bbaabb""""""""""""""""
+25. given matrix of n*n, find m*m matrix with maximum sum, 2<=m<n
+I used python, but mostly every language was there.
+nov
+============
+Any language question was you're given a array return a list of unique no such that most frequent comes first and if frequency same then the bigger no comes first 
+Prime TIme
+Prime factors in a range
+"
+2,Eurofins,"1. project related questions
+2. OOPS concepts and DBMS concepts
+3. Web based questions
+4. React and Node JS
+october
+========
+5.Valid Anagram
+6.Saddle Point in a Matrix
+7.Eliminate more than 1 consecutive vowel
+8.maximum sum submatrix
+9.String matching 
+10.Missing number in array
+11.choose whatever language you want to code in OA as well as in Interview","1. find the missing number in an array , numbers are from 0 to n
+2. permutations of a string
+3. given cites, make to functions connect(a,b) to connect two cities and isconnected(a,b) to check if they are connected or not
+they asked to write the code + dry run
+4.""1. to check if 2 words are anagram or not
+5. pattern matching,ex: give 2 string """"bombay"""" an """"om*"""", it should print """"ombay""""
+6. find saddle points in a matrix, points in a matrix which have the highest value in a row and lowest value in column, print index in sorted order
+7.given string , remove single vowels, if continuos not remove it, for ex """"abbaabb"""" will be """"bbaabb""""
+8. given matrix of n*n, find m*m matrix with maximum sum, 2<=m<n
+I used python, but mostly every language was there.
+Only 5 test cases were there for each,and chances of TLE i felt is very low as timing were pretty much high, 99sec for python""
+9. Maximum Subarray
+10. Anagram string program
+11. Write a Program on Balanced paranethesis
+12. Write a Program to find Missing number in an array
+13. Write a Program to find the maximum subarray"
+3,Surewaves,"1. Complete project explanation                                                                                                                                                                                                                                                                                                 2.SQL queries                                                                                                                                                               3.OOPs  concepts                                                                                                                                                                   4. DBMS,pseudo code                                                                                                                                                                                                                                                 5.OOPs,HTML,CSS,JS","1. OOps 4 pillars based programming                                                                                                                                                                                                                                                                      2. Question on -Linked Listed 
+3. Palindrome-was made to do some modifications based on interviwer
+HashMap-question"""
+4,Surya Software,1. Primary key Foregin Key concepts from DBMS                                                                                                                                                                                                                                        2. Object Oriented concepts                                                                                                                                                                                                                                                                          3. DBMS concepts                                                                                                                                                                                                                                                                                       4. Question based on Technology mentiond in the resume,"1. Coding question anagram and subset array                                                                                                                          2. Valid parenthesis(preffered language)
+"
+6,Accenture ,"1. SDLC-Knowledge of different Software development phases
+2. Resume-mini project based questions
+3. oops based concepts 
+4. SQL commands  
+5.Project related queries- frontend, backend
+6. basic questions from python, c and java
+7. DBMS Questions, primary key  , unique key constraints
+8. Name few machine learning algorithms
+9. About few electronic components Like LDR, Arduino
+10. DBMS queries
+11.What are packages and modules in python
+12. Name 5 modules used in python
+13. They asked about PEP in python?
+14. Inheritance, inheritance types, difference between tuple and list.
+15. Questions related to my project such as my role in my project and questions related to computer networks.
+16. SQL Joins SQL keys SQL BASICS
+17 What is database?
+18 ER diagram and database concepts
+
+",Mostly questions are from project and DBMS queries
+7,Epsilon,"1. Graphs and pie chart questions
+2. Pattern recognition based questions
+3. Simple LR and aptitude questions
+4. C# and oops concepts                                                                                                                                                                                                                                                                                        5. database concepts.  
+6. graph based Questions 
+7.oops concepts 
+8. Data Structures and Alogorithm 
+9.Sql queries,.","1. How to reverse a string                                                                                                                                                                                                                                                                                                           
+2.fibonacci series . "
+8,Epicor,"1.SQL queries 2. DBMS definitions like Primary key, unique key, DDL, DML, DCL, TCL, DQL, etc -
+3.OOPS concepts which include 4 pillars, super keyword, Constructor chaining. 
+4. HTML and CSS question on flex box, what is display : block means
+5.HTML tags basic. 
+6.Question on  Project.","1.Largest and second largest salary using MySQL  
+2.Java strings and arrays based programming.
+3. Reversal of string
+4. Classes and objects based questions
+5.finding substring in a given string
+6.sorting algorithms 
+7. Print all the odd index element in an Array
+8. Check if a String is a Palindrome
+9. Reverse a String by words (Ex : Hello CMRIT --> Output : CMRIT Hello) 
+10.Permutation and combination question to be coded in any language"
+9,Maplelabs,,
+10,"
+Impelsys","1. Basics of DS,
+2. Python, Database
+3. MySQL
+4.WHAT IS JOINS
+5. What is OOP
+6. Difference between Object and Array
+7.Pillars of OOP
+8. Relationship between tables
+","1.easy to moderate level questions on Arrays. Any programming language is fine.
+2.Sum of the numbers in an array
+ 
+"
+11,"KOCH
+","1. project Explanation
+2. OOPS concepts
+3.  Networking concepts
+4. Database concepts
+
+
+","1. Return index of array
+2. Print only vowels only string
+3. Python
+4. Program to print the position on the element in the array.
+5. Program to print a number series with the formula 2^a1+2^a2+...+2^aN
+6. Language - python
+7. To add sum of 2^n using functions
+8. To remove the space between the string using functions
+
+
+
+
+"
+13,"
+Oracle","1.1 REST API question, 1 DSA question, rest questions were related to computer fundamentals, aptitude and English comprehension.
+
+2.""There were two rounds probably the first round covered more of technical questions of easy level and questions related to your projects.
+The second round was a mix of technical and HR ,where your language fundamentals(like Java basics,OOPs, Dbms basics) were tested and more aligned on HR questions, situational based questions and questions on what we know about the company.""
+3.""Difference between RDBMS and NoSql.
+4.Why you preferred the specific technology or tech stack for your project.?
+5.Abstraction,Abstract and Interface.
+6.SQL query to find all duplicates and their count from database, how to delete duplicates.
+7.SDLC(software development life cycle steps)
+8.What is default package in Java language that JVM initialises.?(Lang package)
+9.What is importance of static in Java main function.?""
+
+10.Was asked questions regarding the things mentioned in the resume only. Questions about project and dbms questions. Concentrated more on the dbms questions.
+11.""Dbms query writing.
+
+11.Oops concepts like inheritance, abstraction
+12. ava concepts 
+13. Focused more on dbms concepts""
+
+14.It was good experience, mostly they asked about projects ,then concepts like oops,abstract class,interface, and DBMS concepts
+15.""Oops,java concepts like abstract function,, interface,finally,try catch
+16. RDBMS,SQL Queries""
+
+
+17. OOPS and DBMS concepts
+18.oops,dbms,sql queries,project,java,palindrome ques,strength weakness,some scenario based ques.
+19.plaindrome,oops with real life example,technologies used in project,
+20. highest marks from student table query
+","1.""Given a number say 
+Input = 555
+You need to add the digits of given input number and boil down to a single digit
+5+5+5=15
+1+5=6 
+
+Output= 6
+
+Only the logic was asked to explain.""
+2.""Reverse a string without using any functions (python)
+""
+3.Try catch finally block in java,leap year program in java
+4. Prime number
+5.Java Coding
+6.Program on how to reverse a string without using any functions"
+14,FIS,"1. Introduction,projects,scenario based questions
+2.Basic Coding Questions
+odd even program,technologies mentioned in project.
+
+
+","1.java and C basic Programs
+"
+15,Microland,"1.Basic C question and questings based on project in your resume.
+2. Questions based on c Coding and concepts",1.  C language coding
+16,cimpress,"1.Oops concepts
+2.DBMS 
+3.Data structures
+4.Linked List
+5.Normalization concepts
+6.Key concepts
+","1.Given n computers where each computer is denoted by values [rj,sj, cj] rj denotes RAM, sj denotes speed, cj denotes cost. Given Q queries where each query contains [Rj,Sj] find the computer with the minimum cost for each query, if no computers exist return -1 
+"
+17,o9 Solutions ,"1.MySQL and aptitude 
+2.Project based technical questions
+3.Linked list questions
+4.Basic Data Structres
+5.Concepts of Views and Supply chain Management
+6.Mongo DB","1. SQL questions joins 
+Coding questions like LinkedIn list and arrays and strings "" 
+2.Matrix multiplication program
+3. Reverse a string
+4.Fibonacci series
+5. SQL queries related to joins , triggers""
+6.Two table, Avg salary of each dept - sql query
+7. NoSql coding"
+18,Flow Edge,"1.There were 3 sections in aptitude round.
+logic and reasoning
+technical
+quantitative""",1. Programs based on linked list and array
+19,Toprankers,"1. DSA
+2.SQL
+3.oops concepts","1.logical questions from oops(Java inheritance in depth),sql-joins,recursion,linkedlist implementation,queue,stack,css,html, dbms- indexing in depth"
+20,MSG Global Solutions Drive,"1.The questions related to java oops,focused mainly on Java basics,and sql
+2.Java questions on encapsulation, polymorphism and array list. 
+3. Java concepts, arraylist, exception handling 
+4.Oops concept, queries of sql","1.Dbms basic queries 
+2.Questions on opps(explain with code), interfaces, collections in Java, Sql"
+21,Publicis Sapient ,"1.Resume based completely and basics of oops and dbms 
+2.hierarchy in exception handling,jdk vs jvm vs jre ,primary key and foreign key, projects,hr question
+3.Dbms sql queries on joins , primary and foreign key","1.Sql Triggers, Sql queries, DC, SDLC,bubble sort,project"
+22,Mu Sigma,"Project Based questions, Scenario based questions","Question on Python - Data Structures,SET,DIctionary, JOINS used in SQL"
+23,Carrier,1.SQL                                                                                                                                                          2.OOPS                                                                                                                                                           ,1. DS programs-linkedlist and sorting
+24,SophisTex,"1.Aptitute Questions                                                                                                                                            2.Technical questions on CNS, OS, DBMS were asked                                                                              3. Questions related to project were asked                                                                                                                                                                                                                                                                                                                                                                                                                 ", 1.  Questions on ABAP debugging were asked   
+25,Federal Bank,"More than 12 questions were asked from quants, verbal,basic reasoning,etc",
+26,Tech Mahindra,"Questions on Oops concepts , Operating Systems and mysql were Asked","Basic Questions on OOPS, DBMS , MySQL were asked"
+27,KOCH,"............................................
+
+1.Aptitude contains basic aptitude questions.
+2.Coding Test contains coding questions from basic programming , OOPS ,and medium questions on DSA
+3.CS Theory questions  on network and cloud computing questions (Difficult)
+4.Questions on difficulty faced in the Final Year Project?
+5. Situation based/Behavioural HR Questions were asked
+6.Question like tell us something apart from your resume
+7.how did improve your communcation,soft skills,interpersonal skills?
+8.what is your take on AI?
+9.Why did you choose engineering ?
+10.where you been team leader?1. Final Year Project 
+11.About Strength and weakness
+12.Having Internship in the resume is add on and I have been asked question on Spring boot and hibernate as I have worked in it in my Internship.
+13.One puzzle was asked in which I was given 10 blue balls and 10 red balls and we need to pick one by one alternatively and need to put in a box. What will be the minimum number of turn it will take to form a pair with the same color in the box.(Answer was 3).","1.Detailed Follow-up questions from the Final Year Project
+2.What is Polymorphism 
+3.What is Inheritance 
+3.What is Dataand Data type
+4.Major questions on OOPS concepts (arround 75% ) , one programming question, discussion on my project. 
+5.No questions was asked in DBMS,OS and CNS."
+28,Iron mountain ,"1.Started with the introduction
+2.Asked me to rate myself in programming languages I have worked on.
+3.Questions on Projects or internship.
+4.what is the one thing that the student liked about Iron Mountain in the pre placement presentation.","1.Questions on Involves angular, 
+2.Medium level python questions .'"""
+29,"Wonksknow, Bangalore","Round 1 - AI interview 
+- 5 questions were asked, students had 1 minute to answer each question which was displayed for 5 seconds. 
+Questions were 
+1.Give your introduction
+2.what are the sensors used in traffic control and driving
+3.why are there different programming languages etc.
+
+Round 3 and 4 were Personal Interview (Technical) 
+4.wherein student was asked about my project 
+5.questions regarding the trainer and developer role, 
+6.how to handle real time situations that might arrive 
+7.why student wanted this job.
+","
+1. What is flutter? 
+2. Questions related to full stack development 
+3.Which logic gate is used in two-way switches? 
+4.Internal implementation details of RAM"
+30,Quantiphi,"Around 65 question were asked
+   1. 2 coding questions Introduction
+   2.some resume questions
+   3.BA analyst role and responsibility, 
+   4.regarding website and their service offered ",1. Write palindrome code
+31,Epsilon,"Round - 1
+1.intro, 
+2. Questions on SQL theory,
+3. SQL queries.
+Round  - 2
+1.scenario based SQL queries
+2.behavioural question 
+3. Questions on digital marketing                         
+Round 3 Managerial round
+1.behavioural question
+2. simple hr questions ",
+32,Talent trek E learning,"1.Introduce yourself.
+2.What is sales.
+3.Why do you want to join sales.",
+33,Airstem Labs,"1. Questions on programming concepts
+2.Explain different loops and explain the difference between them
+3. Behavioural questions were asked                                                       ",
+34,phonepe,"1. Explain how search engine works. How it retrieves the data
+2. Explain the process of how email works.
+3. Difference between Authentication and Authorisation","1. Determine age (java)
+2. Classes and Object (Python)
+3. Sum of Digits
+4. Character Occurrence
+5. Calculate Discount
+6. Merging Two Arrays"

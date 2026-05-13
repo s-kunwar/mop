@@ -1,0 +1,17 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Online Exam Pattern
+"
+AIML*,Ujwal s r,1CR22AI123,AP Moller Maersk,10.8,"Online test, Very less aptitude question in online Interview","It was all about approaches to product development and internship experience.
+No HR round but there were 2 technical rounds.
+ Only HR question was ""Tell me about yourself.","Machine learning core, regularisation, quantization, model over fitting, API's, pipeline construction, list and tuple, back-propogation
+What are the evaluation metrics used for different types of ML algorithms
+  What is regularization
+  How can you avoid model overfitting
+  Explain PCA.
+  How do you build an end-to-end ML workflow using APIs
+  What are embeddings
+  What is quantization in fine-tuning
+ 
+  Project-based Questions:
+  What was the role of Retrieval-Augmented Generation (RAG) in your project?
+  How did you use the Gemini API in your project?","Python 
+ SQL, Difference between a list and a tuple in Python.","2 DSA, 20 MCQ on SQL, ML, 1Codiing question, 1 Descriptive English"

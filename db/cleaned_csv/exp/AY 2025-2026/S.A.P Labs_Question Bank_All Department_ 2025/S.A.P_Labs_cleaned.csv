@@ -1,0 +1,52 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Online Exam Pattern
+"
+BE-CSE,Aditya Narayan Raul,1CR22CS009,S.A.P Labs,4.5 LPA,,,,"Tell me about yourself, where do u see yourself in 5yrs, how do you handle conflicts within your team, about hackathon participation what was it about. Personal questions like how many members are there in your family what are they currently doing.","About the projects like how did you approach it, tech stack used and why, how the project works, questions on the technical skills, what is this and that keyword, how does debugging happen in javascript","3 coding questions on Reverse a string, how do u search in an BST, one SQL question(left join)",One dsa question on longest path in the grid and one question on sql queries
+BE-CSE,Undavalli Devi joshnavi,1CR22CS203,SAP,4.5L per annum,,,,"What is your role in the project?
+ 
+ In a group project if someone always delays the work or doesn't finish the work how will u tackle that problem?
+ 
+ Why should we select you?
+ 
+ Why do you want to work in SAP?","Questions on DFS and BFS
+ 
+ Difference between Tree and Graph.
+ 
+ Questions on Project and what is your role in that project 
+ 
+ If it's an AI/ML based project- what are the models used in the project.
+ 
+ Why did u chose particular language for that project.
+ 
+ Questions SQL queries.
+ 
+ Questions on SQL Join
+ 
+ Questions on DML and DDL.
+ 
+ What are ACID properties
+ 
+ Questions on Scheduling algorithms, deadlock and deadlock prevention.
+ 
+ Linux commands for copying a file when you are not the owner of the file.
+ 
+ Which language is executes in terms of interpretability and compilability between Java, Python and C.","Find the number of palindromic substring in the given palindrome string(what is the approach that you use)
+ and the time and space complexity of the approach used.
+ 
+ No language specification","10 MCAQs (which includes Aptitude, programming and sql), 1 programming question, 1 SQL question to solve."
+BE-CSE,Saravana Sairam C,1CR22CS171,SAP LABS,4.5LPA,No aptitude questions were asked.,No JAM session.,No group discussion.,"HR only focused on asking questions related to ME. She wanted to know more about ME. My background, how i am suitable for the job, how i can handle both Mtech and work together. She asked me about my motivation and what i learnt from my internship. She also asked questions related to the company - their competitors, clients and what they do.",String question - to compare two strings and return a result removing the common characters from both strings. They asked question's related to my projects. Why I used that particular tech stack. They also asked questions related to dbms (constraints and indexing).,"We could use any programming language. There was one coding question (longest path in the grid), one sql query question and around 10 mcq questions. Mcq's were related to time complexity, finding errors in the code and choosing the correct queries that return the given output.","Dynamic programming, Sql queries"
+BE-CSE,Sameer Pandeya,1CR22CS162,SAP STAR Hiring,4.5 LPA,,,,"It was really a great experience. In HR Round, they will mostly ask questions about yourself and they will also check how much you know about the company. Additionally, they might give some scenario based questions. Sample questions: 1. Tell me about yourself apart from what you have mentioned in the resume 2. What do you know about our company? 3. How do you handle stress? 4. Tell me a time when you worked as a team 5. Tell me about your project 6. Why do you want to join our company only? 7. Why should we hire you? 8.(Scenario-based) Three of you in a team are working in a project. Your half work is completed. Meanwhile i member leaves the team and your deadline is reaching soon. What three approaches will you use to complete your project on time 9. Where do you see yourself in five years","1. Tell me about your project in detail? 
+ 2. What do you mean by encapsulation?
+ 3. What do you mean by abstraction? How can you implement it in Java
+ 4. What do you know about polymorphism?
+ 5. Do you know about SQL join operations?
+ 6. Give an example for LEFT join and also write a SQL query for the same.
+ 7. What is the difference between MYSQL and MongoDB?
+ 8. Tell me about this Hackathon event that you have mentioned in your resume? What was the problem statement and how did you contribute?
+ 9. What is react.js and jsx in react? (from resume since i had mentioned)
+ 10. What is machine learning?
+ 11. What is supervised,unsupervised,reinforcemnt learning?
+ 12. Give examples of supervised and unsupervised learning algorithms?
+ 13. Is KNN a supervised or unsupervised?
+ 14. Tell me about the OSI Model?
+ 15. Why is TCP/IP Model different from OSI Model?
+ 16. What is IP address and MAC address?","""01110011010"" This is the pattern. You have to print the maximum times consecutive 1's are there in pattern. Use java and write full code. eg. in this pattern ""111"" has max consecutive one's so o/p should be 3.",

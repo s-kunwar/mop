@@ -1,0 +1,36 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.," questions on Quantitative Aptitude, Reasoning, and Verbal Ability","Online Exam Pattern
+","Important Links for Placement Preparation
+"
+AInDS*,Bhagyalakshmi J,1CR22CD007,Ellucian,8.62 LPA,"Test had 18 questions - 1 coding, 2 Puzzles,15 MCQ",,,"Tell me about yourself, What will you do when your manager assigns you a task that you don't have any knowledge about?","Difference between for loop and while loop, explain primary key and unique key, explain memory management in python, error handling methods in python, difference between try except and finally methods, difference between break and continue statements","Reverse a string,list last 5 transactions, remove duplicates and sort the array. Programming language used was python","2 puzzles - At a party, everyone shook hands with everybody else. There were 66 handshakes. How many people were at the party?, monkeys and doors puzzle",,
+MCA,Vignesh,1CR24MC112,Ellucian,8.75,"1 programming question
+ 2 puzzle 
+ MCQ on java, python, sql.",,,,"Introduce yourself.
+ Questions about the languages mentioned in the resume.
+ About project.
+ About AI how do you integrate in your daily life.",No programming questions only code snippets for the languages mentioned in the resume.,,,
+AIML*,DHANUSH KUMAR S R,1CR22AI037,ELLUCIAN,8.85,Normal aptitude questions were asked,,,What were the challenges faced during the project,"Few questions on projects
+ what were the challenges faced while making project","Frequency of words in a sentence
+ Group Anagrams","In technical interview, they didnot ask",,
+BE-CSE,Anant Kumar Gupta,1CR22CS019,Ellucian,8.6,"It was good, basic questions only.",,,All questions are from resume only and basic technical questions.,"Difference between Css and Tailwind, Oops concepts, React basic questions.","Reverse the string, Fibonacci number.",Hat and Jug Puzzle,,
+MCA,Supriya S,1CR24MC100,Ellucian,8.62 LPA,,,,"1. Introduction
+ 2. About the Project
+ 3. Java","SQL queries, Web development and 1 coding question",Convert CSV to JSON and apply filters,,,
+AInDS*,Chandana P,1CR22AD023,Ellucian,862000,there was no aptitude round.,none,-,-,"questions on sql , oops, resume, projects and technical skills.","Given a table of employees(id, name, manager_id), write a SQL query to find all the employees who do not have a manager(i.e. manager_id is null) - sql question
+ and 2 python questions on arrays and linked list.",-,,
+BE-CSE,Shrilakshmi P Naik,1CR22CS188,Ellucian,8.62,,,,"Technical interview
+ 1.list vs set vs tuple
+ 2.singleton
+ 3.super,init and few keywords
+ 4.c,java easy to med level qns
+ 5.coding qn- balanced parentheses 
+ 6.chatgpt prompt to find code or solution",Mentioned earlier,"Hackerearth Assessment
+ 1.nth multiple(finding gcd and then multiplying with a given num)
+ Technical interview 
+ 1. Balanced parentheses
+ Managerial round
+ 1. Reverse a string( in a line)
+ 2. Prime numbers in a list",,15 mcqs+2 puzzles+1 coding(easy to med),
+BE-CSE,Swagata Ghosh,1CR22CS198,Ellucian,8.62,"Sql, aws, time complexity","Oops , html, css, java script, sql queries",,Asked mostly about projects and how can i implement Ai in my projects,"Sql quires like 2nd highest salay, difference between method overloading and overiding","Gcd, java",Puzzels,,
+BE-CSE,Sanya Vashisth,1CR22CS170,Ellucian,8.62,"Hand Shake problem , 3 men and Hats problem",How to increase security of a website other than using JWT,,"AWS related questions , What is docker lightweight ,","How to handle cookies and session, how to secure your website , HTTPS methods , HTTPS status , middleware, Authentication",Two Sum problem,,10 -15 MCQ 2 Puzzle 1 Coding question,
+BE-CSE,Anant Kumar Gupta,1CR22CS019,Ellucian,8.62 LPA,"There were 2 questions of aptitude medium level, 15 mcqs and 2 coding question.",,,Just resume and situational questions.,"It's all resume based, keep those things only in resume which you know, and all the possible technical questions from your resume.","I used java, and the question was based on bit manipulation.","3 hat puzzle, calender tricky questions.",,https://www.geeksforgeeks.org/
+AInDS*,Avantika Gupta,1CR22AD016,Ellucian,8.62 LPA,"15 questions - cs fundamentals , 2 questions - aptitude puzzles from geekforgeeks , 1 - coding question",No JAM session,No group discussion,It was purely technical.Prepare for both HR as well as technical and make sure to be clear with projects and everything written in resume,"They asked what do you know about ellucian, AWS related questions deep dive , all sorts of questions possible from resume",Minimum value from array,Just go through the top questions of cs fundamentals from interviewbit and geekforgeeks. Also prepare for some AWS questions.,"Mentioned in the preplacement talk - online assessment (18 q) , technical round and hiring manager round",Geekforgeeks interview preparation

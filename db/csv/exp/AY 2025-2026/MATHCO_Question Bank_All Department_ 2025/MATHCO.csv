@@ -1,0 +1,38 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Online Exam Pattern
+","Important Links for Placement Preparation
+"
+BE-ISE,Sneha M,1CR22IS153,MATHCO,4.5lpa,"Quantitative aptitude,logical,guesstimate,puzzles",Na,Na,"Resume everything should be known in detail, sql,DBMS, coding","Python basic programs: palindrome,fibbonaci,reverse, sql queries to right all commands have to be known, knowledge in detail abt ur projects",Python java,,"Gfg
+ Leetcode
+ YouTube"
+AInDS*,Kondreddy Charani Sai Reddy,1CR22AD057,MathCo,4.5 lpa,"There were quantitative aptitude, reasoning, pseudo code, assertion statements and guesstimate sections",,,"questions about projects, why mathco, why do you want to choose AIML? Is it because it's emerging?","Questions regarding projects, what's linear regression and how do you fit the points in a line?, questions regarding ML and deep learning","Given an integer array, construct an output array where:
+ If an element is negative, replace it with 0.
+ If it is non-negative, replace it with the sum of the element and the last non-negative output value (or itself if it’s the first element)
+ Language-Python",,GeeksforGeeks for aptitude and some logical reasoning and puzzles which you can chatgpt
+MCA,Nuha Aquil,1CR24MC073,MathCo,5.5LPA,"Basic to medium level aptitude questions. Topics included profit and loss, percentages, time and work, seating arrangement, directions, etc.",,,"1. Why do you want to join this company? 
+ 2. Why should I hurs you? 
+ 3. Questions on project mentioned in resume
+ 4. Why is our company different for you? 
+ 5. Machine learning based questions","1. Difference between lists and tuples in Java. 
+ 2. Object Oriented concepts with real world examples
+ 3. What us XG boost in ML. 
+ 4. Why is Logistic Regression used. 
+ 5. Mention and explain few clustering algorithms. 
+ 6. Mention few ways to detect outliers in ML. 
+ 7. How to evaluate and improve a model's accuracy","1. Write a program to find if a number is prime Or not (Any language) 
+ 2. Sort a given list if numbers (any language) 
+ 3. Find the running sum of a list of numbers. Reset the sum to 0 if a negative number is encountered. (any language)",,
+AIML*,Ananya Nitin Wasanad,1CR22AI136,MathCo,5.5,1st round is online assessment all mcq questions and 2nd round was speechx,,,"Project related questions, puzzle, Guesstimate questions, pseudo code","Project related, calculate running sum of a give array and make the sum 0 when -ve num encontered, 
+ 1st 2nd 3rd largest element,
+  2nd largest unique element","calculate running sum of a give array and make the sum 0 when -ve num encontered, 
+ 1st 2nd 3rd largest element,
+  2nd largest unique element ,
+ U have a dataframe in that u have a age column and names column u have to find the prime number in age and extract the corresponding name (python iloc)","Online assessment, speechx, technical interview, case based +hr interview",
+AIML*,Shivanand Gopal Gundappagol,1CR22AI104,MathCo,5.5 LPA,"round 1 : Logical Reasoning, Quantitative Aptitude, and Pseudocode",,,"In my personal interview/HR round, I was asked a mix of project-based, business case study, guesstimate, and machine learning questions.
+ The interviewer explored my academic and practical projects, focusing on challenges and improvements.They presented business case scenarios to test my problem-solving and decision-making skills.Guesstimate questions were included to assess my logical thinking and structured approach. machine learning concepts and applications were discussed to evaluate my technical knowledge.","In technical rounds, I was asked SQL queries (joins, subqueries, window functions), DSA problems (arrays, strings), along with puzzle-based questions to test logic and guesstimates to check structured problem-solving.",questions mainly related to arrays and lists in Python,Communication round,
+BE-ISE,DEEKSHA H S,1CR22IS044,MathCo,4.5,Yes,No,No,"About family background
+ Best and worst experiences in college","Sql: Calculate the average salary of the department 
+ Armstrong number
+ Buy and sell stock
+ Scenario based questions
+ Puzzles","Remove duplicates and find second largest element
+ Find second,third,forth largest elements",Mcqs,

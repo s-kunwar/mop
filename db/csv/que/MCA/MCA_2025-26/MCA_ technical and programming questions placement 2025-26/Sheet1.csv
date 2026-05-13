@@ -1,0 +1,91 @@
+Sno,Company name,Technical Questions,Programming questions
+1,Nike,,"1.Explain OOPs concepts with examples.
+
+2.Difference between abstract class and interface.
+
+3.What is encapsulation and why is it important?
+
+4.Explain the concept of inheritance with an example.
+
+5.What is the difference between ArrayList and LinkedList in Java?"
+2,Infosys,"1. What is difference between DBMS and RDBMS
+2.What is SDLC
+3. What is IOT
+4. Regarding my project
+5. What is Data structure,why we need this.?
+6. What is HTML,why we need HTML.?
+7. What is difference between Http and Https
+8. What is TCP.?
+9. What is SQL,and why we need SQL.?
+10. What is difference between SQL and MySql.?
+11. What is difference between AI and ML",
+3,oracle,"
+""1. Resume based questions 
+2. Questions on projects
+3. Problems encountered while working on projects
+4. Different Sorting techniques - bubble sort, selection sort, merge sort
+5. Core java questions 
+6. SQL queries 
+7. Normalization ""
+8. About oops concepts,
+9. multithreading, 
+10.collections from java, 
+11.difference between arraylist and linked list,
+12. difference between final and finally etc.
+13.Ques on tech stack used in project like the proper explanation 
+14.Ques on project and technical skills mentioned in resume ","1. Reverse a sentence with each word reversed, 
+2. second max salary,
+3. getting employee details whose name starts with a and has exactly 4 characters after.
+4. Fibonacci series
+5. Sorting - bubble and selection """
+4,Capgemini,"1.Difference between java and python,
+2.oops in java, 
+3.collections,
+4.use of volatile keyword,
+5. Multithreading concepts, 
+6.Method overloading and overriding,
+
+7.what is the use of string pool
+8.What is java and features 
+9. Encapsulation 
+10.Inheritance 
+11.Write reverse string program
+12.Write two sql queries 
+13.Joins
+14.What all comes in  DDL
+15.Html tags
+16.JavaScript 
+17.Difference btw java and C
+PHP
+18.JRE,JDK
+19.What are joins explain its types.
+20.Different type of Sql(DDL,DCL,DML,TCL)
+21. Java(basics, oops, collection frameworks, garbage collection)","1.Swap two numbers without using third variable in java,
+2. Program to print array elements 
+3.What is method overloading and overriding give the real world example"
+5,Accenture,Technical question was related to students project,
+6,HashedIn by Deloitte,"DBMS:
+
+1. What is normalization and its types
+2. Keys in SQL with examples
+3. ACID properties with real time examples
+4. Given a table, normalize it
+5. SQL queries
+6. ER Diagrams
+7. How to handle large data in SQL
+8. What is indexing, it's advantages and use.
+
+
+OOPS:
+
+1. What are the basic concepts in OOPS
+2. Abstraction, encapsulation, inheritance with real time examples
+3. What are interfaces
+4. Types of inheritance
+5. How to implement multiple inheritance","1. Check if strings are anagram
+2. Delete middle node in a Linked List
+3. Minimum number of swaps required to make string a palindrome
+
+Can use any programming language"
+7,F-secure,question was related to students project,
+8,"Sku logic,  AUTOMWALK ",Question was related to CV and students project,

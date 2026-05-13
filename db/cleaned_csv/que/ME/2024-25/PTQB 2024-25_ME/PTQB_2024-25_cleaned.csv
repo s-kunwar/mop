@@ -1,0 +1,10 @@
+Column_0,Column_1,Column_2,Column_3,Column_4
+S.No,Name of the Company/Drive,Personal interaction,Technical questions,Programming questions
+1,Zepto,"""1. Tell me about yourself
+2. What are the things you'll consider when you need to buy a product? 
+3. What e-commerce applications do you use? 
+4. What do you look into while buying a product like AC, smartphone or a refrigerator? 
+5. Why did you consider only python and not R? 
+6. Tell me about a project you've worked on that felt very complex to you? 
+7. Do you prefer offline or online products sellers?""",Based on Project and internship,-
+2,Johnson Controls,1)Tell me about yourself. 2)Questions invólving Projects and work done in internships - 3) Did you work on frontend or backend ? 4) What technologies did you use? 5) What were the group projects like and what did you aim to achieve?? 6) Draw the architecture of database schema for banking system. 7) Is there any way it could be more efficient and less co-dependent?,"Technical Questions involving coding - 1) What is multithreading??,2) What are the states of a thread? , 3) Write a program to print even and odd nos. Using 2 threads(use join) ,","Questions invólving Projects and work done in internships - 1) Why did you choose SVM model for classification, 2) What other models can be used if more than 2 classes are to be defined in ML,"

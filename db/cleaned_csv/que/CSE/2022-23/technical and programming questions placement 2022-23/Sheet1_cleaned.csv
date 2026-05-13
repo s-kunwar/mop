@@ -1,0 +1,282 @@
+serial_number,company_name,technical_questions,programming_questions,personal_interaction_questions
+1,Cognizant,"1. Basic html questions. 
+2. Oops concept.
+3. Syntax of dbms like creating a table etc
+4. To write queries from a given table.
+5. Basic syntax and definitions from python.
+6.Difference btw foreign key and primary key 
+7. Simple SQL queries
+8. Difference between C vs C++
+9. Using namespace std;   -> it's explanation",1. General questions on C++,
+2,Ellucian,"1. Find the output of the code snippets. 
+2. I was also asked to write queries for the schemas provided.
+3. GFG puzzles 
+4. operations of link lists
+5. Hashing and encryption
+6. Cloud based concepts and implementations
+7.Tested Python knowledge","1.The interviewer had picked up one of my projects and had asked a lot of questions on that particular project. They also asked to demonstrate the project. So, I had to actually run the project, later was asked to explain some parts of the code
+2. Programs on Link list and basic data structures (JAVA)",
+3,Epicor,"1. OOPS concepts 
+2. DBMS quesries and normal forms 
+3. REST APIs
+4. Searching and sorting Algorithms
+5. Class definition
+6. Polymorphism it's types with an example
+7. Data abstraction
+8. Prevelant Operating systems in the industry
+9. What is Interface ?
+10. Explain Disc scheduling algorithms
+11. Explain Job scheduling algorithms - Bellman Ford algorithm in detail
+12. What is a thread, process, deadlock?
+13. Sql queries on joins
+14. Explain Normalization and it's types
+15. Explain Primary key and unique key and their difference
+16. All the skills I claimed in the first page of my resume. SQL Update query and find 2nd max salary.","1. Check Valid Parenthesis, 
+2. Traversal of tree, 
+3.Permutations of string in another, 
+4. Array sorting
+5. Any programming language of our choice preferably Java. 
+6. Pascal's Triangle
+7. Palindrome number
+8. Find the last element of a circular linked list. 
+9. Write Quick sort program
+10. One algorithm question and they give a input and output and ask you to write the code for it(for me it was reversing a array but using C).
+11. Write a program to remove minimum element in an array
+12. Question on oops concept
+13. Question on sorting algorithm (Linear , bubble and quick sort)",
+4,Surewaves,"1. Write the SQL Code for finding the second highest salary of an employee in the employee table
+
+2. Write the SQL Code for finding the highest salary of an employee in the employee table
+
+3. What is polymorphism explain with code
+
+4. Can one try catch block have multiple catch statements?
+
+5. What is a transaction?
+
+6. What is meant by the term Docker?
+
+7.Questions on project
+
+8. DSA questions - binary search, time complexity analysis, reverse string using recursion, find kth largest element in an array
+
+9. More questions were asked on OOPs- types of polymorphism along with code, difference between abstract class and interface, Singleton classes
+
+10. Difference between mongoDB and SQL
+
+11. Questions on DBMS- deadlocks, few sql queries and a puzzle was asked at the end","1.Write code for Fibonacci series (Open to code in any language my preference was python)
+
+2. Write a program to parse the boundary elements of a 2D matrix in clockwise direction (Open to code in any language my preference was python)
+
+3. Why are strings immutable in java and how to make them mutable",
+5,Amadeus,"""There was a panel interview instead of personal interview. There were 3 people, amongst them 1 person from HR team and 1 person from Technical side. Mostly common HR questions were asked, like :-
+1. Introduce yourself
+2. Why did you choose this company?
+3. Tell me about your hobbies
+4. Discuss on the topic """"Timeline kills Creativity""""
+5. What are the projects that you have done, and other certifications 
+6. Are you a team player, or a team leader
+After that the Technical round started. Questions were :-
+1.Explain OOPS concept in your choice of language (mine was C++)
+2. Why did you choose C++ and not Java?
+3. Write code for Operator overloading, Function overloading and Dynamic binding.
+4. Write code for Merge sort and explain
+5. Explain Quick sort
+6. Explain what is Time Complexity
+7. According to you, what is the definition of Data Structures
+8. Explain what are the ML/AI algorithms you've used in your projects.
+""Technical round(50 min):
+9.Oops:  Oops, oops pillar, Implement polymorphism(Function Overloading,  Function Overriding), More question on inheritance and polymorphism. Implement class for MakeMyTrip website.
+10. Dbms:  Normalization and its forms
+11. OS:  Multi-Threading, Multiprocessing OS, example of OS.
+12. What if two people are booking same ticket and how to handle it?.
+13. While searching for a flight how the different airline data are rendered ?""","1. Time Complexity
+2. OOPS concepts, Sorting Algorithms
+3. Linked lists, definition and manipulation 
+4. Trees and graphs
+5. ML/AI algorithms
+6. Data structures
+7.Implement Tree from scratch from the given arrays.",
+6,Bosch Drive,"1. ""Questions related to language provided in resume 
+Eg. Python 
+2. Features, how it will advance in future, how different it is compared to other languages.
+3. Libraries, some coding questions, OOPS concepts, DS ""
+4 Django,flutter cross questions
+5. On project",1. Sorting,
+7,Chainalytics,"1.Oops concepts with real time examples
+2. Basics of sql(primary key, foreign key, unique, not null) 
+3. DML and DDL
+4. Basic queries
+5. Aggregate functions
+6. Limit function in dbms Transactions, 
+7. ACID properties","1. Reverse a string
+2. Fibonacci using recursion
+3. Factorial using recursion
+4. Quick sort and merge sort implementation
+5. All OOPS concept implementation
+6. Linked list using oops
+7. Stack implementation using oops",
+8,CLARIVATE ANALYTICS,"1. implement all types of polymorphism 
+2. ""Definitions of all DS 
+3. Applications of Some DSA
+4. Project related questions
+5. Tree traversal
+6. Some basic questions related to Java program ""
+7. Thorough Discussion on projects for 35 minutes. Told to write the code of the core logic of the project , database schema and database connectivity. Further discussion on time complexity of the code and how to improve it. 
+
+8.Javascript Concept check like how to manipulate the dom , 2d array, how javascript is helpful in making the webpage interactive. 
+
+9. Thorough Discussion on 4 pillars of Oops Concept with coding. ""
+A query on updation","1. find unique elements in an array and variation of coin exchange problem
+2. ""Reverse of list items in python
+3. Elimination of repeated numbers in list
+4. String reverse program in Java
+5. Find the second maximum number in the array.
+6.  Programming language used - Java. : They asked me to code 2 coding questions. one is finding frequency of letters in a string using hashmap method the other one is printing a string excluding special characters.",
+9,Deloitte,"1. Sorting algorithm
+2. Search method
+3. Oops concepts
+4. DBMS
+5. Project 
+6. What is ML
+7. What is multiclass regression
+8.Program to count no of words 
+9.Real word regression example with internal and external factors.
+10.Java oops concepts.
+11. Questions related to my Java project 
+12. How was your progress with Deloitte interviews throughout the day","1. Java : Swap a number without a third variable
+2. Java rotate matrix""
+3. Program to count no of words (any language)
+4. Program to replace a word (python)
+5. Program to split 2 words (python)""",
+10,EY,-,1. We had an online coding round. There were 2 questions and we have 1hr 15 minutes to solve it. We could use any language,
+11,Infoedge,-,"1. Count Frequency of characters, 
+2. anagram",
+12,Hitachi vantara,"1. Oops(abstraction)
+2. Java 
+3. Compiler and interpreter
+4. SQL (ddl)",Projects,
+13,GlobalLogic,"1. OOPs: All Four pillars of OOPs with its implementation.
+2. Discuss about your favourite Algorithm in DSA(Any One)","1)Discuss about all four pillars of OOPs along with its implementation.
+2)DBMS: Find the 2nd Highest salary from a table(Queries).Rank of the Table(Queries)
+3)what is the use of internal keyword in OOPs(java)?(tricky question)
+4) Reverse individual Words in a String.",
+14,PhonePe,"1. Difference between DNS and DHCP
+2.All Linux commands in brief.
+3.Write Linux Command to list the filenames which contains numerals.
+4.TCP VS UDP
+5.TCP Hand Shake
+6. What is the process that runs in background when you search www.phonepe.com
+7. Linux CNS DBMS Cloud Computing questions","1.If you have any Project with SQL used(Write the SQL query of (any) used in the Database)
+2.Every Technical aspect of the project is queried.
+3.Android has Linux Kernel but why cant we operate the Linux OS in android phone.
+4.About the Daemon Process. 
+5. sorting, 
+6. binary search
+7.List out all the linux/unix commands known by you.
+8. Details and instructions about chmod.
+9. Difference between execute permission for directories and specific files.
+10. Technologies used in final year project.
+11. Networking questions which include osi model, 
+12. router protocol,  
+13. DNS , 
+14. difference between hub and switch , 
+15. ip adress . 
+16. Linux based questions such as its architecture,  commands. 
+17. Dbms questions include normalization,  
+18. difference between relational and non relational database and many more..",
+15,Visionet Systems Inc,"1. Basic concepts of oops, 
+2 .DSA,
+3.DBMS,
+4. Oops Concepts
+5. MySQL,about project .",No programming questions were asked,
+16,Evalueserve,"1. Python basics 
+2. Guess estimate questions 
+3. Linear regression based questions 
+4. DBMS based queries and theoretical questions","1. Basic questions related to python
+2. Lists, tuple, dictionary and project related questions 
+3.  2 rooms - 3 bulbs in one room and corresponding switches in other room. You have only one chance to enter the room and you can on only one switch at a time.how do you find the correct switches for each bulb
+4. Sorting in python, 
+5. exchanging key value pair in python, analytic based questions, 
+6. Venn diagram
+7. Unix commands",
+17,Quinbay,"1. Oops concept , basic html tags, abstraction ,interface
+2. HTML CSS JavaScript 
+3. OOPS Concept","1. Arrays sorting, String Manipulation 
+2. String Sorting
+3. Reverse a linked list (Java)
+4. Find Cycle in a linked list (Java)
+5. Find Middle element of linked list(Java)",
+18,Ceptes Software Drive,"1. Difference between python and Java
+2. Why is python better than java?
+3. Comparison between different languages
+4. What is IaaS, PaaS, SaaS? Different types of databases. 
+5. What is DDL and DML?
+6. What is salesforce",No programming questions were asked,
+19,Capgemini(Dec),"1. My projects and internships.
+2. DBMS , OOPS , DSA,OS and HR questions",1. What is Slicing in Python?,
+20,Accenture,"1. tell about your projects, 
+2.design of project implementation,",,"how would you convince your team mates to work on the project, if received any feedback in life, what is it?"
+21,Amadeus (Dec),"1.Explain OOPS concept in your choice of language (mine was C++)
+2. Why did you choose C++ and not Java?
+3. Explain Quick sort
+4. Explain what is Time Complexity
+5. According to you, what is the definition of Data Structures
+6. Explain what are the ML/AI algorithms you've used in your projects.
+and some other follow up questions were there, after that the interview was concluded.""","1. Write code for Operator overloading, Function overloading and Dynamic binding.
+2. Write code for Merge sort and explain","1. Introduce yourself
+2. Why did you choose this company?
+3. Tell me about your hobbies
+4. Discuss on the topic """"Timeline kills Creativity""""
+5. What are the projects that you have done, and other certifications 
+6. Are you a team player, or a team leader"
+22,TATA ELXSI,Explain Project,"1. What is the use of internal keyword in OOPs?
+2. Reverse individual Words in a String","About Family background,"
+23,Publicis Sapient,"1. Questions related to the topics which I mentioned in resume, 
+2. About final year project","1. C++ code snippets 
+2. simple programs were given to solve and  some puzzles were also asked.","Why should I hire you?
+Where you are willing to see yourself in future?"
+24,Lights& Wonder,General technical interview,,
+25,Testvagrant,Project,Only coding question given,
+26,TCS (Ninja),"OOPs concepts,basic HR questions.",,
+27,AXA,"About projects, goals for the next 5 years",DBMS- Queries and Joins,
+28,Entune,No programming  questions only based on project,Project related questions only,Mostly hr and personal questions
+29,dhiOmics,Technical questions related to SQL and PYTHON.,Basic Python programs,
+30,Publicis Sapient,"1.Completely project related questions
+2. Oops, Networking 
+3. Data Structures","1.LeetCode Balloons problem : Find Maximum number of balloon
+2. Program to find Prime Numbers Between given Interval","What are your strengths, weaknesses ?
+How would your friends describe your positive and negative traits?"
+31,Microland,"1. Basics about java
+2. project related questions.",Nothing,
+32,Msg global solutions,"1. DSA,coading in array ,linked list etc","1.Program to delete second last node, 
+2. Program to find minimum of two array element 
+3. Coding questions in java","""Short term goals
+Questions on hobbies and interests """
+33,QSC India,"1. Pillars in oops with real world examples
+2. Singleton, multithreading in java, why do you prefer java more
+3. OSI model, http vs https, ARPA, router, switch
+4. DDL, DML commands and sql queries
+5. Explain the testing processes you would execute on your projects(role specific question) 
+6. grep command
+7. Questions about DBMS, CNS and OOPS. 
+8. Detailed questioning about projects and resume.
+9. Asked to write code/pseudocode to questions in any preferred language.
+10. Topics asked on: Oops, cns, DBMS, java, c, OS, testing, unix, puzzles","1. Palindrome program
+2. Program to Swap two numbers without 3rd variable. Give and explain with examples all the approaches. 
+3. Program to handle Division by 0 exception (to check my knowledge in try catch block)",
+34,Tata Elxsi,"1. questions on c programming, pointers, 
+2. data structures, linked list basic
+3. In Techical interview they asked about project,oops ,basic questions on programmimg languages 
+4. questions were asked based on what you have mentioned in your resume","1. sorting program
+2. reverse of a number program",
+35,Falca ESolutions,"1. Asked for certain basic data structures questions 
+2. Difference between authentication and permission
+3. What is bubble sort ?","1. Anagram program
+2. bubble sort program
+3. quick sort program",
+36,IT Orizon,"1. OOPS concept
+2. Java Basics",,">introduction about u r self
+>hobbies
+>where do u stay
+>JAM(advantages and disadvantages of internet)"""

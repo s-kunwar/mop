@@ -1,0 +1,49 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Online Exam Pattern (If any)
+"
+AIML*,Nikhita Vinnakota,1CR21AI038,ANZ Bank,12.5 LPA,Gaming based round for aptitude,,,"Coding, MySQL, situation based questions","Python, MySQL, Project based","Binary search, factorial, Fibonacci",Gaming round and coding round
+AInDS*,Libin Martina,1CR21AD029,ANZ Bank,12.5,There wasn't exactly an aptitude round but first round was more of an game round followed by a personality test,Na,Na,"Questions were asked based on the resume and how we explain ourselves. 
+ What I know about the company
+ Why I want this company
+ Basic level programming questions
+ Basic HR questions","Basic sql queries and aggregate functions
+ Prime number program","Any language could be used
+ Extraordinary substring program",Fist is a game round and personality test after this is cleared it's a programming round after clearing this in the interview
+BE-ISE,Navya Shree R,1CR21IS104,AnZ,12.5,It was a gaming round where different skills are put to test,,,"About company, it was resume based, projects in detail","Java, SQL, programming","Programming questions were easy to medium level.
+ Programming language is your choice.","Gaming/aptitude, programming round"
+BE-CSE,Sampada R Desai,1CR21CS163,ANZ Bank,12.5 LPA,"1st assessment was gaming where we need basic maths knowledge and should think logically answer fast because there is time alloted for each section(there will be 4 section in total)and 2nd round is the coding assessment where we get programs on arrays,strings,linked list and hash map so it is better to practice leet code to master in coding",,,"It is better to know what is there is our Resume major questions were asked from the Resume itself and should know about the projects in detail.It was indeed a good experience nothing to worry about interviewers are friendly and no need to get anxious be confident of what you know and even if you don't just tell you don't have any idea about the topic and you are eager to learn about it.
+ I remember few questions which they asked me.
+ 1.Tell me about yourself apart from what u mentioned in Resume
+ 2.What kind of environment you want in your Working place list any three
+ 3.There was Scenario based question where me and my colleague are working on same project and he tells his approach is right and you know it is not how will you convince him to agree with you approach.
+ 4.Water bottle was placed in front of me and interviewer asked me how will you test this bottle and on what basis
+ 5.They asked me about my Project and problems faced while doing the project 
+ 6.They asked about the internship which I did and what did I learn from those internships and will it help you in future.
+ 7.They asked me if u had made any research about the company
+ 8.They asked me questions related to MySql it included basic queries.","Technical questions asked were very few they asked me about the project and said me to write query on insert,update and delete taking own examples",1st program was related to array not sure what exactly the question was 2nd program was to find minimum time required to execute a set of processes(process allocation).I used Java to solve the question,"Consists of 2 rounds Gaming assessment,Coding assessment"
+BE-CSE,Priyanka,1CR21CS139,ANZ Bank,12.5 LPA,Game based assessment comprising of pattern matching and selection if products and sum for given numbers.,Not applicable,Not applicable,Introduction along with project brief was asked.,"Questions related to project, internship, mentioned skills as per resume, definition of data structure, difference between array and linked list, brief about software testing and tools and brief about mongodb abd its features.",SQL query was asked.,1st round is gaming assessment and 2nd round is coding assessment with 2 questions with difficulty levels of easy and medium respectively.
+AIML*,Keerthi K,1CR21AI028,ANZ Bank,12.5,It was a game round and it was mid level not too easy or hard this test is called pyrometric test and similar questions were asked in round. It’s important to practice to keep up the speed,,,"Every single word mentioned in your resume will be asked in detail , the interview level was medium and more technical questions can be expected especially from your projects . Make sure to study every detail about ur project",Data science and ml concepts mainly,One questions from stacks and one from linked list,General pattern like other drives
+BE-CSE,Preety Shah,1CR21CS138,ANZ Bank,12.5,1st round was a gamified test.,,,"1. Tell me about yourself.
+ 2. How do you handle conflict while working as a team ?
+ 3. Tell me a time when you were not able to deliver how whatever you promised.
+ 4. Resume based projects.
+ 5. Why ANZ ?","1. SQL query to find the maximum salary
+ 2. About docker
+ 3. JavaScript based questions","1. Meeting rooms II (Leetcode) 
+ 2. Dominos Coloring (DP Question)
+ These 2 questions were asked in the 2nd round of online assessment.","Round 1: Gamified test, Round 2: Coding Round, Round 3: Offline interview"
+BE-ISE,Sruthi Prathapa,1CR21IS116,ANZ Bank,12.5 LPA,"Technical round- 1 leetcode intermediate, 1 leetcode hard
+ Game based assessment- 4 games
+ Personality questions",,,"Tell me about yourself
+ after 2 years in this role you have no technical growth u don't like your job, you are bored, you have no chances to grow in the company what will u do?
+ why did u take up engineering and how did u start enjoying it
+ How did u handle conflict with teammate
+ why anz?
+ tell me about your hobbies
+ What is your learning strategy
+ why do u think you did not get selected last time? do u think it is because you are overqualified?","In-depth about projects and technical skills mentioned in resume
+ MongoDB Query (Aggregation pipeline)
+ SQL Query (joins)
+ Python code (anything)- selection sort, merge sort, Fibonacci, binary search, etc
+ AWS related 
+ JavaScript","Python
+ Online coding round- 1 leetcode medium and 1 leetcode hard (DSA)","Game based assessmet, personality assessment, coding round (hackerrank), 3 interviews)"

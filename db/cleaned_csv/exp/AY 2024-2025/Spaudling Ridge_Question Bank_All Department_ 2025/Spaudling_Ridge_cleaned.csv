@@ -1,0 +1,22 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Online Exam Pattern
+BE-ECE,Navya Vinod,1CR21EC128,Spaudling Ridge,5LPA,"It was a mix of industrial based questions, Quantitative aptitude, Reasoning and Verbal ability. Difficulty level was moderate","Yes, there was a group discussion round, and the topic was ""Pollution."" We discussed its causes, impacts on health and environment, and possible solutions like stricter regulations, awareness, and sustainable practices. The discussion focused on clarity of thought, communication skills, and teamwork.","The personal interview included a mix of technical and HR questions. Technical questions were based on my academic background and projects, while HR questions focused on my strengths, weaknesses, teamwork, and problem-solving abilities. Some of the questions asked were:
+ 
+ Can you explain your final year project?
+ 
+ What make u perfect for this job role?
+ 
+ How would you handle a conflict in a team?
+ 
+ Where do you see yourself in 5 years?
+ 
+ Describe a time when you faced a challenge and how you overcame it?","The technical questions asked during the interview were related to core subjects from my academic background. Some of the key questions included:
+ 
+ Explain the working of a microcontroller and its applications.
+ Difference between microcontroller and microprocessor
+ Examples of microcontroller and microprocessor and its applications.
+ Which sensor did you use to detect LPG, and how does it work, and why did you choose it?
+ What is MQTT, and why did you use it in your project?
+ How did you handle real-time alerts or notifications when gas leakage was detected?
+ Can this system be scaled for commercial or industrial use? If so, how?
+ How did you handle error detection and fault tolerance in your implementation?
+ Can you explain the publish-subscribe mechanism of MQTT?",-

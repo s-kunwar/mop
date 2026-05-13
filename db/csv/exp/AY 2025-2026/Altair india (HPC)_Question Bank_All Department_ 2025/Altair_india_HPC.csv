@@ -1,0 +1,10 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Important Links for Placement Preparation
+"
+BE-CSE,Vaishnavi sharma,1CR22CS207,Altair india (HPC),30000/month,Na,Na,"1)Tell me about yourself
+ 2)will you be able to relocate?","1) Install tomcat and configure it on Linux
+ 2) what is tomcat
+ 3) name some linux os
+ 4) Explain projects Done by you related to HPC or linux 
+ 5) Explain other projects
+ 6) Add a user with password and secure it","1)Install tomcat and configure it( linux),
+ 2) add a user with password ( linux) and secure it","Learning linux commands like sudo systemcl start tomcat, or sudo adduser user1 etc."

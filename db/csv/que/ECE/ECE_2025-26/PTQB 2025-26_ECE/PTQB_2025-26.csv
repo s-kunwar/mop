@@ -1,0 +1,299 @@
+Column_0,Column_1,Column_2,Column_3,Column_4
+S.No,Name of the Company/Drive,Personal interaction/HR Round Interation, Technical questions,Programming questions
+1,Johnson Controls,"OSI model and layers
+Why AI is used and can it replace humans
+Regarding to Power Factor
+In L1 they ask mainly basics of all electronics and electrical
+During L2:
+More question were asked about project,they asked to draw block diagram of how project works,if any IOT components are used in project :mention about how many pins are there and their working,background principle of how each sensors work,if Lcd/Led is used how letters/numbers is formed?Everything should be explained briefly.
+Should be very clear about our project to explain .
+In digital electronics : Conversion of numbers from decimal to binary,octal and hexadecimal and vice versa .
+Working of flip-flops(SR,JK) with gate diagram and should explain the truth table of it.
+Why rectifiers are used?Types of it with diagram and using the same diagram we shlould explain the output waveforms ,which rectifier is used more and why.
+If 230V DC is provide make it electronics gadgets needed 24V DC with circuit diagram and explain how?In this conversion if diode consumes some voltage,how can you exactly get 24V DC?
+Universal gates and their working....draw NOT using NAND and vice-versa
+Why AI is needed,What is genAi? difference between gemini and chatgpt?
+Why shld we hire you and how  different you are from others?
+How all electrical components in home works?
+If diode is there why Zener diode is invented? how zener diode is working and how it will regulate volatge? what is the amount of voltage silicon and germanium diode is needed?
+why Capacitor is used as filter?
+During HR round:
+Questions related to our 3 weekness and strength?
+any conflits during projects and to overcome?
+Failures in life and how to resolve it?
+Regarding Higher studies?
+Few technical questions were also asked regarding core basics
+Why you dont want to continue parents business?","""There were 2 technical rounds(L1 and L2) and HR round
+In all rounds they asked me to introduce briefly
+
+During L1:
+
+Questions related to project,why did we do that project,what was my contribution to the project,if sensors are detecting what was my work in the project.
+Formulas of Resistance,Inductance,Capacitance ,each working principle and their real time application?
+What is Impedance and its real time application and when and how impedance is obtained?
+what is Oscillation and oscillator?
+What is Multiplexing and types?why Multiplexing?
+what are transistor and transformer?
+what is Demodulation and why it is done?
+Family Background
+Favourite subject and few question related to it
+If any hobbies mentioned in resume...few question were asked regarding to that.
+About Relocation was also asked
+OSI model and layers
+Why AI is used and can it replace humans
+Regarding to Power Factor
+In L1 they ask mainly basics of all electronics and electrical
+
+During L2:
+
+More question were asked about project,they asked to draw block diagram of how project works,if any IOT components are used in project :mention about how many pins are there and their working,background principle of how each sensors work,if Lcd/Led is used how letters/numbers is formed?Everything should be explained briefly.
+Should be very clear about our project to explain .
+In digital electronics : Conversion of numbers from decimal to binary,octal and hexadecimal and vice versa .
+Working of flip-flops(SR,JK) with gate diagram and should explain the truth table of it.
+Why rectifiers are used?Types of it with diagram and using the same diagram we shlould explain the output waveforms ,which rectifier is used more and why.
+If 230V DC is provide make it electronics gadgets needed 24V DC with circuit diagram and explain how?In this conversion if diode consumes some voltage,how can you exactly get 24V DC?
+Universal gates and their working....draw NOT using NAND and vice-versa
+Why AI is needed,What is genAi? difference between gemini and chatgpt?
+Why shld we hire you and how  different you are from others?
+How all electrical components in home works?
+If diode is there why Zener diode is invented? how zener diode is working and how it will regulate volatge? what is the amount of voltage silicon and germanium diode is needed?
+why Capacitor is used as filter?
+During HR round:
+Questions related to our 3 weekness and strength?
+any conflits during projects and to overcome?
+Failures in life and how to resolve it?
+Regarding Higher studies?
+Few technical questions were also asked regarding core basics
+",-
+2,Plivo,-,"1. Explain about your project.
+2. Can you tell about your technical skills?
+3. What are API?
+4. How do you debug an API?
+5. What is DNS?
+6. What is linked list and array .
+7. How do you flatten a list?
+8. What is UPD and TCP?
+9. What is 404 and 401 error?
+10. Explain about the code you have written?( code written during the assessment)","1. Response time metrics : 
+Invalid entries : [120,995,1010,[200,""Inavlid"",3000],None,450]. flatten the list and filter out non - numerical values. Calculate average response time ( 2 decimal place), count of request > 95% response time. Logs how many invalid values were ignored.
+
+2.Tickets with priority and status:
+[{""id"":1,""priority""=P1,""status""=""open""},{""id"":2,""priority""=P2,""status""=""closed""},{""id"":3""priority""=P3,""status""=""open""},{""id"":4,""priority""=P4,""status""=""open""},{""id"":5,""priority""=P1,""status""=""in-progress""}]. Count P1/P2/P3. 
+Break to by status(open, closed, in-progress), invalid priority (P4).
+
+3. Meeting room such that no meetings coincide:
+meetings= [{""id"":1,""start""=9,""end""=11},{""id"":2,""start""=10,""end""=12},{""id"":3,""start""=11,""end""=13},{""id"":4,""start""=14,""end""=15},{""id"":5,""start""=9,""end""=10}]"
+3,Musigma ,We have ai based technical round and hr was of person things and scenarios based company with some basic questions ,Technical is of only the project based and I have donmy project on machine learning complete machine learning has to be known and all ml models has to be known ,No programing were asked 
+4,Cognizant,"Questions asked are:- sorting the array without sort Function print even and odd number in an array, sql query,
+""Basic questions like would u be willing to work from any location?
+Any timing shift ?
+Any department / Project ?
+Where do you see yourself in future ?""","Tell me about yourself( no technical question),
+Python and SQL questions basic level
+","2(python), 1(sql),
+Python - program for Inheritance example
+SQL - queries using where , group by , order by..."
+5,Parallel wireless,"""1) indepth questions about projects.
+2) Python problem solving(Armstrong num).
+3) questions on oops ( inheritance, obstruction,polymorphism, encapsulation)""
+","1) indepth questions about projects.
+ 2) Python problem solving(Armstrong num).
+ 3) questions on oops ( inheritance, obstruction,polymorphism, encapsulation)","1) questions on permutation and combination.
+ 2) question on class and objects.
+ 3) question on strings and list."
+6,Infosys,"1. They ask about project and the tech used in project.
+ 2. tell me about yourself 
+3. Explain projects
+4.  Work done as SPC
+5. Tell something about your internship 
+6.Tell me about yourself 
+7.What are your strengths and weeknesse 
+8.Why is CMRIT good
+9. What is SDLC
+10.How good are you at learning new skills 
+11. Sdlc  , situation based questions, favourite movies
+12. Postive Attitude - according to u
+13. Situation based question - how will u react 
+14. About project and And personal introduction
+15. Questions about resume and projects 
+16. Dsa questions ""
+17. Technical questions were based on the projects i had mentioned 
+18. Hr involved basic  questions like tell me about your self, family background etc 
+19. There was just a single round which had both technical  and hr round  ""
+20. It was an interactive interview
+21. Family background""
+22. Interview was good, about self introduction and about my projects 
+23. It was good, about self introduction and about my projects
+24. Mainly I was asked about my project , and some follow up questions 
+25. Introduce Ourselves 
+26. Explanation about projects
+27. Some basic sql questions
+28. Questions from resume
+29. Approch you followed for doing projects.
+30. Situation based questions","Project Related Questions
+Dsa questions,stacks and queues
+Project related questions 
+Technical question was asked releated to my project. 
+Difference between DBMS and RDBMS 
+difference between HTTP and HTTPS 
+Why and what is AI and ML 
+Why do we need DS 
+What is osi model
+What is KVL KCL 
+Explain one of your project""
+Html, css, javascript 
+Html, css, javascript
+I was asked to explain about my project deeply, use cases, and compared it  with the present technologies
+Write sql query to return the column from that table 
+If u same name 3 times how will u return those names 
+Only project tech stack
+","As i had mentioned python questions were based on that 
+there were only pseudo codes
+"
+7,Thermo fisher scientific,"1. Tell me about yourself.
+2. Tell me about your family .
+3. Explain your projects .
+4. What was your contribution in the project .
+5. What were the conflicts you had with your team during the project implementation .
+6. How did you convince your team mates for your opinion .
+7. What are your hobbies . 
+8. Why do you want to join Thermo fisher ","1. What is cloud , 
+2. What is cloud optimization. 
+Few aptitude based questions or logical reasoning questions were asked .","1. Basic python programming syntax such as types of loops , 
+2. how do you break the loop , 
+3. difference between class and function , 
+4. how do you call a function …. 
+5. About SQL . 
+6. Majorly about the languages mentioned in resume . "
+8,Visteon ,1. HR interview was simple asked only one question that is are able to relocate to pune ,"The technical interview was two rounds
+1st round was they gave 
+1. voltage divider circuit , 
+2. explain your project,
+3. sensors and some analog related questions 
+In 2nd round they  
+4. gave 5-6 circuits and asked to calculate voltage,current,voltage across diode, derive voltage equation and asked to draw pnp and npn transistor symbols,
+5. gave npn transistor circuit and asked to find Vbe voltage across resistor and opamp parameters,sr flip flop circuit.
+",No programming questions were asked
+9,Covallence,"1. About projects, questions related to your favourite project.
+2. Tell me about yourself 
+3. Can you explain your projects (emphasized more on embedded project)
+4. Op-amp amplifier (figure & explanation) 
+5. Embedded system (explanation & example)
+6. I/O devices 
+7. Supervised learning (machine learning)","1. Supervised learning (machine learning)
+2. Favourite subject ( further questions asked based on the subject you tell)
+3. About wifi networks fourier transform multiplexer
+4. Universal gates
+5. Interchannel interference
+6. Sample and hold circuits
+7. ADC
+8. Opamps
+9. Technical questions related to my project.
+About frequency, wifi and current distribution 
+9. IC fabrication 
+10. What is ip and it's full form",No programming questions were asked
+10,Tap academy ,1. Why u chose software instead of hardware company?,1.Logic for utopian tree,"1. Utopian tree, 
+2. check prime number,
+3. third largest number"
+11,"Capgemini 
+","1. Oops and sql and coding
+2. I was asked questions on my projects and in python (characteristics, immutable datatypes and mutable datatypes,classes and objects) and in ece core knowledge (modulation, amplification, communication protocols, microcontrollers and microprocessor) 
+3. Introduce yourself 
+4. Tell me about your projects in detail 
+5. Ece basics questions like what is microcontroller, semiconductor, xor gate,  types of microcontroller, transistor. 
+","1. Oops 
+2. df bw list tupple
+3. Coding
+4. Computer network and 
+5. OS basics 
+","1. C Questions
+2. Java Questions
+3. C++ Questions
+4. C and java can be used and not python ?
+5. Languages can be used are c, java, c++ ?
+"
+12,Accenture,"1.Tell me abt yourself
+2.can you explain your project
+3.if u had to redo ur whole project what would u change
+4.asked me about my leadership skills when i was in ieee club
+5.difference btw machine learning n nlp
+6. sql basics
+7. how did you resolve issues when working as a team
+8. do you have any questions for me","1. CS-SQL 
+2. Data storage",
+13,"Magna Innovation
+","1.Tell me about your self
+2.explain me any one topic for 2mins
+3.give me your real-time achievement. 
+4.do you read any books
+5.you are given with a magical pen which can rewrite your future, what would you write? 
+6. normal HR Question based on the scenario 
+7. Some logical based question, 
+8. questions like now a days whats going on in the industry, strengths and weaknesses, 
+9. what you did in the project, where you have taken the code for the project, 
+10. favorite subject and mainly of thinking and confidence disipline is important here
+11. Based on resume,basics of electronics and principals of communication 
+12. Basics of embedded systems 
+13. tell me about yourself, and personal questions","1. C- lang, 
+2. ece related questions
+3. All basics from academics and projects should be known, such as digital electronics, microcontroller, digital communication, DSP, CN, OS, and what is included in the resume 
+4. Conversation of ac to dc and vice-versa,
+5. analog to digital and vice-versa,
+6. Function of full wave rectifier,
+7. half wave rectifier.
+8. Embedded systems, embedded c 
+9. ECE core questions based on MC and project related","1. C program is important for the Embedded domain, and the basics of Embedded C and Python were asked
+2. Swapping of numbers
+"
+14,Fractal analytics ,"1. Questions on project,what kind of person, role based questions ",1. Questions based on projects ,-
+15,Ericsson,"About yourself ,family background,about the company,your decision making , long term and short term goal
+It was about your interest,resume based questions, family background 
+Hr was also general information round from there side about the company , the shift and the location ","1. It was all the deep question in core domain of networking, 
+2. Digital communication, analog communications, 
+3. wireless communication 
+4. What is an operating system?
+5. What is process vs thread?
+6. What is deadlock?
+7. What is virtual memory?
+8. What is multitasking?
+9. What is CPU scheduling?
+10. Computer Networks
+11. What is the OSI model?
+12. Difference between TCP and UDP.
+13. What is an IP address?
+14. What is DNS?
+15. What is HTTP and HTTPS?
+16. What is network topology?",Commands of Linux and basics of python and c
+16,Genpact,"""Self introduction 
+Detailed explanation of projects mentioned in resume
+Questions related to projects""",,
+17,Microland ,"1. About networking, 
+2. projects, 
+3. core related questions 
+4. Tell me about yourself.
+5. Explain your project in 2 minutes.
+6. OSI model (7 layers).
+7. What is IP address 
+8. Difference between TCP and UDP.
+9. Why Microland / Why this role?
+10. Are you ok with rotational shifts and bond?","1. Networking
+2. Tell me about yourself.
+3. Explain your project in 2 minutes.
+4. OSI model (7 layers).
+5. Steps to troubleshoot internet connectivity.
+6. Difference between TCP and UDP.
+7. What is Active Directory?
+8. Why Microland / Why this role?
+9. Are you ok with rotational shifts and bond?""",No programming questions asked
+18,Bosch,"1. In hr interview asked behavioural questions like why this company,
+2. why u need this apprenticeship,
+3. after apprenticeship what u will do.","1. In first technical interview asked about adc details explanation with example, 
+2. defination of sensor,
+3. actuators with examples,
+4. what components used in academic projects
+5. workflow of projects, 
+6. usage of each components used in project.",1. One python programming question.
+19,RDC CONCRETE,"1. How you can say you are good for this company 
+2. About personal details,Family background 
+3. Where I see myself in 5 years 
+4. How many hours u can work in a day ",1. about sensor ,

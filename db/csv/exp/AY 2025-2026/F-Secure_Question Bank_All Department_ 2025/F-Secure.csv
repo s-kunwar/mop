@@ -1,0 +1,72 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview/HR Round experience.,Provide the list of Technical/Domain based questions asked during the interview,Provide the list of programming/Domain based (MBA) questions,"Online Exam Pattern
+","Important Links for Placement Preparation
+","
+Drive Links for any material/Materials for Placement Drive Preparation","Provide questions on Quantitative Aptitude, Reasoning, and Verbal Ability",Provide the Prominent Section during online test
+AInDS*,Harshitha N,1CR22AD042,F-Secure,30000,,,,"1. About DSA , 
+2. coding questions basics to intermediate.
+3. About projects 
+4. Architecture for LLMs 
+5. Basic OS , CN.",.,1. Write the array in the descending order.,Quantative aptitude questions with programming questions,-,-,,
+AIML*,Madhesh Raj G,1CR22AI066,F - Secure,30k stipend,Nil,Nil,Nil,Nil,"1. What is stack, difference between stack and heap stack. Difference between list and array.
+ 
+2. What index in DBMS, what is left and inner join, what is nosql
+ 
+3. What is semaphore, what is a process , what is a thread.
+ 4.  What is ML, What is DL, Explain agentic workflow. 
+ 
+5. What is NLP, what is tokens, stemming and lematization. What is ranking1. ","1. Write a code to find if there is a duplicate element in an array 
+ 
+2. Write a code to declare a Linked List and how to insert a node (all edge cases).",-,-,-,,
+AIML*,Pari Patankar,1CR22AI085,F-Secure,-,,,,"1. If the production data is given and you have a model that predicts accurate results, how can you show its accurate before running through model(ex. If the model accuracy is to predict the given message is a scam or not)
+ 2. Tell me about your projects and challenges you faced and how overcame it.
+ 3. Coding question: given an array of numbers, you have to return 3 numbers x,y,z such that indexed are x<y<z and values of these numbers are x[]<y[]<z[]. How can you optimize it.","1. Ml questions, precision, recall, F1, LLMs
+ 2. Arrays, list simple to moderate question","Mostly arrays and lists, no particular language were given",-,-,-,,
+MCA,Anagha G Rao,1CR24MC013,F-Secure,30000,,,,"1. Introduce yourself, 
+2. project related questions and write architectural diagram of your project,
+3. what are the difficulties you faced while doing project,Ai and ML",,,-,-,-,,
+MCA,CHANDANA S C,1CR24MC024,F-Secure,₹ 30000 per month,,,,"1. Introduce yourself, 
+2. Project related questions,
+3. working flow of project, 
+4. Architectural diagram of Project,
+5. AI-ML related questions, 
+6. What are the difficulties you faced during project implementation?",,,-,-,-,,
+MCA,Supriya S,1CR24MC100,F-Secure,30k/month,,,,"1. About the project, 
+2. AI models used in the project, 
+3. Architecture and Flow of the project1. ",NO,NO,-,-,-,,
+MCA,SUSHMITHA,1CR24MC101,F-secure,30000 /month,,,,"1. Introduction 
+2. Asked question on Project.(Bugs faced during the developing project)
+3. Told to draw the flowchart how entire project works.
+4. Model used, why this model, test cases, database.",,,-,-,-,,
+AInDS & CS-DS,Harshitha N,1CR22AD042,F-secure,50000,,,,"Questions based on machine learning, os, oops,computer networks, and NLP.","Architecture for LLMs. Operating systems, and machine learning.",Binary search tree. I preferred python.,,,,,
+AIML*,Madhesh Raj G,1CR22AI066,F - Secure,30k stipend,Nil,Nil,Nil,Nil,"What is stack, difference between stack and heap stack. Difference between list and array.
+ 
+ What index in DBMS, what is left and inner join, what is nosql
+ 
+ What is semaphore, what is a process , what is a thread.
+ 
+ What is ML, What is DL, Explain agentic workflow. 
+ 
+ What is NLP, what is tokens, stemming and lematization. What is ranking","Write a code to find if there is a duplicate element in an array 
+ 
+ Write a code to declare a Linked List and how to insert a node (all edge cases).",Nil,,,Nil,
+AIML*,Pari Patankar,1CR22AI085,F-Secure,-,,,,"1. If the production data is given and you have a model that predicts accurate results, how can you show its accurate before running through model(ex. If the model accuracy is to predict the given message is a scam or not)
+ 2. Tell me about your projects and challenges you faced and how overcame it.
+ 3. Coding question: given an array of numbers, you have to return 3 numbers x,y,z such that indexed are x<y<z and values of these numbers are x[]<y[]<z[]. How can you optimize it.","1. Ml questions, precision, recall, F1, LLMs
+ 2. Arrays, list simple to moderate question","Mostly arrays and lists, no particular language were given",,,,,
+MCA,Anagha G Rao,1CR24MC013,F-Secure,30000,,,,"Introduce yourself, project related questions and write architectural diagram of your project,what are the difficulties you faced while doing project,Ai and ML",,,,,,,
+MCA,CHANDANA S C,1CR24MC024,F-Secure,₹ 30000 per month,,,,"Introduce yourself, Project related questions,working flow of project, Architectural diagram of Project,AI-ML related questions, What are the difficulties you faced during project implementation?","Introduce yourself, Project related questions,working flow of project, Architectural diagram of Project,AI-ML related questions, What are the difficulties you faced during project implementation?",,,,,,
+MCA,Supriya S,1CR24MC100,F-Secure,30k/month,,,,"About the project, AI models used in the project, Architecture and Flow of the project",NO,NO,,,,,
+MCA,SUSHMITHA,1CR24MC101,F-secure,30000 /month,,,,"Introduction 
+ Asked question on Project.(Bugs faced during the developing project)
+  Told to draw the flowchart how entire project works.model used, why this model, test cases, database.",,,,,,,
+AInDS & CS-DS,Harshitha N,1CR22AD042,F-secure,50000,,,,"Questions based on machine learning, os, oops,computer networks, and NLP.","Architecture for LLMs. Operating systems, and machine learning.",Binary search tree. I preferred python.,,,,,
+MCA,SUSHMITHA,1CR24MC101,F-Secure Pvt Ltd,30k / month,,,,"1st Round - Detailed information about project .Asked to Draw charts for working flow of project.
+ In HR Round - Self Introduction 
+  Projects related questions",,,,,,,
+AIML & CS-ML,Niharika S Gowda,1CR22AI078,F-Secure,Internship stipend 40k,,No jam,No,"About projects, llms, quantization, fine tuning, rag, dsa",It was all related to Ai and simple dsa questions using any language.,"Bubble sort, remove elements from an array",,,,There was no online test,
+AIML & CS-ML,Pari Patankar,1CR22AI085,F-Secure,No,,-,-,"ML basic questions (accuracy, precision, recall, F1 score etc)
+ About ML models
+ They also gave case studies and told to explain what ML techniques can be applied
+ Asked 2 easy to medium DSA",2 eay to medium Dsa question,"Arrays, List",-,,,-,
+MCA,T Vagvane,1CR24MC104,F-Secure,-,,,,"Hr asked me - Introduction of yourself, give me a background of your education, a brief on subjects and project you have worked on.","Project architecture overview, draw the work flow, what models used, how you integrated Ai in this project, did you deploy this on any cloud platforms.",,,"My own projects, revision.",,,General Coding
+AIML & CS-ML,Himasree Panku,1CR22AI047,F-Secure,30000 per month,,N.A,N.A,1. Tell us about yourself 2.Explain about your major project 3. Draw the Architecture diagram of major project and explain us the flow using the diagram 4. Are you aware about LLM Hallucinations ? 5. How can you reduce them ? Justify your answer 6. How does your college evaluate your internship for semester 8 ? 7. What is the criteria in which they evaluate your internship marks ? are you aware about that ?,i had only 1 round,N.A,N.A,I referred youtube .,,N.A,

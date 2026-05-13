@@ -1,0 +1,220 @@
+Column_0,Column_1,Column_2,Column_3,Column_4
+S.No,Name of the Company/Drive,Personal interaction, Technical questions,Programming questions
+1,"Accenture
+","1.Explain your recent project
+2.Explain your final year project idea
+3.What difficulties you faced in project and how you handled them
+4.As I am from ece they asked about few components like  Arduino, LDR
+5.Explain events you conducted 
+6.project code logic if it is there""
+7. It was both technical and hr at once questions were asked from projects 
+8. Questions were less technical and mostly HR. Techincal questions were mostly about the project 
+9.  questions on hobbies
+10. strengths and weakness any questions?
+11. Tell me about you and explain your project in detail with what problems you faced and how you overcame that.
+12. questions covering various areas like project, abilities, and about self improvement.
+13. Project, family background,self introduction,
+14. Tell me about your self?
+15. Explain the recent event you were organised?
+16. Tell me about ur project?
+17. Tell me how u will manage the team while ur playing sports?
+18. They asked some situation","1) About Ms word,about C programming 
+2) Related to syntax on C, use of continue, break keyword 
+Also questions on cloud computing 
+3) Questions were based on Computer application and MS word,Excel and Networking,Pseudocode.
+4) Project based question on the process and components used
+5) About few electronic components Like LDR, Arduino
+6) The programming language written by yourself which you have knowledge. 
+7) What are packages and modules in python Name 5 modules used in python 
+8) About PEP in python? Inheritance, inheritance types, difference between tuple and list.
+9) Pseudo codes, dbms,basic c,Os","1) Z pattern & Pyramid star pattern
+2) To print the given pattern 
+If input n=3
+Output - 333222111
+                332211
+                321
+
+3) Input is a string and a character
+We have to find the percentage of occurrence of the character in given string
+4) Pattern printing, quadratic equation, Mad numbers.
+5) Monkey wants to jump to nth floor but it takes only 1 or 2 steps at a time find the number of steps required to reach nth floor
+6) Project code logic
+7) Python programming Language. Printing of a list based the details given. 
+8) Finding second last element in an Array and split a number whose parts when added gives the number.
+9)  Quadratic equations and Mad problem 
+10) Based on list and arrays
+11) Fibonacci series (python)
+12) Language (Java), Fibonacci series, bubble sorting 
+"
+2,Surya software ,"""They asked them same questions from there questions paper.
+Two reasoning questions
+1. Choose option a . To get a 1 lakh at end of month
+b. Get 1 paise at first day and it gets doubled every day 
+
+2. 50m well , clim daily 4m and fall back 3m , in how many days you will able to reach top
+One array problem, to give the sum of difference of adjacent elements and return the element which will have max sum of there difference """,Oops concepts ,"Star patter ,mad number"
+3,"Impelsys
+
+","1. All the co curricular and extra curricular activities in resume. Family and friend expectations and opinions on you and about the company. 
+2. ""Tell me about yourself? 
+3. Brief explanation on projects and modules and library used.""
+4. Completely about project and questions based project
+5. ""Introduce yourself.
+6. Tell me about your family.
+7. Tell me about your projects and your role in them.
+8. What difficulties did you face when making the project and how did you resolve them?
+9. What do you know about our company?
+10. What do you think are the differences between Gen Z and millennials?
+11. What do you think about the role of introverts in society?""
+","1. Projects 
+2. OOPs based questions (class, functions, inheritance) 
+3. How can you contribute to the growing technology 
+4. ""What is an interpreter and compiler?
+5. What is the difference between them?
+6. What is the difference between C and python?
+7. What is a function?
+8. What is a loop?""
+","1. What is function how is it useful explain with example
+2. What are control statements
+3. What is a class explain with example
+4. Access specifiers and how they work 
+5. What is the difference between C and C++ ""
+6. ""I was offered to choose any language i wanted.
+7. Write a program(Wap) to print your name.
+8. Wap to add 2 numbers.
+9. Wap to check if a number is prime.
+10. Wap to accept 2 words into a function and print it as one word.
+11. Wap to accept inputs from the user.""
+
+"
+5,"Tata elxsi 
+",,Computer Networks,"Factorial , python 
+"
+6,"KOCH
+","1. About project
+2. Situational questions
+3. Company is more virtue driven than technicality. Long interactive session was held with all the basic HR questions as situational and managerial skills were analysed.
+Overall a great experience and a rather easier process to clear through.
+4. How will you see yourself after 5 years in company
+5. How do u handle conflicts in your team, Eg- like in your project team
+6. What is current technology you know
+7. Explain your  project in detail 
+
+
+","1.Cybersecurity
+2. Server/Network
+3. Oops
+4. Databases 
+5. No particular technical questions were asked.
+6. Basics on our technical skills and projects were noticed.
+7. Brief explanation about project
+
+","1. Return index of array
+2. Print only vowels only string
+3. Python
+4. Program to print the position on the element in the array.
+5. Program to print a number series with the formula 2^a1+2^a2+...+2^aN
+6. Language - python
+7. To add sum of 2^n using functions
+8. To remove the space between the string using functions
+
+
+
+
+"
+7,"Microland
+",1. Aptitude consisted of number and percentage questions and communication and verbal ability tests were in the next rounds,"1. Interviewer focused mainly on projects and and questions were based on technologies used in the project
+",1. Asp.net and c# based questions as I used them in projects
+8,o9 Solutions,"1) OOPs, 2) OS, 3) DBMS, 4) Code Snippet Questions, 5) Basic Coding Questions, 6) Why do you want to come to this role.","1) OOPS, 
+2) DBMS, 
+3) SQL Queries, 
+4) Basic output questions, 
+5) OS
+6) Explain joins
+7) Virtual table
+8) Questions mainly based on SQL and Python. 
+9) Some queries and simple programs were asked.Some HR questions were also asked in the 2nd round. 
+10) Project related questions too","1) String and Pattern related questions in python. 
+2) Some queries in SQL
+3) Find duplicate elements
+4) Fibonacci
+5) Pattern printing"
+9,Flow Edge,"Easy QA and Data Interpretation questions
+Finance, Maths, and DSA","1) OrderBook, 
+2) Design Questions, 
+3) Linked List","1) C++ based questions, 
+2) OOPs"
+8,Publicis sapient ,"Questions based on resume:
+Internship experience
+Projects
+Coding 
+Project details
+Python syntax related questions 
+Html tags 
+Basics of SQL,  situation handling hr questions, html and css based questions, java basic programming questions
+Question on HTML and SQL
+HR Questions
+- How do you handle work pressure
+-what measure will you take if there is any conflicts in your team
+","1) Quantitative, Logical & coding ,Reasoning, verbal ability and
+ oops concept, basic coding questions, relation based questions. 
+Simple aptitude 
+2) Python Cloud
+3) About project,
+4) multi threading,
+5)  throwable and 
+6) exception handling 
+7) Python syntax related questions 
+8) Basics of SQL, html and css based questions, java basic programming questions
+","1)  one basic programming question, Linear Data structures
+2) Search or sort algorithm
+Projects ,
+3) Write 4 SQL queries
+4) Sorted array -Python
+5) Java - reverse of a string
+6) SQL - find third highest salary
+Python, 
+7) sum of all even numbers from 1 to 100
+8) Sum of digits and few SQL queries
+9) Linear Data structures
+10) Search or sort algorithm
+Projects 
+ 11) Write a python code on area of triangle.
+12) Write 4 SQL queries "
+9,"Federal bank
+","suggesting whether the CSR funds should be directed towards Medical Education, or infrastructure purposes. You can choose only one sector. Which selor will you choose and why","1Questions on VA, 
+2) GK, 
+3) more questions on probability ",
+10,"IT Orizon
+","Introduction
+About Project","In technical round it will be on resume and  also they ask about technical skills and they will give some codes to write
+","1) SQL related queries
+ 2) Java related question 
+3)  C programs to write a code
+4) Swaping , 
+5) pattern printing, 
+6) searching a number , 
+7) linear search
+8) binary search and 
+9) some real time situation related question
+"
+11,Tech Mahindra ,"Tell me about yourself,are you ready to reallocate yourself, what did you learn from your college life.","1) Memory map of c , 
+2) basic DSA , 
+3) SQL , 
+4) OOPS","1) Array based, 
+2) string in any language "
+12,Iron Mountain ,"All were based on the resume itself and deep questions were asked about the technical aspects based on java .
+There were 4 personal interviews, 1st was initial screeing interview based on abilities ,took by HR,then passed on to technical round 1,purly based on technical skills(python,java,oops,exception handelling,sql,cloud,and projects),then passed on to technical round 2, based on projects and certifications,Finally managerial round(projects and conversations)
+Aptitude-10, technical-15 it was an average difficulty level first round of assessment, Online test is technical in nature(java,python,devops,kubernetes,DSA,react js,angular js)Online test is technical in nature(java,python,devops,kubernetes,DSA,react js,angular js)","All were based on java and data structures and algorithms
+1) difference b/w tuple and list
+2) they will ask to write code
+3) For the same code they asked me to handel the exceptions
+4) Detailed discussion about project,Should impress them with our projects
+5) AWS questions
+6) they asked me to write sql query
+7) Should be perfect with basics , they  ask to predict the output of the code snipet","1) Implementation of stack, 
+2) swapping two numbers, 
+3) parent sum in a tree. 
+4) write a code to find even or odd, and also asked 
+5) to handle exceptions in python 6)There were 4 personal interviews, 1st was initial screeing interview based on abilities ,took by HR,then passed on to technical round 1,purly based on technical skills(python,java,oops,exception handelling,sql,cloud,and projects),then passed on to technical round 2, based on projects and certifications,Finally managerial round(projects and conversations)"
+4,,,,

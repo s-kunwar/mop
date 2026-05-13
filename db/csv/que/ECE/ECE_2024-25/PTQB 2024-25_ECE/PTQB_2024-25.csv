@@ -1,0 +1,406 @@
+Column_0,Column_1,Column_2,Column_3,Column_4
+S.No,Name of the Company/Drive,Personal interaction, Technical questions,Programming questions
+1,ELLUCIAN ,"Everything was related to technical questions, nothing about HR questions ","1) About Fibonacci series, 
+2) OSI model, 
+3) project related questions, 
+4) exception handling of python and hobbies","1) Mostly related to the languages mentioned in resume , 
+2) cloud computing , 
+3) web development and python"
+2,Phonepe,"1. The technical interview was good and very interesting and random off topic questions were asked, compared to the JD provided 
+2. There was no HR round instead there were two technical interviews and i was asked few HR questions in the first round itself
+- They asked me to tell them about myself
+- They asked that why do i want to work in IT even though i am from ece","1) Asked about Python scripting then ECE related questions, after I mentioned I am from ece
+2) There were 2 technical interviews. 
+First interview: 
+-Project based questions, i used authentication and sockets in my project so a lot of questions were asked on that.
+-they asked if i knew linux and since i only had a basic idea about it they skipped asking linux questions
+- For about 30 minutes I was only asked networking questions like OSI model, difference between TCP and UDP, HTTP, what is the type of encryption you have used in your project, Explain all the protocols you know eg FTP, POP, HTTP, IP etc, DHCP, NAT, DNS, why is DNS used etc.
+- I was also asked to explain how cookies work
+Second interview: 
+-The interviewer had opened my github and was asking about all the projects in my github.
+-He told me to explain my project and even he asked me about encryption.
+- I had used docker in my project so questions were asked on that.
+-Since i used django channels for using Sockets, he asked what was the use of redis, what is the schema of redis and how am i using it.
+- Another one of my projects used google maps api, so i was asked what is latitude and longitude, what determines time zone, explain GPS, min number of satellites required for gps to work etc
+-Then since my github had a lot of python projects and codes, he asked me why do i use anaconda, few questions on jupyter were asked. 
+- As i used Django for my projects he asked few questions on django, like what port dies django use, is the protocol used http or https, what is the difference between http and https.","1) Mostly related to the languages mentioned in resume , cloud computing , web development and python
+2) We were asked Java, python OOP concepts 
+1) Programming questions asked in OA were:
+- Finding the age from given dob(strictly in java)
+-one Oops question(strictly in python)
+- finding the sum of digits(any language)
+-merging two sorted arrays(any language)
+-few condition were given as in when to apply how much discount and then we had to find out the final discounted price(any language). 
+- One question based on hashmap from a string we had to find the number of occurances of a letter and append it in another string with the number of occurrences.
+2) We were asked Java, python OOP concepts"
+3,Johnson Controls,"1. There was no HR round instead there were two technical interviews and i was asked few HR questions in the first round itself
+- They asked me to tell them about myself
+- They asked that why do i want to work in IT even though i am from ece
+2. 1st Technical Interview round was based on core electronics knowledge 
+2nd Technical interview was totally based on electronics real time application and scenario based questions
+HR round was personal interaction 
+1 Tell me about yourself 
+2 Family Background 
+3 What is your discomfort zone
+4 What is your nature
+3. There are 2 technical round namely L1 and L2 and a HR interview.
+In L1- It went around 20 mins staring from introduction to technical questions on the subject background specifically 
+1) what is a relay
+2) difference between microprocessor and microcontroller
+3) difference between MOSFET and bjt 
+4)which type of current flows in our home and what type
+5)what is rectifier?types?
+6)Types of transmitter
+7) explain a home appliances in terms of electronics 
+8) difference between electrical and electronics 
+9) explain the process of ac in terms of electronics
+10) Explain mobile application complete working 
+11) questions on projects
+12)Family background
+13)hobbies
+14)What is ohm's law
+15)Any questions 
+
+In L2 -It went around 45 mins starting from introduction (Panel interview-2/3 persons)
+1) Favourite subject?Reason
+2)What do you about the company 
+3) what's your opinion on it industry 
+4)which is best Service or It 
+5)what are universal gates
+6) what is multiplexing
+7) what are types of multiplexing
+8)Real time example of multiplexing 
+9)what are OFCs
+10) Principle behind OFC
+11)Why copper is not used in ofc 
+12)what is difference between copper cables and fibre cables
+13)What is OSI model
+14)what are layers of OSI model
+15)which layer is responsible for networking 
+16)design a Nand gate using nor gates
+17)truth tables of nand and nor gates
+18)About family background and occupation 
+19)Any questions 
+
+
+In the HR  interview 
+1) introduction 
+2)Hobbies
+3) Comfort zone
+4) Discomfort zone
+5)Real time example of discomfort zone
+6)Other languages known?
+7)What excited you about the company
+8)Hobbies
+9) questions on hobbies 
+10) Family background 
+11)Any questions?
+
+HR was really kind .
+Some of the basic HR question to be prepared are-
+Complete knowledge about urself , parents , family , college etc 
+What if I reject ? How would u feel ? 
+Why are u different from others that I shlould hire you ? 
+What extra qualities do you have than the others waiting outside ? 
+What I u fail as a leader ? What will u do ? 
+If in a team of 10 members and out the 10, 9 of them are not ready to cooperate with you then what would you do?
+Learn about the currents affairs like I was asked about olympics and para olympic 
+Many more……. ","There were 2 technical rounds L1,L2
+L1 Round:
+They will test your communication skills and project based outcomes
+Questions:
+Introduce about yourself and talk about your family and where do you live?
+Tell me something about your projects?
+What is a relay?
+What is a diode?
+What is the contact switch ?
+What is resistance, sensors,transducers,encoders and about projects Relays
+There are 2 technical round namely L1 and L2 and a HR interview.
+In L1- It went around 20 mins staring from introduction to technical questions on the subject background specifically 
+1) what is a relay
+2) difference between microprocessor and microcontroller
+3) difference between MOSFET and bjt 
+4)which type of current flows in our home and what type
+5)what is rectifier?types?
+6)Types of transmitter
+7) explain a home appliances in terms of electronics 
+8) difference between electrical and electronics 
+9) explain the process of ac in terms of electronics
+10) Explain mobile application complete working 
+11) questions on projects
+12)Family background
+13)hobbies
+14)What is ohm's law
+15)Any questions 
+
+In L2 -It went around 45 mins starting from introduction (Panel interview-2/3 persons)
+1) Favourite subject?Reason
+2)What do you about the company 
+3) what's your opinion on it industry 
+4)which is best Service or It 
+5)what are universal gates
+6) what is multiplexing
+7) what are types of multiplexing
+8)Real time example of multiplexing 
+9)what are OFCs
+10) Principle behind OFC
+11)Why copper is not used in ofc 
+12)what is difference between copper cables and fibre cables
+13)What is OSI model
+14)what are layers of OSI model
+15)which layer is responsible for networking 
+16)design a Nand gate using nor gates
+17)truth tables of nand and nor gates
+18)About family background and occupation 
+19)Any questions 
+
+
+In the HR  interview 
+1) introduction 
+2)Hobbies
+3) Comfort zone
+4) Discomfort zone
+5)Real time example of discomfort zone
+6)Other languages known?
+7)What excited you about the company
+8)Hobbies
+9) questions on hobbies 
+10) Family background 
+11)Any questions?
+L1 interview——
+All questions based on the project ( to study each and every component of the project and it’s real time application) 
+What is thermistor ? 
+Name 15 RLC components ? 
+What are your strengths and weaknesses? 
+How does an Opamp work ?  
+
+L2 interview——
+What is ur favourite subject?? And they will go deeeep into the subject? ( choose electronic related subjects for core company and vice Versa for software company ) be thorough about the subject .
+What is relay ? 
+Real time application of relay ? 
+What is micro processor and real time application? 
+What is micro processor and real time application?
+Explain one micro controller in detail ? 
+And all questions based on resume 
+What are logic gates ? 
+Draw all logic gates and mention any 2 truth table ? 
+What is k- map y do we use that ? 
+And many more ","No programming questions were asked in the technical interviews as such
+Programming questions asked in OA were:
+- Finding the age from given dob(strictly in java)
+-one Oops question(strictly in python)
+- finding the sum of digits(any language)
+-merging two sorted arrays(any language)
+-few condition were given as in when to apply how much discount and then we had to find out the final discounted price(any language). 
+- One question based on hashmap from a string we had to find the number of occurances of a letter and append it in another string with the number of occurrences.
+Core company hence no coding question "
+4,Thomson Reuters,"1. They asked more  projects done, git merge conflict resolution ,time complexity
+2. How flexible you are, ready to work at the weakend and for night shift, short term and long term goal, strengths and weakness etc
+3. Technical -python basics, questions based on technical aspects of the project managerial- challenges faced in project, in depth q related to project.
+4. what are your strengths and weakness ? 
+5. how would you cope with repetitive tasks?","1. How to resolve merge conflict in git , time complexity
+2. About projects and internship
+3. Questions based on Time and space complexity
+4. Cloud Fundamentals
+5. Coding snippet questions
+6. questions related to projects","1. Scatter palindrome, SQL query for making a report by grading the score of students
+2. Scattered palindrome(Any programming language), 
+3. aggregate marks(MySQL)
+4. Finding the Time and space complexity of the given snippet
+5. scattering palindrome - python"
+5,"Oracle Financial Services Software
+","1. Technical Interview was mainly discussion about projects, 
+2. 2-3 easy DSA questions,
+3. OOPS concept and SQL queries.
+4. Java oops and collection framework. 
+5. SQL questions and some queries ; 
+6. palindrome without case sensitive program. 
+7. HR round was only about family and about the company.
+8. why ec and now IT, 2nd highest salary, no of emp getting highest salary. 
+","1. Discussion about projects.
+2. Writing a Program to Reverse a number.
+3. Writing a Program to find if the string is Palindrome.
+4. Sorting techniques.
+5. Method Overriding.
+6. basic Sql query 
+7. java heap,stack,view in sql,palindrome,
+8. keys in sql.main method in java, jvm,jdk,interpretor and compiler.","1. Writing a Program to Reverse a number.
+2. Writing a Program to find if the string is Palindrome.
+3. Writing program for sorting algorithms.
+4. Palindrome in java"
+6,"Microland 
+","
+1.Resume based questions and project related
+2.Tell me about ur self
+3.About projects
+4  Most successful project that you've done so far ?
+5.  If relocating to a different place like Mumbai, Pune would be fine ?
+6. Asked to narrate a story within 2 mins that includes your favourite sport ?
+7. If you've any questions for the HR ? 
+8. Tell me about your family. 
+9.Why should we hire you? Which is your favorite subject?  
+10.Suppose your are given a project on a topic which you don't know, how will handle it? 
+11.Have you attended any other interviews previously?
+12.. Are you OK with any shifts or relocation? 
+13. About myself, Communication skills, What will be my contribution to the company, and am I OK with working any shifts. ","1) they asked about linux commands
+2) they asked about network layers
+3)""They asked about linux commands like chmod
+4)Docker questions
+5)Different network layers
+6)Security based ""
+7)Tell me about your projects 
+8 ) What did you do during your internship?
+9) What is your field of interest ?
+10)Questions based on project and internship 
+11)Explain projects and internship
+12) What is your contribution in the project? 
+13) How did you do software part in one project and hardware in the other project? 
+14) What did you do in the internship project? 
+
+
+","1)No programming questions asked 
+2)ONE  networking  QUESTION 
+"
+7,Dish Network Technologies India Private Limited,"1. Tell about urself 
+2. What about your higher education plans 
+3. Why did you choose our company 
+4. What do you know about our company 
+5.Most of the questions will be on blood relations, 
+, mathematical reasoning and  missing series ","Technical questions for ece will be basic what ever learnt in the previous sem staring from 
+1.diode, 
+2.resistance and prepare accordingly to the job description provided by the company ",None 
+8,Accenture,"There are total 3 rounds in the hiring process. 
+The first round consists of two sections-Cognitive & Technical Assessment and Coding Round. 
+There were a mix of questions from Cognitive Section which includes English Ability, Critical Reasoning & Problem Solving, Abstract Reasoning and from Technical Section which includes Common Application & MS Office, Pseudocode, Network Security & Cloud. There were 90 questions (Cognitive Section-50 questions and Technical Section-40 questions) to be solved in 90 minutes. This is an elimination round and only after you clear this round you'll proceed to the coding round. 
+There were 2 questions to be solved in 45 minutes and you are free to choose any programming language of your choice. Both the sections are attempted one after the other on the same day. 
+Second round is Communication Assessment which consists of questions from Reading (8 questions), Listening/Repeat (16 questions), Q&A (24 questions), Sentence Jumble/Sentence Builds (10 questions), Story Telling (3 questions), Speaking (2 questions). There were 63 questions to be solved in approximately 30 minutes. Each question in each section is timed. This is not an elimination round but is mandatory to attempt.
+The third round was basically an HR Interview Round. It lasts for about 20 minutes. Some of the questions asked by the interviewer are listed below:
+1. Introduce yourself
+2. Tell me about your projects in brief
+3. Tell me some of the problems faced during projects
+4. How did you handle any conflicts during projects
+5. How many members were there in your team and what was your role in the project
+6. Tell me about any one of your achievements that you are proud of 
+7. What are your strengths and weaknesses
+8. Do you have any certifications
+9. What is your most favourite and least favourite subject
+10. Do I have any questions for them","
+They didn't ask any technical questions.",You are free to choose any programming language of your choice.
+9,Ascendion ,"Basic aptitude question on quants and logical reasoning and coding questions medium level .
+1.In the HR round, the HR  asked  question about the family ,some  situation-based questions , why i want to join this company, are you able to relocate according to requirement .    
+2. Questions were asked about interested on company and towards work   
+      ","1. In the technical round, they asked me in detail about my project, the technologies I used, the difficulties I faced during the project, and about my final year project","1.character star printing and basic mathematic related question    
+2.I used java and python more in my projects
+So questions were related to java concept "
+10,Open text,"1. Tell me about yourself
+2. Family background
+3. Contribution in group projects
+4. Weakness
+5. Why open Text?
+6. HR : family background, highest and lowest points of your life, One ability of yours you want to work on, 
+7. personality u look upto, one book or quote that has impacted u the most, ur fav sport and why?.
+8. The Technical and HR Interview was together 
+HR questions:
+-> Tell me about yourself 
+-> strengths and weakness 
+-> why Opentext 
+","1. Dictionary comprehension 
+2. Lambda functions 
+3. Oops
+4. Encapsulation and abstraction with examples, 
+5. Wrapper class, 
+6. Syntax
+7. Implement all the 4 pillars of oops on an online IDE and make it user friendly 
+8. Was told to make changes in the code and few questions based on that were asked
+9. Double dictionary implementation, 
+10. told to make a live flask application, 
+11.file handling , 
+12. linkedlist 
+13.OOPS, Encapsulation, Abstraction, 
+14. Wrapper class,Time and space complexity, Program, Scanner, 
+15. Sorting, Searching, DSA, Arrays, Strings, 
+16. Definitions of other DSA. ","1. Two strings were given and we had to check if one string was the right rotated version of other
+2.  an array index was given and all the elements below that had to be in increasing order and above that had to be in decreasing order
+3. General hashmaps , 
+4. arrays medium to easy types "
+11,Hudl Sports tech ,"It was an one hour interview in which they asked about my family background, 
+questions related to sports and data analytics (basic questions)",,
+12,Bottomline Technologies,"Technical round-Basics in Java was tested.
+Confidence,Attitude and Presentation was scrutinised.","1. Scope of the program.
+2. Hashset,Hashmap ,Linkedlist,Stack,Queue,.
+3. Explain the program flow attended in the interview.
+4. Few aptitude questions.","1. Sorting,
+2. Searching,
+3. Java Basics."
+13,Spaulding Ridge,"1. Questions were totally based on Resume provided
+2. Can you explain your final year project? 
+3. What make u perfect for this job role?","1. When they noticed i worked on frontend project, they asked to explain about it, the bootstrap, restapi's
+2. The technical questions asked during the interview were related to core subjects from my academic background.
+
+3. Explain the working of a microcontroller and its applications.
+4. Difference between microcontroller and microprocessor
+5. Examples of microcontroller and microprocessor and its applications.
+6. Which sensor did you use to detect LPG, and how does it work, and why did you choose it?
+7. What is MQTT, and why did you use it in your project?
+8. How did you handle real-time alerts or notifications when gas leakage was detected?
+9. Can this system be scaled for commercial or industrial use? If so, how?
+10. How did you handle error detection and fault tolerance in your implementation?
+11. Can you explain the publish-subscribe mechanism of MQTT?",No programming questions were asked
+14,"Esyasoft 
+
+",-,"1. Programming on unique characters,
+2. repeating alphabets ,
+3. highest salary sql",-
+15,"Tesco
+","1.Tell about our company
+2.explain your project, write down in a page and explain
+3.Tell about your family
+4.are u ok to work under any shifts. 
+5.British Council audio was played and they asked me to explain conversations. 
+6. In GD Topic was How does Tv AD's influences customers(core skills: communication, soft skills, problem solving, organizational skills) ","1. Find First Non-Repeating Character
+
+2. String Compression
+
+3. Next Greater Element
+
+4. Matrix Rotation","1. Balanced Brackets
+
+2.Sort Custom Objects
+
+3.Remove Duplicates from List"
+16,Cognizant ,"1. Coding - prime no., Fibonacci series, oops, Java concepts, cloud computing,python basics, project","1. What is the difference between C and C++?
+
+2. What is an object in OOP?
+
+3. Explain OOPs concepts with real-world examples.
+
+4. What is the difference between compile-time and run-time polymorphism?
+
+5. What is the use of static keyword?
+
+6. Write a program to check if a number is prime/palindrome/factorial.
+
+7. Difference between ArrayList and LinkedList (Java).
+
+8. What is a constructor? What are its types?
+
+","Questions on Python & Java
+
+1. What are the differences between list, tuple, and set?
+
+2. What is the use of self in Python?
+
+3. Explain the difference between is and ==.
+
+4. What is PEP8?
+
+5. What are lambda functions?
+
+6. Explain Python's memory management.
+
+7.Find factorial using recursion
+
+8. Count frequency of elements in a list
+
+9. Find duplicates in an array"
+4,,,,

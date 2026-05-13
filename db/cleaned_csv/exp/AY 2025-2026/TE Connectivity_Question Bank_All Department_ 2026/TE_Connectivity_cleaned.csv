@@ -1,0 +1,36 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,Provide JAM session details if any,Provide Personal Interview/HR Round experience.,Provide the list of Technical/Domain based questions asked during the interview,"Important Links for Placement Preparation
+","Provide questions on Quantitative Aptitude, Reasoning, and Verbal Ability"
+AIML & CS-ML,Aayushi Dedakia,1CR22AI003,TE Connectivity,9.5,Na,Mostly asked about impact of ai on the world and the advantages and disadvantages of ai. All questions were based only on the projects mentioned in resume mostly related to accuracy and step wise development. No general technical questions. No coding.,None. only project based questions related to development. No definitions or any technical questions.,,"Questions about projects, the accuracy of project and how it was tested. General questions on how ai will impact the world and how it’s changing generations. All questions were on projects mentioned on resume in detail. Questions about how will we able to travel to office."
+AIML & CS-ML,Sanjay M,1CR22AI100,TE CONNECTIVITY,9.15lpa,,"The interviewer was from Poland.
+ 
+ The TE Connectivity interview for the AI intern was purely based on the projects presented in your resume. They expect candidates to have very good technical knowledge of Machine Learning and AI. Projects should also reflect that you are a good candidate for an AI role.
+ 
+ Area's to concentrate on for this interview.
+ 
+ 1)MACHINE LEARNING MODELS(CNN, RNN, LSTM)
+ 2)EVALUATION METRICS FOR ML MODELS.
+ 3)GOOD KNOWLEDGE OF RAG
+ 4)DEEP UNDERSTANDING OF HOW LLM WORK.
+ 5)INTERSHIP EXPERIENCE IF YOUR AN INTERN.)
+ 
+ Questions:
+ 
+ 1) Even though LLMs are trained on vast datasets, why do they sometimes fail to answer simple mathematics questions? What is the reason behind hallucinations?
+ 2) Explain CNN architecture.
+ 3) Explain LSTM architecture.
+ 4) Explain your internship experience.
+ 5) When you are provided with a task, how do you approach it?
+ 6) If you are building an AI project, how will you ensure sensitive data won't get leaked to AI?
+ 7) What algorithms can be used for semantic search in a vector database?
+ 8) What are embeddings? Why do we need them?
+ 9) What is chunking? (This question is related to RAG)
+ 10) Explain a basic RAG pipeline in detail.
+ 
+ You are expected to know about these topics:
+ 
+ 1) k-shot prompting
+ 2) zero-shot prompting
+ 3) hallucination
+ 4) autoregressive nature of LLMs
+ 5) multi-head attention mechanism
+ 6) LLM architecture components","AI AND MACHINE LEARNING,RAG,LLMS",https://youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu&si=cSn6R8xqa0VVhR9-,

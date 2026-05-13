@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem -Path db\\\\exp -Directory | ForEach-Object { Write-Output $_.Name })",
+      "PowerShell(Get-ChildItem -Path db\\\\que -Directory | ForEach-Object { Write-Output $_.Name })",
+      "PowerShell(python --version)",
+      "PowerShell(python analyze_qb_excel3.py)",
+      "PowerShell(python clean_csv_data.py)"
+    ]
+  }
+}

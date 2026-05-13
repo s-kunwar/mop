@@ -1,0 +1,163 @@
+Sno,Company name,Technical Questions,Programming questions
+1,SAP,"1. How does debugging happen in javascript 
+2. DSA Questions
+3. Questions on DFS and BFS
+4. Difference between Tree and Graph.
+5. Questions SQL queries.
+6. Questions on SQL Join
+7. Questions on DML and DDL.
+8. What are ACID properties
+9. Questions on Scheduling algorithms, deadlock and deadlock prevention.
+10. Linux commands for copying a file when you are not the owner of the file.
+11. Which language is executes in terms of interpretability and compilability between Java, Python and C.
+12. String question - to compare two strings and return a result removing the common characters from both strings. 
+13. Questions related to dbms (constraints and indexing).
+14.  What do you mean by encapsulation?
+15. What do you mean by abstraction? How can you implement it in Java
+16. What do you know about polymorphism?
+17. Do you know about SQL join operations?
+18. Give an example for LEFT join and also write a SQL query for the same.
+19. What is the difference between MYSQL and MongoDB?
+20. Tell me about this Hackathon event that you have mentioned in your resume? What was the problem statement and how did you contribute?
+21. What is react.js and jsx in react? (from resume since i had mentioned)
+22. What is machine learning?
+23. What is supervised,unsupervised,reinforcemnt learning?
+24. Give examples of supervised and unsupervised learning algorithms?
+25. Is KNN a supervised or unsupervised?
+26. Tell me about the OSI Model?
+27. Why is TCP/IP Model different from OSI Model?
+28. What is IP address and MAC address?","1. Reverse a string
+2. How do you search in an BST
+3. SQL question(left join)
+4. Find the number of palindromic substring in the given palindrome string(what is the approach that you use)
+and the time and space complexity of the approach used.
+5. longest path in the grid
+6. sql query question and around 10 mcq questions. Mcq's were related to time complexity, finding errors in the code and choosing the correct queries that return the given output. 
+7. ""01110011010"" This is the pattern. You have to print the maximum times consecutive 1's are there in pattern. Use java and write full code. eg. in this pattern  ""111"" has max consecutive one's so o/p should be 3."
+2,iManage,,"1. write a python code to open a pdf and then extract images from the pdf and then extract text from the pdf 
+2.  write a program for divisibility by 5"
+3,MAERSK,"1. SQL Window functions
+2. SQL Joins
+3. SQL Where Clause
+4. SQL Joins (Time Complexity)
+5. Relu and Sigmoid functions
+6. Basics of Large Language Models
+7. Basics of Neural Networks
+8. Introductory questions on transformers",1. Python- List comprehension
+4,Quinbay Technologies ,"1.ML based questions related to projects
+2.DBMS questions along with sql,nosql
+3.Python basic questions 
+4.java basic questions 
+5. OOPs
+6. SQL and tech stack of projects","1. palindrome in a list and to return max length palindromic string
+2. Armstrong
+3. Binary to decimal conversion 
+4. Anagrams
+5. buys and sell the stock and leetcode 925 question no."
+5,Ellucian,"1. Difference between Css and Tailwind, Oops concepts, React basic questions.
+2. list vs set vs tuple
+3. singleton
+4. super,init and few keywords
+5. c,java easy to med level qns
+6. coding qn- balanced parentheses 
+7. chatgpt prompt to find code or solution
+8. Sql quires like 2nd highest salay
+9. difference between method overloading and overiding
+10. How to handle cookies and session
+11. How to secure your website
+12. HTTPS methods
+13. HTTPS status
+14. middleware
+15. Authentication 
+16. AWS related questions
+17. What is docker lightweight 
+18. write a LLM prompt to design a TO-DO application with complete front-end and backend and the explain the complete code.
+19.  Basic questions on Javascript
+20. Basic questions on programming languagues
+21. Basic to intermediate questions on NodeJS and React
+22. History and progress of NodeJS and Javascript","1. Reverse the string
+2. Fibonacci number.
+3. Gcd using java
+4. bit manipulation.
+5. Write a program to add the digits of a number (integer) in Python and C++."
+6,Plivo,"1. List, Dictionary ","1. Questions on list
+2. dictionary "
+7,Eurofins,"1. Python Concepts
+2. java oops
+3. DBMS - sql queries","1.Subarray, 
+2.peak no, 
+3.tapping rain water, 
+4.first repeating no, 5.index_number"
+8,Cognizant ,"1.Related to DBMS joins 
+2. What is a join? 
+3. Explain different types of joins in SQL.
+4. What is diamond inheritence?
+5. What is the difference between group and cogroup?
+6. What is encapsulation?","1.Write a program to check the uniqueness of the string
+2. Addition of the matrix"
+9,Infosys ,"1. About the projects 
+2. Basic oops
+3. SDE
+4. DBMS questions 
+5. mysql 
+6. python 
+7. cloud technology AWS 
+8. DBMS related questions
+9. What is DSA?
+10. What are OOPs concepts?
+11. Difference between DBMS and RDBMS
+12. computer networks
+13. Explain Bellman Ford algorithm 
+14. What is Trigger ?
+15. Explain your project (Default question)","1. Write the sql query to find maximum marks got in maths subject and print the student name.
+2. python ,js related question"
+10,Oracle ,"1. All core subject related questions 
+2. DFS,BFS
+3. serial link
+4. encryption ,decryption
+5. semaphore
+6. LRU cache
+7. Paging TLB
+8. LLM activation functions
+9. in-contect gradient update
+10. REST API
+11. SQL pusedo code
+12. subnetting
+13. security questions
+14. AWS- IAM","Any language:
+1. load spike detector question
+2.Roll the string problem
+3. implement binary search tree,
+4. bubble and merge sort
+5. swapping 2 numbers without using third variable
+6. To remove duplicates using sql
+7. To implement CTE in sql"
+11,Thermofisher,"1. Ai, ml, dl difference. 
+2. Types of ml models
+3. What is llm and hallucinations
+4. Which ai tool do you use frequently and why do you use it. 
+5. How did you make the admin and user logins and what to do if there is any security threat. 
+6. How did you collect data set for your projects. What to do with error or faulty data. ","1.Given a list of numbers how to normalise them. 
+2.Given a set of 5 documents for finding a given word in the documents print the top 3 documents with the result. 
+3. Python program. "
+12,Koch,"1. SQL based question
+2. types of join
+3. SDLC Lifecycle",
+13,Heartsmiths UK Pvt. Ltd,1. questions related to React.js ,
+14,Altair india (HPC),"1. Install tomcat and configure it on Linux
+2. what is tomcat
+3.  name some linux os
+4. Explain projects Done by you related to HPC or linux ",1. add a user with password ( linux) and secure it
+15,SophisTex,"
+1.Project based 
+2.OOPS
+3.DIFF BW MULTIPLE,MULTILEVEL AND HYBRID INHERITANCE 
+4.mathematical way to check if a number is palindrome 
+5.Database queries and joins.
+6. DSA: search algorithm
+7. Difference between loop and condition, loop in condition and condition in loop
+8. Questionsabout final and super key in java
+9. Difference between Javascript and python, Inheritance, SQL joins, Classes and objects","1.  piece of code for implementing inheritance, encapsulation and it's real time example, abstraction, interface and it's properties, sql queries.
+2. Must know java and python"
+16,Microland,"1. Project based questions.
+2. Basics of Networking protocols - Computer network concepts",

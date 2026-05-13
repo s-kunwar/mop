@@ -1,0 +1,71 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Online Exam Pattern
+","Important Links for Placement Preparation
+","
+Drive Links for any material/Materials for Placement Drive Preparation"
+BE-ISE,Vijay Shankar,1CR22IS185,Eurofins,8 LPA,Multiple questions were asked from quantitative and reasoning section no verbal ability questions .,,,"Why do you want to join Eurofins?
+ What keeps you motivated?
+ Who is your inspiration?
+ What do you want to be in your future?","Questions based on the projects and tech stack mentioned on the resume.
+ Questions on data structures - List, Stack, Queue, Linked list, Dictionary, Hash functions
+ Database questions - ACID properties, CRUD Operations, and told to write some queries like update and some queries to implement joins and nested queries, Questions on Normalization.
+ OOPS - Explain all the oops properties, give real life examples (asked to give examples based on the elements present on the room) Write examples of all types of inheritance.
+ Cloud Computing - IaaS, PaaS, SaaS and what is cloud computing?
+ HTML, CSS - Asked to write a HTML/CSS code to create a marks card using multiple colors.","1. An array of integers was given and were asked to count the number of leaders present in the array. A leader is defined as the element which is greater than all the elements present to the right of the element in the array.
+ 
+ 2. Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining. (Leetcode - 42)","44 Questions - 20 Aptitude, 20 Technical, 4 Coding problems (2 easy + 2 hard)","https://www.geeksforgeeks.org/aptitude/top-100-puzzles-asked-in-interviews/
+ https://www.tpointtech.com/sql-interview-questions
+ https://leetcode.com/problemset/",https://drive.google.com/open?id=1zQytavt1_h7jp6P3isHO2a2veD6d7QwN
+BE-ISE,Sajal Kumar,1CR22IS194,Eurofins,8,"Percentages, Blood relations, reasoning etc",,,"Managerial round-
+ 1. Every single thing from resume
+ 2. why ISE branch and rank in exam
+ 3. why this tech stack
+ 4. 3 fav subjects, questions from those
+ 5. sdlc models
+ 6. questions to check if hobbies are genuine
+ 7. hackathons exp and learnings
+ 8. explain 1 project
+ 9. describe oops concepts taking one thing from the room as an example
+ 10. which domain would u prefer working in 
+ 11. your tech stack is different from ours, why should we hire u","oops and dbms in depth,orm, indexes, sql queries about 2nd highest salary and duplicate names. count number of each words in a paragraph, count number of capital-small-numbers in a string, explain one project in depth(with architecture) , how would u improve your project, how do u debug your code, advanced java questions, u can write code in any language or pseudo code","same as last year, almost all languages available",,,
+BE-ISE,SHASHANK S,1CR22IS147,Eurofins,8 Lpa,Not too hard but should focus on the various types of questions,"Being confident is the key, because in the HR round they asked to introduce yourself",,"Where are you from.
+ What do you enjoy the most.
+ How do you compare the real world problems with the theoretical knowledge. 
+ Explain the concepts of Oops by giving real world example by taking this room as a example
+ What your perspective on AI, is it good or bad.","Oops
+ What is the concept of upcasting and downcasting, and their differences 
+ Can you implement all the four pillers of Oops within one example 
+ 
+ DBMS
+ SQL queries based on the cross join and multiple conditions with using the aggregate functions 
+ 
+ DSA
+ Leading element, where the each element's right side should be less than itself, return the count of those number of element
+ Trapping rain water, leetcode hard problem
+ 
+ Questions based on project
+ Whats the uniqueness about this project and can you explain briefly about the step which you have implemented in this project","Anagram 
+ Contains a substring 
+ Max sub array of Array of n×n
+ The element which is greatest in it's row and smallest in it's column within the 2D Array",Online exam was the Aptitude and coding,Youtube and Apna college,
+BE-ISE,Mahendra S N,1CR22IS080,Eurofins,8LPA,"SQL, Logical reasoning, pseudocode, aptitude",,,"Technical Interview 
+ 1.oops concepts with implementation 
+ 2.SQL queries
+ 3.Basic DBMS questions 
+ 4.Programs on Data structure like arrays ,stacks queue.","Normalisation,
+ ACID Properties 
+ JOINS
+ Tuples, List and dictionary 
+ Init and str functions 
+ Exception handling 
+ Loops","Saddle point 
+ Anagram 
+ Removing zero in an array .
+ Implementation of class and object .","Aptitude, pseudocodes ,SQL and 2 coding sections",,
+BE-CSE,Pavani Reddy H M,1CR22CS124,Eurofins,8lpa + 50k retention bonus,20-25 questions,No,No,"5 dsa coding questions,2 sql,oops ,projects","Python,java oops,DBMS ,sql","1.Subarray, 
+ 2.peak no, 
+ 3.tapping rain water, 
+ 4.first repeating no, 5.index_number","Aptitude, sql, python, java ,c++ and 2 medium and 2 hard coding questions",Striver sheet for dsa,
+BE-CSE,Pavani Reddy H M,1CR22CS124,Eurofins,8lpa + 50k retention bonus,20-25,No,No,"Why u want to join eurofins,why engineering,why cse, discussed about my achievements section","Python ,java oops,DBMS,sql","1.Subarray, 
+ 2.peak no, 
+ 3.tapping rain water, 
+ 4.first repeating no, 5.index_number","Aptitude,java,python , sql, c++",Striver dsa sheet,

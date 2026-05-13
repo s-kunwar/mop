@@ -1,0 +1,92 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview/HR Round experience.,Provide the list of Technical/Domain based questions asked during the interview,Provide the list of programming/Domain based (MBA) questions,"Online Exam Pattern
+","Important Links for Placement Preparation
+","Provide questions on Quantitative Aptitude, Reasoning, and Verbal Ability",Provide the Prominent Section during online test
+BE-ISE,Aishwarya Girish Achari,1CR23IS400,SophisTex,-,,,"During the technical interaction, the interviewer asked conceptual and discussion-based questions. One of the questions asked was “Is programming the future?”, followed by questions on basic technical fundamentals.
+ 
+ The discussion covered:
+ 
+ Programming fundamentals
+ 
+ Python basics
+ 
+ SQL queries and database concepts
+ 
+ Object-Oriented Programming (OOP) concepts
+ 
+ Computer Networks basics
+ 
+ Academic projects
+ 
+ Internship experience
+ 
+ The interviewer mainly focused on understanding my fundamentals, clarity of concepts, and learning mindset.","Is programming the future?
+ 
+ Questions on basic programming concepts.
+ 
+ Questions related to Python basics.
+ 
+ Questions related to SQL basics.
+ 
+ Questions on OOP concepts.
+ 
+ Explanation of the project mentioned in the resume.
+ 
+ Questions about internship experience.
+ 
+ Questions on technologies used in projects.","Is programming the future?
+ 
+ Basic programming logic questions.
+ 
+ Python fundamentals such as variables, loops, and functions.
+ 
+ Simple coding-related MCQs.
+ 
+ Discussion on academic projects and internship work.","The online exam consisted of multiple-choice questions on Quantitative Aptitude, Logical Reasoning, Programming MCQs, and basic coding concepts.",,"Quantitative Aptitude:
+ 
+ Average speed of a vehicle when speeds are different.
+ 
+ Percentage increase and decrease problems.
+ 
+ Time and work (men–days).
+ 
+ Remainder and divisibility problems.
+ 
+ Probability-based questions (dice).
+ 
+ Number of cubes in a cubical block.
+ 
+ Logical Reasoning:
+ 
+ Number series completion.
+ 
+ Odd one out (numbers and shapes).
+ 
+ Coding–decoding based on alphabet shifting.
+ 
+ Direction sense and syllogism questions.
+ 
+ Analogy-based reasoning questions.
+ 
+ Verbal Ability:
+ 
+ Word analogy questions.
+ 
+ Sentence completion.
+ 
+ Basic grammar and vocabulary-based questions.","Quantative Aptitude, Logical Reasoning, Coding MCQs"
+BE-CSE,LAKSHMIKANTH D M,1CR22CS087,SophisTeX,5,,,"1.Project based 
+ 2.OOPS
+ 3.DIFF BW MULTIPLE,MULTILEVEL AND HYBRID INHERITANCE 
+ 4.mathematical way to check if a number is palindrome",OOPS,Check if a number is palindrome,"COMPUTER NETWORKS,Oops,SQL Join queries",,"1.remainder of multiplication of some numbers and divided by 100
+ 2.average speed when distance is same 
+ 3.workers and time 
+ 4.percentage is increased by 20% how much it should decreased to get to original 
+ 5.sets
+ 6.area of circle is 49 pi then circumference 
+ 7.A number is rearranged in to ascending order then the difference bw 4th num from right and 3rd number from left
+ 8. train is coded as ywfns then house ?
+ 9. 11223344 how many ways can this be rearranged so the odd numbers are in odd place and even numbers are in even place 
+ 10.A snail has to climb a well of 20m everyday it climbs 3 m falls 2m then how many days ?","Quantative Aptitude, Logical Reasoning"
+BE-CSE,Akshay B G,1CR22CS015,Sophis Tex,500000,No JAM asked,Not done yet,"Project explanation, OOPs, SQL, Programming languages","Difference between Javascript and python, Inheritance, SQL joins, Classes and objects","Difference between loop and condition, loop in condition and condition in loop",MCQs,https://play.google.com/store/apps/details?id=com.openai.chatgpt,"Percentage, permutations, combinations, probability, Numbers, Decoding.","Quantative Aptitude, Logical Reasoning, Coding MCQs, General Coding"
+BE-CSE,Naveen B,1CR22CS119,Sophis Tex,500000,,,"Project explanation, programming language, Oops, Database queries and joins.","Final and super keywords explanation, piece of code for implementing inheritance, encapsulation and it's real time example, abstraction, interface and it's properties, sql queries.","Preferred language is java, and the questions are asked on final and super keywords and on oops concepts.",,,"Time and work, percentage, permutations and combinations, probability, numbers, encoding decoding.","Quantative Aptitude, Logical Reasoning, Coding MCQs, General Coding"
+BE-CSE,Aashish Chaudhary,1CR22CS003,Sophixtex,500000,,,"DSA: search algorithm, Basic SQL, OOPs concept, Projects.","DSA: search algorithm, OOPs, SQL, project explanation",Any programming as per your knowledge. Python and Java must,"Aptitude, SQL databases, Reasoning",,"Time-work relation, speed, word","Quantative Aptitude, Logical Reasoning, Coding MCQs, General Coding"

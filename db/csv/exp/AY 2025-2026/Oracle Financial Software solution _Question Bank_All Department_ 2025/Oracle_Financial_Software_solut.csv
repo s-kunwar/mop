@@ -1,0 +1,77 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Online Exam Pattern
+","Important Links for Placement Preparation
+",Column_14
+MCA,kamalavathi S Balegar,1CR24MC045,Oracle Financial Software solution,"6,62,000",,"1.Tell me about yourself 
+2. Why CMRIT?
+3. Why MCA?",,"1. Salary negotiation 
+2. Where you want to see yourself in next 5v years?
+3. Why oracle??
+4. How you handle rejection??","Sql queries, computer networking, operating system, Python","1. Joins query
+2. Palindrome or not 
+3. 3x3 grid box puzzle",Offline,I reffered ptqb from college ,
+MCA,Vignesh,1CR24MC112,Oracle OFSS,6.6 lpa,"2 coding quetions easy to medium range.
+The mcq were on the harder side for questions from cloud computing.",No,No,"1. Technical round: * Explain 4 pillars of java, explain exception, explain multi threading, explain collections, explain difference between array list and linked list, what are the challenges you faced while building the project and how did you overcome it. 
+* coding question: ""Tell me about yourself"" --> the whole string should be reversed along with each word reversed.
+* 2 SQL queries: 2 max salary, employee details whose name has only 4 characters and it should be starting with 'A'.
+2.Managerial round: explain project, how do you retrieve employee details in a more optimized way.","coding question: reverse a string along with along with each word reversed.
+SQL query: 2nd max salary, using like operator.",coding question: reverse a string along with along with each word reversed.,no,,
+BE-ISE,Ayush Kumar,1CR22IS029,Oracle FSS,6.62,"questions from programming and core concepts
+Two technical interview rounds 1st one was pretty easy basic sql queries and simple dsa and the 2nd round was all about project and a few logical questions",,,,SQL queries inner join and self join in technical interview round 1,"Bubble sort, BST traversal and to find number of squares from a given 3x3 matrix",,,
+AInDS*,Shrinidhi Umapathi,1CR22AD104,Oracle (OFSS),6.62LPA,"2 coding questions (level - medium), Quantitative - Logical- Verbal MCQ section and Technical - Cloud - OS MCQ section",,,"Technical Round
+ - Tell me about yourself 
+ - rate yourself from 1-10 in Python,Java, SQl
+ - Datatypes in Python 
+ - Two lists were given, and was told to do concatenation and remove duplicates after concatenation.
+ - What do I know in Sql?
+ - Joins
+ - Difference between Inner join and full inner join 
+ - Two tables with 1 column each was provided for which Inner Join Query was told to apply.
+ - Output for Left, Right and Inner join using the same two tables but without displaying the 2nd table.
+ - About Tableau and PowerBi(it was in my resume) 
+ - what are the sources of data for these tools
+ - what are the different visualizations 
+ - what is a data model 
+ Difference between DBMS and excel sheets 
+ 
+ HR Round
+ - Tell me about yourself 
+ - Teach me something in AI 
+ - Explain one of your projects in a simple matter without much of technical part
+ - What is OFSS?
+ - what is Fintech ?
+ - What is Fintech in terms of Banks?
+ - What is credit and debit ?
+ - What do you want to become?","What is OOPS?
+ What is the difference between DBMS vs Excel Sheets ?",Concatenate and remove duplicates of the concatenated list,"2 programming questions, 2 sections of MCQS of around 20 questions.",,
+MCA,Vignesh,1CR24MC112,Oracle,6.62LPA,"Aptitude, Reasoning, Verbal, Cloud computing questions were asked in the first round. Except for cloud computing other section questions were easy.",No JAM,No GD,"First round interview, it was a technical round interview, I was asked explain 4 pillars of oops, multithreading, collections, difference between array list and linked list, difference between java 8 and 21 or 17, exception handling, difference between finally and final keywords in java, one coding question ""Java is a programming language"" reveres the sentence with each word reversed. Also questions like how do did you solve the problems you encountered while building your project, how do you work in teams.","First round interview, it was a technical round interview, I was asked explain 4 pillars of oops, multithreading, collections, difference between array list and linked list, difference between java 8 and 21 or 17, exception handling, difference between finally and final keywords in java, one coding question ""Java is a programming language"" reveres the sentence with each word reversed. Also questions like how do did you solve the problems you encountered while building your project, how do you work in teams.","Reverse a sentence (""programming questions asked"" ) with each word reversed. How do you optimize the selection of data from a large data set. select the details of a employee whose salary is second maximum, select the details of an employee whose start with A and has exactly four characters after.","Only first round was online which was aptitude, reasoning, verbal and cloud. Second and third round were offline in Oracle campus.",No,"I don't remember exact questions but the topics questions asked from are work and time, unit digit, time and distance, percentage, profit loss and similar topics."
+MCA,C M V Krishnesh,1CR24MC022,Oracle (OFSS),6.62,,,,"1. Resume based questions
+ 2. Questions on projects
+ 3. Behavioral questions 
+ 4. Questions on personal interests
+ 5. Core java
+ 6. SQL queries","1. Questions on java
+ 2. Fibonacci
+ 3. Errors and exceptions 
+ 4. Sorting 
+ 5. Sql queries
+ 6. Normalization 
+ 7. Core java questions 
+ 8. Questions on memory allocation","Fibonacci 
+ Selection sort
+ Given a table, find the employee who just joined a month ago","Aptitude, AWS, networking, codes, pseudo codes",,
+MCA,Vignesh,1CR24MC112,Oracle,6.62 lpa,Na,Na,Na,"About what course I'm doing, there were some technical questions like how do you retrieve the data in a optimised way, checking how well you communicate your answer.","About oops concepts, multithreading, collections from java, difference between arraylist and linked list, difference between final and finally etc.","Reverse a sentence with each word reversed, second max salary, getting employee details whose name starts with a and has exactly 4 characters after.","Mix of aptitude, AWS, networking, reasoning, verbal.",Na,Na
+MCA,C M V Krishnesh,1CR24MC022,Oracle (OFSS),6.62 lpa,,,,"Mix of technical and HR questions
+ 1. Behavioral questions
+ 2. Situation based questions 
+ 3. Questions on personal interests 
+ 4. Questions on core java
+ 5. Errors and exceptions 
+ 6. Memory allocation 
+ 7. SQL queries","1. Resume based questions 
+ 2. Questions on projects
+ 3. Problems encountered while working on projects
+ 4. Different Sorting techniques - bubble sort, selection sort, merge sort
+ 5. Core java questions 
+ 6. SQL queries 
+ 7. Normalization","Fibonacci series
+ Sorting - bubble and selection","Questions on AWS, aptitude, networking, reasoning, verbal",,

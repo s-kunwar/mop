@@ -1,0 +1,7 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Important Links for Placement Preparation
+",Online Exam Pattern
+AInDS*,Eshwar B,1CR21AD019,OpenText,6LPA,,,,"Technical:
+ dictionaries indexing, regular expressions, file I/O handling, http methods
+ HR:
+ Opinion on AI, situation based q's on team effort, why opentext, why did u take AInDS","dictionaries indexing, regular expressions, file I/O handling, http methods","dictionaries indexing, regular expressions, file I/O handling, http methods",www.youtube.com,
+BE-ECE,Vinaygopal,1CR21EC238,OpenText,2025-06-11 00:00:00,Na,Na,Na,"In hr interview they Asked about the company , where u look after 3 years , tell 2 situation supporting ur weakness and strength and how u countered it","Double dictionary implementation, told to make a live flask application, file handling , linkedlist","General hashmaps , arrays medium to easy types",,Two coding questions in first round

@@ -1,0 +1,157 @@
+serial_number,company_name,technical_questions,programming_questions
+1,EPICOR,"1.Java strings and arrays questions.
+2.Reversal of string
+3.Classes and objects
+4. Largest and second largest salary using MySQL and 2-3 
+5.Questions on SQL queries 
+6.DBMS definitions like Primary key, unique key,  DDL, DML, DCL, TCL, DQL, etc
+7.OOPS concepts which include 4 pillars, super keyword, Constructor chaining. 
+8.HTML and CSS question on flex box, what is display : block means and HTML tags basic.
+9.Question on Project.
+10.Questions on opps concepts ""1.Find the maximum number in an array
+2.Sql queries(basic):
+3.Find all the names starting with letter c
+4.Peform basic join operation ""","1.Permutation and combination question to be coded in any language
+2.Print all the odd index element in an Array
+3.Check if a String is a Palindrome
+4.Reverse a String by words (Ex : Hello CMRIT --> Output : CMRIT Hello) 
+5.Finding sub string in a given string ,and sorting algorithms"
+2,Maersk,"1.What is the difference between method overloading and operator overloading, with real-life examples?
+2.Questions on OOP concepts, including why and where we use them in the real world.
+3.Questions based on the projects you have mentioned, along with the internship projects.
+4.OOPS Completely with examples
+5.Abstract vs Interface
+6.Java questions
+7.DSA
+8.JS vs TypeScript
+9.fetch API, promises, async/await
+10.Node.js vs React
+11.Balanced Parentheses
+12.OOP pillars, polymorphism, inheritance (C++ vs Java)
+13.LRU algorithm
+14.Python vs Java/C++, interpreted vs compiled
+15.multithreading
+16.singleton pattern
+17.ArrayList vs List.
+18.About fetch method in javascript,about inner join.","1.Question on linked lists to add two numbers, with each digit of the number stored in a node, without using any other data structure.
+2.Palindrome
+3.Reverse a string
+4.Linear search
+5.Binary search
+6.Balanced Parentheses - (Python).
+7.Number of Islands (DFS in a matrix) - C++
+8.Polymorphism Code Implementation - {C++}
+9.Inheritance Differences (C++ vs Java)
+10.Bubble sort"
+3,Imanage,"1.Some of the questions based on CNS, OOPS and CNS
+2.SDLC
+3.OSI LAYERS
+4.Java, mySQL
+5.Software Testing","1.Finding a particular word in the dictionary 
+2.Pattern based problems 
+3.Selenium,Java"
+4,plivo,1. API  2.TCP vs UDP                 3. HTTP status codes       4.DNS      5.MAC vs IP address    6.NAT,"1.Python or JavaScript
+2.List flattening and manipulation
+3.Dictionaries"
+5,Kantar,1. Left join and why do we use it,
+6,Parallel Wireless,1.Basic DSA,"1.valid parenthesis
+2.reversing of linked list"
+7,Infosys,"1.What is node js?
+2.What is clustering in node js?
+3.SDLC life cycle
+4.RDBMS and DBMS.
+5.https v/s http
+6.DS v/s DSA
+7.Convex and Concave lens 
+8.OSI model
+9.OOPs concept",
+8,MathCO,"1.Sql
+2.Armstrong number
+3.Buy and sell stock
+4.Puzzles","1.Remove duplicates and find second largest element
+2.Find second,third,forth largest elements"
+9,Oracle FSS,1.SQL queries inner join and self join,"1.Bubble sort, 
+2.BST traversal 
+3. find number of squares from a given 3x3 matrix"
+10,Oracle GSC,"1.difference between object, method, and property in Java,
+2.what is DML and DDL and what are the commands under them, 
+3.difference between truncate and drop command,
+4.what is encapsulation in OOPS and write an example code on paper, 
+5.write sample JSON with child JSON (bank data example), 
+6.given an RDBMS table and asked to write SQL queries based on group by, where, and counting,
+7.difference between having and where, 
+8.write bubble sort code on paper and explain, 
+9.briefly tell what is Deep Learning, how it works, and famous image recognition model in Deep Learning.",1.arrays (detect the duplicate element from two arrays)
+11,Eurofins,"""Oops
+1.What is the concept of upcasting and downcasting, and their differences 
+2.Can you implement all the four pillers of Oops within one example 
+
+DBMS
+3.SQL queries based on the cross join and multiple conditions with using the aggregate functions 
+
+DSA
+4.Leading element, where the each element's right side should be less than itself, return the count of those number of element
+Trapping rain water, leetcode hard problem
+
+Questions based on project
+5.Whats the uniqueness about this project and can you explain briefly about the step which you have implemented in this project ""","1.""Anagram Contains a substring ""
+2.Max sub array of Array of n×n
+3.The element which is greatest in it's row and smallest in it's column within the 2D Array"""
+12,Genpact,"1.Gen AI
+2.Mongodb connection code
+3.DDL,DML,TCL etc commands 
+4.Union and join difference 
+5.Explain about your all 3 projects",1.DSA program
+13,capegemini,"1.Explain the difference between a list and a tuple.
+
+2.What are the reasons for choosing Python over other programming languages?
+
+3.What is a lambda function in Python? Explain with an example.
+
+4.Distinguish between a method and a function.
+
+5.What is meant by a hash map / hash table?
+
+6.Define Artificial Intelligence (AI).
+
+7.What is Machine Learning (ML)?
+
+8.Explain the concept of normalization in databases.
+
+9.Differentiate between TRUNCATE, DROP, and DELETE commands in SQL.
+
+10.What is a dictionary in Python?
+
+11.What is meant by NoSQL?
+
+12.What are SQL joins? Explain the different types of joins.
+
+13.Explain the different types of SQL commands such as DDL, DML, DCL, and TCL.
+
+14.Explain method overloading and method overriding with real-world examples.",
+14,SophisTex,"1.Questions on basic programming concepts.
+
+2.Questions related to Python basics.
+
+3.Questions related to SQL basics.
+
+4.Questions on OOP concepts.
+
+5.Explanation of the project mentioned in the resume.
+
+6.Questions about internship experience.
+
+7.Questions on technologies used in projects.""
+
+8.Discussion on academic projects and internship work.",
+15,Microland,1. Computer Network Basic Questions,1.Removing duplicates from the array
+16,MSG Global,1. Questions from the projects mentioned on the resume,"1.Solve coding problems based on array operations.
+2.Solve coding problems involving string manipulation.
+3.Write programs to work with substrings in a given string.
+4.Develop a program to check whether a given input is a palindrome.
+5.Write a program to find duplicate elements in an array."
+17,TEConnectivity,"1.Explain the architecture of a Long Short-Term Memory (LSTM) network.
+2.Describe your internship experience.
+3.What algorithms are used for semantic search in a vector database?
+4.How will you ensure that sensitive data is not leaked while building an AI project?
+5.Explain a basic Retrieval-Augmented Generation (RAG) pipeline in detail.",

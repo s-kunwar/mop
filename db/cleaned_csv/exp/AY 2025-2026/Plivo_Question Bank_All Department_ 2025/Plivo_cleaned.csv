@@ -1,0 +1,146 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.," questions on Quantitative Aptitude, Reasoning, and Verbal Ability","Online Exam Pattern
+","Important Links for Placement Preparation
+","
+Drive Links for any material/Materials for Placement Drive Preparation"
+BE-CSE,Jeevan R,1CR22CS073,Plivo,1000000,,,"GD was good, giving relevant information is more preferable",,"List, Dictionary","Python preferable 
+ Questions on list, dictionary",,,,
+AInDS*,Lakshitha S R,1CR22AD060,Plivo,10LPA,,,"Topic was ""Does social media creats awareness or just noise""","What did you learn in 3 years of your college life
+ Pros and Cons of product engineer 
+ About project 
+ Self introduction 
+ What is your long term goal 
+ A situational question","API errors, explanation of the code written during the test, compilation and interpretation",-,,,,
+AInDS*,G Harshitha Singh,1CR22AD034,Plivo,10 CTC,,,"Topic : Social media noise or awareness,if was roundtable setup evrything gotta chance to speak as it was in an sequential order",° Where do you see yourself in 5 years °What are you expectations from this company °What is something you are confident and underconfident about °What kind of culture do you except from the work here ° Why this role and what do you think about it ° What do you do on ur weekends ° Tell me about yourself ° Tell me about your family ° Tell me about the one project you are proud of,"What is HTTP response,API and API error,TCP and UDP,HTTP 1 & HTTP 2 ,NAT,SMTP,What APIs did you use in ur project and how do you call them","We had 3 set of questions during the pen and paper round and we were asked explain them in the tech interview. + How to flatten the list ( without the built in function) ,How to check if your email is valid (Any programming language would do)",3 coding questions - 30 minutes - Pen and Paper,,,
+AInDS*,Diya Rose Melwin,1CR22CD013,Plivo,10 lpa,"There was no aptitude 
+ It was a written assessment for 30 min.
+ Questions were based on API",There was no JAM,"Topic for my GD was ""social media -a source of awareness or noise""","Tell me about your family,strength and weakness,where do you see yourself in 5 years,why this role","Differences between different types of data structures,explain the questions written for the assessment, API related questions","It was API based,one of them was priority queues",It was a written assessment of 3 questions,No link,https://drive.google.com/open?id=1G39sxoPpk8Mf_HtTKp4eoN-ZumL6Hvbs,"API related questions
+ And to code ,fine avg response time,count priorities,queues"
+AInDS*,Ananya M,1CR22CD004,Plivo,10 lpa,There was no aptitude round,,"There were 15 to 20 people in a group and each group was given 12 minutes to complete the discussion and 3 minutes of prep time. Topic given was ""Is Technology making us smart or lazy""","There were 3 interview rounds : 
+ Technical interview , Managerial interview and HR interview . 
+ Questions asked in HR and Managerial round were general behavioural type like tell me about yourself, your hobbies, how do you handle a particular situation at work, what is your most favourite/challenging project and what was your role in it etc..","1) What are your technical skills 
+ 2) What do you know about API's
+ 3) Difference between array and linked list
+ 4) Difference between sql and Nosql data bases
+ 5) Difference between TCP and UDP
+ 6) What is DNS?
+ 7) How do you find Average Response Time
+ 8) How do you flatten the list without the built in .flatten() method?
+ 9) Explain the logic of your pseudocode (written during pen and paper method of programming test)",Pdf is provided,,"Geeks for geeks for CS fundamentals and puzzles
+ Hackerrank for SQL practice
+ Leetcode for DSA",,
+AInDS*,Amulya R,1CR22AD009,Plivo,10 LPA,,,Topic - Does social media creates awareness or just noise?,"My HR Interview Experience
+ 
+ My personal experience of the HR round was absolutely great and fun. The interviewer asked me a mix of personal, behavioral, and career-oriented questions, which gave me the opportunity to express both my professional skills and my personality.
+ Overall, the interview was conversational and comfortable
+ 
+ Questions I was asked:
+ 
+ How would you describe this day so far, based on your experience?
+ 
+ Explain one project that you feel very proud of.
+ 
+ What have you learned in these 3 years of engineering?
+ 
+ Where do you see yourself in the next 5 years?
+ 
+ What is your ambition?
+ 
+ What has badminton taught you in life, and why do you like it?
+ 
+ What is one thing that boosts your confidence and one thing that breaks it?
+ 
+ Tell me about yourself and your family.
+ 
+ What are your strengths and weaknesses?
+ 
+ What is one thing that you would like to correct about yourself?
+ 
+ Are you comfortable working in the US time shift?
+ 
+ What is the difference between a Software Developer and a Customer Success Engineer?
+ 
+ Why do you want this role, and what do you know about it?
+ 
+ How do you manage your work and social life?
+ 
+ Imagine you are going on a trip or to a restaurant with your friends. What role do you play in the group—are you the planner or someone who just agrees and goes along?
+ 
+ Tell me about yourself apart from your resume.","What are your technical strengths?
+ 
+ Why did you choose Python as your strength?
+ 
+ What is a REST API?
+ 
+ What is the difference between compilation and interpretation?
+ 
+ What do HTTP errors 401, 404, and 500 mean?
+ 
+ Explain everything you know about APIs.
+ 
+ Explain the code that you wrote in the test.
+ 
+ How do you debug errors in an API?
+ 
+ What are DNS, TCP, and UDP?
+ 
+ What is the difference between HTTP and HTTPS?","Problem: 
+ Response-time metrics
+ We’re given a nested list of API response times (in ms) that may contain invalid entries like strings or None.
+ We need to:
+ Flatten the list and filter out non-numeric values.
+ Calculate:
+ Average response time (2 decimals).
+ Count of requests > 1000 ms.
+ 95th percentile response time.
+ Return (avg, count, percentile).
+ Log how many invalid values were ignored.
+ 
+ Problem: 
+ tickets = [
+  {""id"": 1, ""priority"": ""P1"", ""status"": ""open""},
+  {""id"": 2, ""priority"": ""P2"", ""status"": ""closed""},
+  {""id"": 3, ""priority"": ""P3"", ""status"": ""open""},
+  {""id"": 4, ""priority"": ""P4"", ""status"": ""open""},
+  {""id"": 5, ""priority"": ""P1"", ""status"": ""in progress""} ]
+ You’re given tickets with priority and status.
+ Count how many P1/P2/P3 tickets exist.
+ Break it down by status (open, closed, in-progress).
+ Ignore invalid priorities (like P4).
+ 
+ Problem:
+ Meeting Room Scheduler
+ You are given a list of meeting requests with start and end times (in 24-hr format).
+ Example input:
+ meetings = [
+  {""id"": 1, ""start"": 9, ""end"": 11},
+  {""id"": 2, ""start"": 10, ""end"": 12},
+  {""id"": 3, ""start"": 11, ""end"": 13},
+  {""id"": 4, ""start"": 14, ""end"": 15},
+  {""id"": 5, ""start"": 9, ""end"": 10}]
+ Write pseudocode to find the minimum number of meeting rooms required so that no two overlapping meetings are scheduled in the same room.
+ Return a schedule assignment, showing which meeting goes to which room.
+ 
+ Programming language - Python or Java or React.js",Written test,,,
+BE-ISE,Abhay Margabhandhu,1CR22IS001,Plivo,10,"No aptitude round, but strong focus on GD and communication skills",-,"Topic was ""if technology solves everything, why do we still need human support?"" Everyone got a chance to speak.","1. Tell me about yourself 2. Who was your mentor growing up? 3. Are you introverted or extroverted?
+ 4. Which personality trait are you proud of?","APIs, TCP vs UDP, HTTP status codes, DNS, MAC vs IP address, NAT,","Python or JavaScript
+ 
+ List flattening and manipulation
+ Dictionaries",Pen and Paper test,LeetCode,,Verbal ability tested during group discussion
+BE-ECE,Tanusha R,1CR22EC224,Plivo,1000000,-,-,"Topic given was “ Influencer vs Celebrity , who shapes opinion more “",-,"1. Explain about your project.
+ 2. Can you tell about your technical skills?
+ 3. What are API?
+ 4. How do you debug an API?
+ 5. What is DNS?
+ 6. What is linked list and array .
+ 7. How do you flatten a list?
+ 8. What is UPD and TCP?
+ 9. What is 404 and 401 error?
+ 10. Explain about the code you have written?( code written during the assessment)","1. Response time metrics : 
+ Invalid entries : [120,995,1010,[200,""Inavlid"",3000],None,450]. flatten the list and filter out non - numerical values. Calculate average response time ( 2 decimal place), count of request > 95% response time. Logs how many invalid values were ignored.
+ 
+ 2.Tickets with priority and status:
+ [{""id"":1,""priority""=P1,""status""=""open""},{""id"":2,""priority""=P2,""status""=""closed""},{""id"":3""priority""=P3,""status""=""open""},{""id"":4,""priority""=P4,""status""=""open""},{""id"":5,""priority""=P1,""status""=""in-progress""}]. Count P1/P2/P3. 
+ Break to by status(open, closed, in-progress), invalid priority (P4).
+ 
+ 3. Meeting room such that no meetings coincide:
+ meetings= [{""id"":1,""start""=9,""end""=11},{""id"":2,""start""=10,""end""=12},{""id"":3,""start""=11,""end""=13},{""id"":4,""start""=14,""end""=15},{""id"":5,""start""=9,""end""=10}]",,,,-

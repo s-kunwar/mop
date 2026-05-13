@@ -1,0 +1,62 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Important Links for Placement Preparation
+",Online Exam Pattern
+BE-MECH,Aditya choudhary,1cr21me004,ANZ Bank,Na,Na,Na,Topic was corporate life va startup life,Na,Na,Na,Na,Na
+BE-ISE,Kumar sourabh,1CR21IS079,ANZ Bank,22.5k per month,"Project based questions,GD round",,Topics were given and was asked to opt either of topic and discuss on it,10-12 questions and it was good,2025-05-06 00:00:00,"Python,java",,
+BE-CSE,Shivani TR,1CR21CS169,ANZ,"22,500 stipend, post convention 9-10lpa",,,They gave topic about doing Master degree is good or not,"About myself
+ Majorly they asked technical questions based on resume(major project) 
+ Asked lot about bash scripting, Jenkins, and also about CI/CD pipeline","Asked about major project, bash scripting and devOps tools and also about CI/CD","They asked about Sorting and Searching technique, and one scenario based question
+ ""How to move the 1000's terabytes of transaction from one machine to another"" (Asked about approach used for above question)",Basic understanding of what college has taught in curriculum and practicing leet code questions,
+AInDS*,Laya Ramamurthy,1CR21AD028,ANZ,270000,Group Discussion was held and was good,No jam session conducted,"They have a list of general gd questions and I got the topic as ""is it beneficial to do Masters or UG is sufficient""","It was a good experience, they asked about us, about our projects, our skills - like coding and known tools for ci/cd pipelines, shell script language...","About project and skills we build, reversing a string, shell script language basics","Reverse a string, sorting",,It wasn't a online exam
+BE-ISE,Nitish kumar ram,1CR21IS107,ANZ,23500,,Explain in the topic should engineering engaged in politics,Should engineer take part in politics ?,Basically they are asking about the personal goal and how you are curious about your goal,"Cooding question they asked palindrome ,reverse the string using recursion,in the string find no of palindrome","2
+ Palindrome 
+ Reverse the string using recursion",Na,Na
+BE-CSE,Lekhashree. ST,1CR22CS406,ANZ,22k for month,There is no aptitude round,There is no JAM gound,Yes,Yes,Yes,No,No,No
+BE-CSE,Ritesh Kumar Singh,1CR21CS149,ANZ ( Apprentice Role),22.5 k/month,,,"We group of three members were there.
+ We were given with topic 
+ ""The impact of social media over professional life"".
+ 
+ We were suppose to dicuss in for and against","List of questions.
+ 
+ 1.Java( Multithreading, oops, hashmap, hashset)
+ 2.python(mutqble/immutable, command to run 
+  python code, )","Java- data types, multithreading, datstructure
+ Python - mutable and immutable, how to pass the value",Some queries relatad to SQL,,Direct interview
+BE-ISE,Satti Mohan Sai Ram Reddy,1CR21IS142,ANZ Bank,270000,,,"Group discussion was conducted on the topic of "" android vs ios ""","1. Introduce yourself 
+ 2. Programing question was given to solve and write code in paper
+ 3. GD was conducted 
+ 4. The interview concluded and questions related to projects.
+ 5. Q&A session was done",For loop based questions,For loop pattern questions,,
+BE-ISE,Vishal Dash,1CR21IS177,ANZ bank,270000,,,1)Mainframe and cloud,"1)introduce yourself
+ 2)why did you choose this college 
+ 3)would you recommend it to someone","1) merge 2 datasets using pandas
+ 2)sorting one columns of a dataset in descending order 
+ 3)what are the programming languages that you know 
+ 4) questions were based on resume","1) sorting a column of a dataset(python)
+ 2) joining 2 datasets",,
+AInDS*,V Varsha Reddy,1CR21AD058,ANZ,22000,-,-,Is AI an advantage of not,What did you learn in past one month,What are the different data types in python,-,,
+AIML*,Harshith J R,1CR21AI027,ANZ Bank,270000,,,In group discussion they gave topic on Social Impact on life,In Technical Interview they asked about Sorting like merge sort and quick sort and searching technique,"Merge Sort, Quick sort ,Linear search, Binary Search",,,
+AInDS*,Harsha M J,1CR21AD021,ANZ bank,2.7lpa,,,"There is a group discussion and they asked ""is AI is boon or bane""","1. Explain your project thoroughly and questions based on project
+ 2. Basic python coding questions like reverse the strings and prime number
+ 3. Questions based on software development life cycle 
+ 4. Questions based on sql basic to intermediate level","1. What is difference between AI and machine learning 
+ 2. What is the difference between set and tuple 
+ 3. Explain merge sort and quick sort
+ 4. Mention the types of joins used in sql
+ 5. Query based on full join","1. Reverse the string (python)
+ 2. Prime number (python)",,
+BE-ISE,Srikanth S,1CR21IS158,ANZ,"22,500 * 12 (stipend)",,,Group discussion was based on the topic startup vs corporate,"In personal interview they asked about Python and java related questions,Oops concepts and theoretical questions on java and python and they asked about internship experience and what was the role and contribution in the internship","Libraries
+ Functions
+ Oops
+ Java and python related questions 
+ Sql vs mongodb
+ Sum of two numbers without plus operator","Python and java
+ Oops
+ Functions 
+ Abstraction 
+ Internship explain 
+ Libraries 
+ Sum of two numbers without plus operator","Geeks for geeks
+ Pepinsta
+ Online study4u
+ Leetcode",Technical round non technical round and Group discussion
+BE-ISE,Jhenkar MS,1CR21IS069,ANZ,270000,,Na,Corporate jobs vs start ups,Projects,Basic programming languages,Java and python,You tube,Na

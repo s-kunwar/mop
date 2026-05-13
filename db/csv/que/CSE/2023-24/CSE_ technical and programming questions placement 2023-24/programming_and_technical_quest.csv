@@ -1,0 +1,332 @@
+Sno,Company name,Technical Questions,Programming questions
+1,Ellucian,"1. Output for C, Java code snippet - function overloading and overriding concept,
+2.postfix and prefix operators , classes , pointers.
+3. Javascript - ES6 concept
+4. SQL and DBMS concepts 
+5. Asked basic HTML,CSS,JS question. Apart from that discussed the projects mentioned in depth.
+Topics:
+1) Looping  2) HTML   3) CSS   4) JS
+6. ""Questions from:- c++, objective-c, sql, math, java, data structures, date and time. 
+7. One-on-one tech round:- Basic to intermediate oops, java, python basics, sql, 
+8. write the approach of problem and if approach can be made better in terms of space and time.
+9. ""DBMS:: +  Given a situation, write a query accordingly
++ Difference between primary and foreign key,Composite key
++ Joins related questions.
+10. OOPS:(java) : Tell about Polymorphism using example.
+                            .overridden function
+                             .Constructors
+                             .Static functions
+                             .Inheritance and types
+11. ""React js
+12. ""Differentiate Between If Else and Switch Statement?
+13. How Will You handle errors in the code?(Exception Handling)
+14. What do you know about context managers in Python?
+15. What is SQL? How is it different from MongoDB?
+16. Do we need schema for SQL and MongoDB and how do you store the data in both?
+17. Question Based on Project In the Resume and various use cases of each project.""","1.Splitting space separated words which may contain some words in quotes that must be printer together without splitting.
+2. Code to print Prime numbers between a range 
+3. Asked one programming question(Palindrome) and asked to explain the approach and complexity.  
+4. Code Snippets, ""Mostly Guess the Correct Output based questions in languages such as C++, C, Python and Java.
+5. SQL queries, 
+6. Code to reverse a number and check palindrome
+7. Python: Packages and Coding question
+8. Given a situation , to enter a name including first,middle and last name .Now select only the last name and give the output as each letter in reverse order.
+9. Given a set of numbers , choose the numbers that add up to 5 
+10. Program to find Missing number in an array
+11. program on Balanced paranthesis
+12. Program to find Maximum subarray
+13. Find the min number in an array?(C++)"""
+2,Eurofins,"1. Asked from resume and project also
+2. ""What are interfaces and differentiate it with abstract classes (java) 
+3. How does web work
+4. Questions on Software architecture (MVC, etc.) 
+5. React JS","1. find the missing number in an array , numbers are from 0 to n
+2. permutations of a string
+3. given cites, make to functions connect(a,b) to connect two cities and isconnected(a,b) to check if they are connected or not
+they asked to write the code + dry run
+4.""1. to check if 2 words are anagram or not
+5. pattern matching,ex: give 2 string """"bombay"""" an """"om*"""", it should print """"ombay""""
+6. find saddle points in a matrix, points in a matrix which have the highest value in a row and lowest value in column, print index in sorted order
+7.given string , remove single vowels, if continuos not remove it, for ex """"abbaabb"""" will be """"bbaabb""""
+8. given matrix of n*n, find m*m matrix with maximum sum, 2<=m<n
+I used python, but mostly every language was there.
+Only 5 test cases were there for each,and chances of TLE i felt is very low as timing were pretty much high, 99sec for python""
+9. Maximum Subarray
+10. Anagram string program
+11. Write a Program on Balanced paranethesis
+12. Write a Program to find Missing number in an array
+13. Write a Program to find the maximum subarray"
+3,Surya Software,1. OOPS concept,1. Anagram and Subarray easy level problems
+4,Amadaus,"1. What is an Object Oriented Language?
+2. List some OOP languages.
+3. Why is Java not considered a pure OOP language? Name one pure OOP language.
+4. What are the features/pillars of OOPS? Define each.
+5. What are constructors? What are the different types of constructors?
+6. Implement a copy constructor in a language of your choice (mine was Java)
+7. What is call by value and call by reference? Code an example of each.
+8. Explain the Java Memory Management (Heap and Stack Memory) 
+9. What is the Big-O of written code? Why?
+10. Questions on  DSA, DBMS, OOPS, each again characterised into easy, medium and hard levels.
+11. There were 30 mcqs from dsa, oops, dbms and 2 coding questions of easy-medium level. The mcqs were divided into sections as easy, medium, hard carrying different weightages. In 2nd round, there were questions based on data analysis(pie charts, bar graphs) in which lots of calculations were involved.
+12. How would you test for a hacker trying to hack your data servers. (Security Testing)
+13. Types of testing, functional and non functional.
+14. what are the functional and non functional components of a code.
+","1.How would you write tests if 100000 people wanted to login to Gmail at the same time?
+2. Implement a copy constructor.
+3. Implement call by value and call by reference.
+4. Given a string and a pattern, return the number of times the pattern appeared in the string.
+5. OOPs based code to make a headphone by inheriting various classes for different parts of the headphone, 6. code to send 5000 emails simultaneously to test an email application."
+5,Surewaves,"1. They asked about the project, the scheme of the project and queries on the project.
+2. Oops with the code and detailing of concepts.
+3. Dsa, return the indices of pairs in an array whose sum is equal target sum.
+4. Networking questions - http and flow of information when we click the search button on Google. 
+5. Oops concepts- overloading, overriding, abstraction, interface, inheritance.
+6. Time complexity of recursion 
+7. Javascript questions on scope
+8. Private public and protected access specifiers
+9. Static methods 
+
+","1.Puzzle (minimum cuts required to make the cake into 8 equal pieces)""
+2. SQL commands
+Find the 6th highest salary, Explain limit and offset , Explain having and group by "
+6,Accenture ,"1. Software development phases
+2. Database/project related questions, optimization of project and usage. 
+3. Different between c language and java language 
+4. OOPS concept in Java, SQL commands and queries, project related questions, technical questions related to the language mentioned in resume 
+5.Overloading overriding
+6. Python pass function 
+7. Friend function from java
+8. Name few machine learning algorithms
+9. About few electronic components Like LDR, Arduino
+10. DBMS queries
+11.What are packages and modules in python
+12. Name 5 modules used in python
+13. They asked about PEP in python?
+14. Inheritance, inheritance types, difference between tuple and list.
+15. Questions related to my project such as my role in my project and questions related to computer networks.
+16. SQL Joins SQL keys SQL BASICS
+17 What is database?
+18 What is schema diagram?
+19 How is data stored in DBMS?
+20 What is the difference between primary key and unique constraint?
+21 OOPs concepts
+22 ReactJs","1. Pattern generation and special numbers
+2. Arrays, 2d arrays, string matching
+3. Print the first occuring character which has count value more than one 
+4. Reverse String
+5. Concatenation of Strings
+"
+7,Epsilon,"1. SQL queries
+2. Bootstrap classes
+3.  JavaScript data types",
+8,Impelsys,"1. Projects 
+2. OOPs based questions (class, functions, inheritance) 
+3. How can you contribute to the growing technology 
+4.Basic html tags
+5. Difference between class and ID selector, about the team work we did in our project, why php is used in projects? 
+6. Questions on SQL- Left Join, Different b/w Truncate and Delete
+7. Questions on CN- List the 7 layers of OSI model
+8. Questions on OS- What is OS
+9. Questions on your preferred programming language- Syntax, Operators, What makes it distinct from other programming languages etc.
+10. Questions on OOPS- Polymorphism
+11. Difference between array and list.
+12. What is stack and queue?
+13.  What is machine learning ?
+14. What is regression? 
+15. How is list in python different from list in other languages? 
+16.  Selectors in CSS and what is the selector for class
+17. Difference between constant and read only
+18. Four pillars of OOP’s
+19. Relationship between tables
+20. What is an interpreter and compiler?
+21. What is the difference between them?
+22. What is the difference between C and python?
+23. What is a function?
+24. What is a loop?","1. program to Reverse String
+2. program to Concatenation of Strings
+3.program to remove students to maintain equality marks
+4. minimum sprinkler watering program (language: python)"
+9,Oracle,"1.SQL queries and joins
+2. About Data structure and algorithms
+3. Concepts of networking and OOPs
+4. Explain JDBC
+5. Explain LSTM in machine learning.
+6. Questions on html ans Js, 
+7. Explain exception handling(python)
+8. Explain API -GET  POST, PUT methods, request body
+9. Explain JAVA - JDK,JVM,JRE, classes, 
+10. Project technicalities
+11. ReactJs(mentioned in resume)
+12. BST graph and their algorithm basic questions","1. Program to Swap two numbers
+2. Program to reverse the LinkedIn list
+3. Problems on Buckets
+4. Write code to implement a class, and some code segments to perform some action on a given data.
+5. Program to Minimize Array size by replacing adjacent integers by their Modulo
+6. REST API question- given an api url, perform a fetch request to get required data and display specific fields from the data(used requests module of python) 
+7. Write a program to find a Prime number
+8. Write a program to replace any character in a string
+9. How to insert a node in a bst"
+10,KOCH,1. Questions on project,"1. Write a program that accepts two integers A and X as inputs and calculate B if X is equal to (A+B)/2 (any programming language )
+2. Given a number N, find its reverse R and calculate the absolute difference D between N and R. Next find the factors of D and print the number of 2s present in the factors(any programming language)"""
+11,FIS,"1. Asked about project 
+2.difference between oops and structures 
+3.types of networks
+4.query to eliminate duplicate copy in table 
+5.basic questions on html as l mentioned in resume 
+6. questions on inheritance and polymorphism.
+7.had a DB project in my resume so i was asked to draw the schema of the DB 
+8.python (mentioned in resume)
+9.pass keyword
+10.list and tuples
+11.datatypes in python
+12.implement nested if else in python without using nested if elif (you cannot implement switch in python so not possible)
+13.java oops (inheritance,polymorphism,encapsulation,abstraction)
+14.Computer Networks
+15.linux","1. Write a program on reverse of string
+2. Write a logic for reversing a string any language 
+3. Given an n number of bowls and each filled with some marble's (0-9) if the bowl contains 9 marble's from the last while traversing then make the bowl with 9 marble's as 0 and update the previous bowl before the bowl containing 9 marble's and some corner test cases to be handled.
+4. Question was may be related to arrangements (combinations)
+5. odd even program"
+12,Cimpress,"1. Questions on project, 
+2. OOPS concepts: abstraction, encapsulation difference. Abstract classes in java
+3. Interface in java. How both are different.
+4. Protect data over the network. Encryption. Private key, public key, symmetric asymmetric encryption.
+5. Hashing collisions.
+6. Database design for auctions project. 
+7. Concept of locking in db design. Read locks write locks
+8. ReactJS what is the advantage it provides: Virtual DOM
+9. Nosql vs sql which to use, why one is preferred over the other
+10. Scenario: parking lot design using concept of classes and objects
+","1. Find cycle in linked list. No hashMap, no fast slow pointers, no length given, code it uniquely
+2. Find the element that appears only once
+3. Implement stack using 2 queues
+4. Write a Program on Creation of Linked list and insertion, deletion from linked list in Python
+5.  Given n computers where each computer is denoted by values [rj,sj, cj] rj denotes RAM, sj denotes speed, cj denotes cost. Given Q queries where each query contains [Rj,Sj] find the computer with the minimum cost for each query, if no computers exist return -1 (20Marks)
+6.Implement a lru cache. Given queries Q, queryj can be of 2 types: 
+Type1: 1,get, key
+Type 2: 2, key,val 
+For type 1 queries, if key exists return its value in the cache, otherwise -1
+For type 2 queries, if key exisits update its value,otherwise insert. If cache reaches its maximum size and no more space to insert, remove the key that was least recently accessed, if multiple such keys exist, take the smallest key.(50 Marks)"
+13,Microland,"1. Questions based on networking
+2. Interviewer focused mainly on projects and and questions were based on technologies used in the project
+3. Basic questions based on C 
+4. SQL, HTML in technical round ",no information received from students
+14,Epsilon second drive,"1. A lot of DBMS questions were asked (Difference between SQL, NoSQL, Data types, Hashing, Optimization of Databases, Normalization, Joins, etc) and SQL Queries were to be written.
+2. Programming/ basic questions from the programming language of your choice.
+3. Project based questions; candidate might be asked to write queries used in their projects.
+4. Stored Procedures, Triggers in SQL
+5. Various Databases like MongoDB, SQL databases, their uses and case-based questions.","1. Only one coding question in the Mettl round:
+
+Question:
+
+Passcode at an office entrance changes every day and is different for every employee. The passcode for an employee to enter the office is a function of total number of days the office has been in operation; added to a sum that is calculated using another function of employee ID number and number of days the employee has worked so far. 
+An employee enters the office by entering their passcode for the day, you need to find the employee ID number and the number of days they have worked at the office so far using the passcode they entered.
+
+Approach:
+
+Use a recursive approach where the base case is not fixed, and should depend on a variable like the day of employment or employee ID."""
+15,BlueBird,"1. Define list , traverse the list in Python 
+2. Basic SQL queries 
+3. testing, types of testing
+4. what is automation testing, black box testing, white box testing
+5. test cases for mobile battery
+6. Explain the bugs you find in daily life during programming
+Android versions
+","1. Prime numbers in range of 1 to 100
+2. Python create array"
+16,O9 Solutions,"1. There were 2 technical round and in the first round the questions asked were from sql and some coding questions where i was asked to write a code for matrix multiplication
+2. sql questions on find 2nd highest salary and triggers and stored procedure 
+3. Basic questions then in the second round it was completely on projects that were mentioned in the resume
+4. Finally about the o9 Solutions and what do you know about the role that they are offering.
+5. Joins,views ,rank ,dense rank and basic errors in python like syntax error, type error  ","1. Write a program for Fibonacci series
+2. Find the second greatest element in an array
+3. Prime numbers
+4. Password verification program
+5. Palindrome
+6. String reversal
+Language: preferably Python but they were okay with any language 
+7. Matrix multiplication (python/java)
+8. SQL basic questions 
+9. coding palindrome prime number password validity and printing  pattern "
+17,Toprankers,"1. logical questions from oops(Java inheritance in depth),
+2. sql-joins
+3. recursion
+4. linkedlist implementation,queue,stack,
+5. css,html, dbms- indexing in depth
+6. what is difference between anchor tag and link. 
+7. Why we use spam tag 
+8. How you modify dome model 
+9. what is flex in CSS 
+10. time complexity of some programs ","1. medium level recursion question
+"
+18,FlowEdge,"1. Problems on linked list, array
+2. OOP concepts","1. Function calls
+2. C++ based questions"
+19,MSG Global solution,"1. How to achieve encapsulation
+2. Call by value and call by reference
+3. Searching and sorting algorithm with code 
+4. To check if a string is pallidrome or not 
+5. To find duplicate character in a array 
+6. program based on Java encapsulation and polymorphism
+7. OOPs concepts, Inheritance and example, Polymorphism with example
+8. Difference between abstract class and interfaces
+9. Indexing in DBMS
+10. Simple queries in SQL
+11. Operator overloading 
+","1. Reverse a string
+2. Palindrome
+3. Bubble sort (java or C)
+4. Codes for polymorphism and inheritance
+5. Queries in DBMS 
+6. Reverse string,check palindrome,remove duplicate letters in string,
+7. check number of palindromes present in given string.
+"
+20,Publicis Sapient,"1. regarding the mini project.
+2. Linear Data structures
+3. Search or sort algorithm
+4. Projects
+5. hierarchy in exception handling
+6. jdk vs jvm vs jre
+7. primary key and foreign key, 
+8. explain public static void main","1. Program on palindrome
+2. Program to reverse the string
+3. How to sort the array in reverse and find second largest element in array
+4. Program to find sum of all even numbers from 1 to 100"
+21,Arts for Tech,"1 define constructor
+2. 4 pillers of oops",1. Swapping program and reverse a string
+22,Tech Mahindra ,"1 OOPS  
+2. DBMS concept
+3. OS concept
+4. MYSQL","1.fibonacci series
+2.prime number
+3.palindrome"
+23,KOCH2,"1. Oops implementation of abstract class , interface, inheritance, encapsulation, object creation 
+2. Dsa (bst),
+3. java (core) , 
+4. dbms (transiction),","1.Program on Merge sort , Binary serach Tree, linked list"
+24,Carrier,,"1. Very easy DSA program beginner level
+2. Sting character replace,
+3. bubble sort
+4. selection sort
+"
+25,KOCH apprenticeship,"1. Technologies used in Projects which are present in Resume.
+2. Oops concepts 
+3.  SQLqueries 
+4. DBMS technical questions
+5. Questions on python, java and DSA.","1. Bubble sort, 
+2. Fibonacci, 
+3. Write a program using array for changing digits of number question. "
+26,IronMountain,"1.  SQL queries and questions based on project 
+2. OOPS concepts
+3. About The project",1. String programs
+27,Quantiphi,"1.What is cloud computing, 
+2. What is GenAI? 
+3.How can GenAI be used at home and colleges, 
+4. Difference between top down and bottom up approaches.",1. Palindrome program ( in Java)
+28,Iron Mountain,"1.Oops concepts 
+2. DBMS technical qns
+3. SQL queries and questions based on project 
+4. Questions on python, Java and DSA.","1. Bubble sort 
+2. Fibonacci 
+3. SQL queries"
+29,Math Co,,

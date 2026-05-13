@@ -1,0 +1,23 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.
+BE-ISE,Priyanshu Kumar,1CR21IS121,Epicor,9.25,Graph based and quantitative aptitude questions,"1)Find the maximum number in an array
+2)Sql queries(basic):
+Find all the names starting with letter c
+Peform basic join operation","1)Find the maximum number in an array
+2)Sql queries(basic):
+Find all the names starting with letter c
+Peform basic join operation",
+BE-CSE,Preety Shah,1CR21CS138,Epicor,9.25,"The online assessment has 60 MCQS for 60 mins. 
+It had 6 sections:
+1. Aptitude, Logical Reasoning, Cognitive Ability, Verbal Reasoning
+2. DSA 
+3. Operating System
+4. Computer Networks
+5. DBMS
+6. OOPs",Didn't qualify for HR round,"1. Basic questions on JAVA
+2. What is bash? What is shell scripting used for?
+3. What is kernel? 
+4. Explain projects mentioned on resume followed by questions related to it.
+5. Discussion on extra curricular activities mentioned on resume.","Write a program to find a particular word in a given sentence in JAVA.
+Example: Input: s = ""This is a book""
+ w = ""book""
+ Output: True (as the word is present in the given sentence)"

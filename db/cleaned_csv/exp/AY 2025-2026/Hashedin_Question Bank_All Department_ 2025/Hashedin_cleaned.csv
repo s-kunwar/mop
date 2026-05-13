@@ -1,0 +1,38 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Online Exam Pattern
+","Important Links for Placement Preparation
+"
+AInDS*,Lakshmi Charan M V,1CR22AD061,Hashedin,8.1LPA,,"1. Based on OOPs Concepts
+ 2. 2 dsa questions
+ 3. 2 sql queries 
+ 4. Based on System design
+ 5. On projects and Internship","Based on System design, OOPS and DBMS",Medium level questions based on Arrays and Strings,3 DSA questions,
+MCA,Nuha Aquil,1CR24MC073,HashedIn by Deloitte,"8,10,000",No aptitude rounds,"1. Questions related to conflict management 
+ 2. Why do you want to joing HashedIn
+ 3. Rate yourself out of 5 on your leadership skills
+ 4. An example where you demonstratedleadership skills
+ 5. A scenario where you worked in a team and your contribution as a leader
+ 6. A time where you received a feedback on your leadership and how did you handle it?
+ 7. Is AI a boon or a bane for organizations
+ 8. Are organizations using AI in a responsible manner?","DBMS:
+ 
+ 1. What is normalization and its types
+ 2. Keys in SQL with examples
+ 3. ACID properties with real time examples
+ 4. Given a table, normalize it
+ 5. SQL queries
+ 6. ER Diagrams
+ 7. How to handle large data in SQL
+ 8. What is indexing, it's advantages and use.
+ 
+ 
+ OOPS:
+ 
+ 1. What are the basic concepts in OOPS
+ 2. Abstraction, encapsulation, inheritance with real time examples
+ 3. What are interfaces
+ 4. Types of inheritance
+ 5. How to implement multiple inheritance","1. Check if strings are anagram
+ 2. Delete middle node in a Linked List
+ 3. Minimum number of swaps required to make string a palindrome
+ 
+ Can use any programming language",First round online test was based on DSA. 3 medium level questions on strings and arrays,LeetCode

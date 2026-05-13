@@ -1,0 +1,33 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.
+BE-ECE,VINAYGOPAL,1CR21EC238,Thomoson returs,7.5,"8 aptitude questions ( encoding, reasoning and quantitative)","They asked more  projects done , git merge conflict resolution) ,  time complexity","How to resolve merge conflict in git , time complexity","Scatter palindrome, SQL query for making a report by grading the score of students"
+BE-CSE,Aditya S,1CR21CS013,Thomson Reuters,7.5,Puzzle questions were intuitive and accurately assesses abilities,Focused on projects and tech stacks I was familiar with,Project based,"Hash maps, graphs, sql"
+BE-ECE,Karthik M,1CR21EC098,Thomson Reuters,7.5,"Puzzle based questions, one coding question, one SQL question","How flexible you are, ready to work at the weakend and for night shift, short term and long term goal, strengths and weakness etc",About projects and internship,"Scattered palindrome(Any programming language), aggregate marks(MySQL)"
+BE-ECE,Divyanshu Kumar,1CR21EC072,Thomson Reuters,7.5,"There were total 9 questions, 3 aptitude questions, 4 coding snippets and 1 SQL query and 1 Coding question",,"Questions based on Time and space complexity
+Cloud Fundamentals
+Coding snippet questions
+Project explanation",Finding the Time and space complexity of the given snippet
+BE-ECE,ANAGHA SRINIVAS,1CR21EC017,THOMSON REUTERS,7.5LPA,EASY TO MEDIUM LEVEL QUESTIONS,"technical -python basics, questions based on technical aspects of the project
+managerial- challenges faced in project, 
+in depth q related to project.
+what are your strengths and weakness ? 
+how would you cope with repetitive tasks?",questions related to projects,scattering palindrome - python
+BE-CSE,Nilesh Kumar,1CR21CS116,Thomson Reuters,7.5 LPA  + AIP 8% + Benefits,"There were total of 4 sections
+Total 9 questions in 61 minutes
+
+Aptitude/Reasons - 3 questions each of 5 Marks
+
+Python - 4 questions
+
+SQL - 1 Question (Coding 50 Marks)
+
+Coding Round - 1 Questions (75 Marks)
+
+Aptitude questions were from coding decoding, number system, logical thinking 
+
+Python - List, dictionary, slicing, and Advanced Decorators.
+
+SQL - I had to write the code to calculate the Aggregate Marks of students who are having marks above or equal to 500. 
+
+Coding question - Scatter Palindrome, suppose input is [""bbrg""] a string is a Scatter Palindrome if it's letters can be rearranged to form a palindrome. Then for bbrg output is 12
+It can be rearranged like - b, bb, brb, bbrr, bbgrr, b, rbr, r, rr, rgr, r, g","Panel of 2 members, they asked me about my interest, then questions from Java, Python, Pandas, Web Scraping, Automation, Logical Puzzles (bulb and switches), difference between C++ and Java which is better why not Python, then they asked questions related to my project also about my on going and final year project, challenges, then question from aptitude test, then general HR questions, like what is my hobby, I have been put into a situation where I have to do the repetitive tasks, etc","Web Scraping, Automation, Pandas, Java, Python","Scatter Palindrome, suppose input is [""bbrg""] a string is a Scatter Palindrome if it's letters can be rearranged to form a palindrome. Then for bbrg output is 12
+It can be rearranged like - b, bb, brb, bbrr, bbgrr, b, rbr, r, rr, rgr, r, g"

@@ -1,0 +1,12 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.
+BE-CSE,Keerthi Sureka,1CR21CS078,Quinbay Technologies,7.5-10 LPA,"Probability, Sequences
+Leader element in an array
+Determine the time complexity
+Puzzle based questions
+Analyzing the given code","Questions on OOPS
+Difference between relational and non-relational databases
+Basics of Javascript
+Puzzles","Palindrome
+Detect cycle in a linked list
+Merge 2 linked lists
+Pattern printing"

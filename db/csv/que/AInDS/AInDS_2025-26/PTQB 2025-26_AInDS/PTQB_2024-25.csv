@@ -1,0 +1,632 @@
+Column_0,Column_1,Column_2,Column_3,Column_4,Column_6
+S.No,Name of the Company/Drive,Personal interaction, Technical questions,Programming questions,
+1,Epicor,"""Round 1 - Technical:
+ 1.Oops,2.DBMS,3.sql query,4.1dsa question(on paper), 5.projects in detail, 6.technical skills in resume 
+ Round 2 - Manageral:
+ 7.project in detail,8.2 dsa questions(on laptop)
+ Round 3 -HR:
+ 9.Resume go through, 10. project, about company""","""Sql: 
+ 1.How to find 2nd highest salary 
+ 2.How to find distinct elements in a column 
+ 3.Difference between sql and no sql
+ 4.MongoDB 
+ Oops:
+ 1.abstraction
+ 2.classes and objects 
+ 3.interface
+ ""","""Dsa:
+ 1.finding frequency of elements of an array without using dictionary (on paper)
+ 2.Rotate array problem(to do in laptop)
+ 3.string question,
+ input: abc2[de]f
+ output: abcdedef
+ 
+ """,
+2,Ellucian,Personal interview was purely technical based on Resume and deep dive on projects,"AWS questions , Python,SQL and OOPS",Online Assessment - Minimum of an Array,
+3,ODDR,"3rd round was both technical as well as HR round combined. Questions asked:
+1)Tell me about yourself
+2)What are the co-curricular activities u were a part of in college?
+3)What are your hobbies?
+4)What do you hate about Computer Science and why?","1)Questions on our projects were asked like - what framework was used and why did you choose it for your project, how is it better than others?
+2) What is API and what operations can be performed.
+3)How can you merge 2 tables?
+4)Difference between stack and queue and which data structure among the two is best for restaurant reservation system?
+5)Explain the logic of linear search and binary search.
+6)List sorting techniques/algorithms and explain bubble sort.
+7) Program to print ""True"" if the input array is sorted else to print ""False"" without using in-built functions ( any language can be used to write the code )
+And also few people were asked to write the code that they submitted during online assessment.","1) To print Nth element of a tribonacci series
+2) To check whether given number is a super palindrome or not
+3) Program to print ""True"" if the input array is sorted else to print ""False"" without using in-built functions ( any language can be used to write the code )",
+4,Kantar,"Why Kantar?
+How did you get your internships?
+How many drive have you sat for and if selected/rejected please tell the reason?
+Why should we hire you? 
+What made you choose Kantar? 
+Has data analysis always been a preferred career path for you?
+What leadership qualities do you exhibit? Provide details on when and how this helped your team?
+Tell me about your growth from school life to college life
+Why should we hire you?
+""","Steps of data cleaning in python, sql and excel.
+What is overfitting and how to avoid it?
+Multilinear regression eqn for any product of a company(ex:coke) explain what is y,x,m,b(target groups, distributions, advertisments/influencers, Hotzones/retail shops , etc)
+follow up q: if the product(coke) price is increased by 10% will customer retention go up or down, based on what y,m,x,b?
+Excel vlookup and formula questions. ""Questions were related to use of python libraries. Use and application of Scikit-learn, numpy, pandas, tensor flow, pylance, tesseract, poppler, etc were asked.
+Tools related to data visualisation and data preprocessing such as Tableau and PCA were asked.
+Marketing and Business Analysis scenario-based questions were asked.
+Solving and planning how to approach scenarios relevant to day-to-day life.
+For example, hypothetical analysis of finding the total number of individuals which consume tea daily comsidering all possibilities.
+Another such question was analysing the main streams of revenue generation and marketing of Apple in India, all of which i was able to answer successfully.""","Mainly SQL. Use of WHERE and HAVING Clause. Use of Sub-Queries and implementation of them using a simple dataset and providing the expected output.
+Joins in SQL and how they’re queried.
+Normalisation levels were asked asking me to explain it in simple terms in a way that even a person of non-technical background would understand. Other definitions and schema design related questions were asked.                                                             ""PCA on a given dataset
+3 sql levels(5 q each) had to give query and output(draw the table)
+easy: normal join queries
+medium: subqueries with joins
+hard: ddl queries with joins""",
+5,Infosys,"How have you done your project?
+Your project is not working based on user input what you will do at that moment?
+How you will communicate with clients during project deadline?
+""1. Tell me about your project 
+2. What is your strengths and weakness 
+3. Why you want to join Infosys 
+4. What you know about AI
+5. What is your goal in life ""The HR interview was focused on thr projects mentioned in the resume, skills and co curricular activities.
+Questions asked:
+Tell me about yourself
+Other than mentioned in the resume, what are the activities you do? 
+Explain the project, the software, model and use of this project.""","
+""""""""1. Problems on train 
+2. Coading Decoading 
+3. Direction problem 
+4. Seating arrangement problem 
+5. Series probelm""""                                                                                   essay on """"positive attitude"""", fill in blanks with verbs,fill in the series,pseudocode """"7 sections which included 
+reasoning ability 
+Technical ability 
+Verbal ability 
+Pseudo code 
+Puzzle solving
+Writing ability """" I was asked to introduce myself and speak about my projects """"Basic question about your projects, internship experience.
+Apart from that
+What is sdlc
+What is difference between schema and db
+For a db how many schema are possible 
+""","can you create a list in python, difference between tuple and list",
+6,Mathco,"Basic aptitude questions easy to medium level, behavioural questions and pesudocodes                                                                      ","Basic aptitude questions easy to medium level, behavioural questions and pesudocodes                                                                      The technical round was totally about your projects and application of core subjects and questions related to guesstimates               Questions on your project,sql,python,puzzles",Prime number optimised approach,
+7,Oracle GSC,Mostly about project and resume ,"There were two rounds of face to face interviews at oracle premises 
+First round was all about my project and resume 
+Second round was tech+ hr, where they asked again about project , about oracle , basic hr questions etc",,
+8,Thermofisher,"Self-introduction
+
+Family introduction
+
+How do you handle situations as a team lead?
+
+Explain one project where you learned a lot and what makes it different.
+
+Tell me about yourself
+
+Tell me about your best project and why it is the best
+
+Won’t you get bored in the IT field? / How do you stay motivated?
+
+Long-term and short-term goals
+
+Tell me challenges you faced and how you solved them
+
+Why did you choose group projects instead of individual projects?
+
+What are your hobbies/interests?
+
+Do you have any questions for us? (Student asked about company growth)
+
+Questions regarding the company (general HR queries","What is the ITIL framework and ITSM concepts?
+
+Explain Incident, Request, and Demand management with a real-world example.
+
+What is service portfolio lifecycle?
+
+Explain PPI methodologies.
+
+What is stakeholder management?
+
+What is market cap and how do you estimate it?
+
+Networking
+
+What is networking?
+
+What are network hardware/infrastructure devices (router, switch, hub, etc.)?
+
+Difference between TCP & UDP
+
+Explain OSI layers with an example
+
+What is Wireshark and its uses?
+
+How to use filters in Wireshark?
+
+Meaning of 198.162.0.0/24 (subnet concepts)
+
+Scenario-based networking question (WiFi connected but no internet notification—using TCP)
+
+Python / DSA / CS Concepts
+
+Questions regarding DSA
+
+Prime number and basic array questions (Python)
+
+Why is Python so popular?
+
+Is Python an interpreter or compiler?
+
+Questions regarding projects","Reverse a given string
+
+Prime number & basic array coding (Python)
+
+Swapping two variables without using a third variable",
+9,Winwire,"1.Tell me about yourself .
+2.why should I hire you
+3.Tell me about your family background .
+4. Are you a team player or individual contributor 
+5.what you known about the company.
+6.where do you see yourself in next 5 years.
+7.your short term goal and long term goal.","
+1.based on my project and techstack .
+2. Deeplearning question like CNN ,RNN,LSTM,LMM models based questions.
+3.what are AI agents and how it works .
+4.DSA question ,like to write on paper count only the number in given string that contains both numbers and char.
+5.what is encryption and decryption. 
+6.diff between authorization and authentication. 
+7 difference between tuple ,list,dictionary and set and give their syntax.
+8.what are python libraries and give some example.
+9.difference between tableau and powerbi.","Language Python 
+1.Given a complete binary tree represented as a list in a level-order (bfs) traversal, which level has the largest sum of all its odd-valued nodes? .
+2.Imagine you're creating a secret number for a puzzle. The rule is to take a range of whole numbers, say from \(N\) to \(M\), and for every number in that range, you calculate the sum of its digits. The final secret number is the grand total of all those individual digit sums.So, if you're given two numbers, \(N\) and \(M\) (\(N\) will be less than or equal to \(M\)), your goal is to find the total sum of the digits for every single number from \(N\) all the way up to \(M\).
+3 .SQL
+To calculate the avg of price as avg_price ",
+10,Mindsprint,"Tell me about yourself.
+
+Why should I hire you?
+
+Tell me about your family background.
+
+Are you a team player or an individual contributor?
+
+What do you know about the company?
+
+Where do you see yourself in the next 5 years?
+
+Your short-term goal and long-term goal.","Based on my project and tech-stack.
+
+What are AI agents and how do they work?
+
+DSA question: Count only the numbers in a given string that contains both numbers and characters.
+
+What is encryption and decryption?
+
+Difference between authorization and authentication.
+
+Difference between tuple, list, dictionary, and set with syntax.
+
+What are Python libraries? Give examples.
+
+Difference between Tableau and Power BI. CNN, RNN, LSTM, LLM model-based questions.","Binary Tree Level Odd Sum
+Given a complete binary tree stored as a list in level-order (BFS), find the level with the largest sum of odd-valued nodes.
+
+Digit Sum Range Puzzle
+Given N and M, compute the total sum of digits of every number from N to M.
+
+SQL Coding (1 question)
+
+Write a query to calculate the average price as avg_price.",
+11,Deloitte,"Where do you see yourself in the next 5 years?
+
+HR questions (general).","Probability-related question (about dice).
+
+Difference between foreign key and primary key.
+
+How many types of loops are there? Name them.","Reverse the words of the given string.
+
+Reverse the word of the given string in C++.",
+12,Plivo,"Where do you see yourself in 5 years?
+
+Group discussion topic: Effect of social media","API-related questions
+
+Basic DSA questions",,
+13,Cognizant,"Are you ready to work in different locations? Communication round (general communication assessment).
+
+Group discussion elements (Quant & LR rounds were also part of the process).
+
+How will you make yourself more productive?
+
+Have you faced any issue during your college major project and how did you handle it?","In-depth questions based on projects mentioned in resume.
+
+CS core subject questions.
+
+Array-based questions in Java.
+
+Self-join related question in SQL.
+
+OOPs questions in Java.
+
+Quantitative aptitude:
+
+Basic mathematics
+
+Percentage
+
+Ratio
+
+Logical reasoning:
+
+Logical games
+
+Puzzles
+
+Odd one out
+
+Rounds:
+
+Quantitative Round
+
+Logical Reasoning Round
+
+Communication Round","In a given array, print the values at odd indices.
+
+Define an array in Java using ArrayList() function.
+
+Write a SQL command to get the N-th highest salary from an employees table.",
+14,Xoriant,"How will you handle the situation if your teammates are not working accordingly?
+
+Why do you want to do a job and not pursue masters?","SQL commands
+
+Operating Systems (OS) questions
+
+Computer Networks (CN) questions
+
+DBMS questions
+
+Java theory questions","Reverse a linked list
+
+Write a code to obtain the next 50 IP addresses
+
+Merge sort code
+
+SQL queries (practical)",
+15,Genpact,"
+Where do you see yourself in next 10 years
+How will you complete with ai
+Strengths and weeknes 
+3 reasons to hire you
+DDL,DML,TCL etc commands 
+Union and join difference ","DDL,DML,TCL etc commands 
+Union and join difference 
+Explain about your all 3 projects","Bubble sort, BST traversal and to find number of squares from a given 3x3 matrix",
+16,Hashdin,,,,
+17,Cronlabs,"About the company
+
+Why do you want to join the company?","""Questions related to Work, Speed, and Distance
+
+Questions on Probability
+
+Questions on Cards
+
+Questions on Graphs
+
+About your project (in-depth discussion of one project you like)
+
+One unique project not mentioned in your resume""","""Linear Search
+
+2 Sum problem
+
+Dictionary of dictionaries""","Linear Search
+
+2 Sum problem
+
+Dictionary of dictionaries"
+18,Capgemini,"Answering verbal questions
+
+Writing 2 emails
+
+Recording 2 videos speaking on a given topic
+
+Speech / verbal assessment","Resume-based questions
+
+Machine Learning algorithms
+
+Technical MCQs","""Basic Python codes
+
+Java questions based on strings and arrays
+
+Coding round""",
+19,VDart Digital,"Questions related to the company
+
+Basic HR questions","Retrieval-Augmented Generation (RAG)
+
+LangChain
+
+LangGraph
+
+Large Language Models (LLMs)
+
+Questions related to projects mentioned in the resume","Data Structures and Algorithms (2 problems, one in each round)
+
+Hash Maps
+
+Python questions
+
+3 programming questions (varying difficulty levels)",
+20,Leadsquared,"Behavioural questions
+
+Situational questions","Group Discussion: Is AI a boon or bane?
+
+Verbal questions",Aptitude questions,
+21,New street technologies ,"Group Discussion on AI (panel interaction)
+
+Resume-based questions
+
+Questions based on projects (explain in detail)                    Explain your major projects
+
+Explain one of your project workflows
+
+Questions about hackathon experience Group Discussion on AI (everyone speaks at least one point)
+
+Questions based on resume
+
+Few HR questions
+
+Stress interview discussion
+
+Explain major project
+
+Explain complete system architecture of project","Technical interview based entirely on project work
+Questions from whatever is mentioned in the resume                Distance problems
+Simple Interest
+Puzzles
+Logical Reasoning Abstraction and Encapsulation
+
+Linking mutable & immutable concepts with abstraction/encapsulation
+
+Three-tier architecture
+
+What are LLMs and Generative AI Collection class in Java
+
+Difference between data structures
+
+ArrayList vs LinkedList (when to use)
+
+OOP concepts in Java
+
+Why Java better than Python?
+
+Why AI uses Python more than Java?
+
+Java Data Structures MCQs","Basic Python questions (pen & paper coding round)
+
+Intermediate level Python questions
+
+Questions related to GitHub    From a given list, return all the non-unique elements
+
+Write a lambda function
+
+Predict the output of given code snippets
+
+Difference between list and tuple
+
+Mutable vs immutable elements (usage & implementation)
+
+Decorators in Python (concept + real-life example)
+
+Use of apply in Python Code explanation from coding round
+
+Second largest element in an array without sorting
+
+If all elements same → return -1
+
+Java try–catch–finally execution
+
+Conditions in programs
+
+Application-based coding questions
+
+Predict program output
+
+Java coding concepts",
+22,F-secure ,Introduction,"Questions on project
+Bugs faced during project development
+Draw the flowchart of the entire project
+Model used in the project and why that model was chosen
+Test cases
+Database used in the project   Core CS Subjects
+Operating Systems concepts
+Object Oriented Programming concepts
+Computer Networks concepts
+AI / ML / NLP
+Machine Learning concepts
+NLP concepts
+Architecture for LLMs",Binary Search Tree implementation (preferred in Python),
+23,Altimetrik,"Tell us about yourself.
+
+Explain the projects you have done so far.","Explain Machine Learning models with real-world examples.
+
+What are evaluation metrics in Machine Learning?
+
+What are the different evaluation metrics used for regression and classification?
+
+What are activation functions? Explain their types.
+
+Explain bagging and boosting.
+
+What is backpropagation?
+
+What are optimizers in Machine Learning?",Python coding questions based on classes and methods (OOP concepts).,
+24,Flow edge,"Tell me about yourself / Introduction
+
+Tell me about yourself apart from your resume
+
+Strengths and weaknesses
+
+Why did you choose AI & Data Science?
+
+Availability for the role
+
+Visa or compliance related discussion
+
+Tell me about your hobbies
+
+What are your life plans?
+
+Tell us about your family
+
+Where do you reside?
+
+How do you travel to work/college?
+
+Other than coding/technology, what are you good at?
+
+How fast can you learn new things?
+
+Presentation on a non-technical topic followed by Q&A","Programming / OOP
+
+Object Oriented Programming concepts
+
+Programming explanations using Python/Java
+
+Computer Systems
+
+CPU vs Cores vs Threads
+
+Web Technologies
+
+What is JWT and how does it work?
+
+How do APIs work?
+
+How to make safe API requests?
+
+How to make secure database requests?
+
+Input sanitization
+
+Code optimization
+
+Operating Systems / Linux
+
+Difference between kernel space and user space
+
+Basic Linux commands and their purpose
+
+Navigate directories in terminal
+
+Create/remove directories and files (mkdir, rm)
+
+Change file permissions
+
+Create hard links and soft links
+
+Use commands like echo and grep
+
+System / Infrastructure
+
+Basic knowledge of computer hardware
+
+Components of a server
+
+Difference between a server and a consumer PC
+
+Understanding Linux infrastructure
+
+AI / ML / Data
+
+Machine Learning basics
+
+Evaluation metrics in Machine Learning
+
+Basic statistics
+
+4. Data / Tools Tasks
+
+Merge columns in an Excel file
+
+Perform sorting and filtering
+
+Data cleanup tasks
+
+5. Aptitude / Logical Reasoning
+
+Time and Work
+
+Profit and Loss
+
+Pattern Recognition
+
+Data Interpretation (graphs, tables)
+
+Probability
+
+Blood Relations
+
+Ordering and ranking problems
+
+Speed calculation","Best Time to Buy and Sell Stock (Python)
+
+Find a given key substring in a long text and return its position
+
+General programming problems
+
+Explain your approach while solving a coding problem
+
+Debugging and fixing incorrect code
+
+Basic Bash scripting (print output)
+
+Difference between SQL tables and Pandas DataFrames",
+25,Microland,"1. Personal / HR Questions
+
+Tell me about yourself
+
+Tell me about yourself apart from your resume
+
+What is your parents’ native place?
+
+Are you willing to relocate?
+
+Are you willing to accept the bond?","Basic Computer Networking questions
+
+Basic technical questions",,
+26,Dilligent,"Tell me about yourself.
+
+What do you do in your free time?","What is indexing?
+
+How do you find websites?
+
+How would you make your website better?
+
+How does a dictionary work?",Build an e-commerce website using React (assignment).,
+27,MSG Global,,"MCQs based on API
+MCQs based on File Handling
+MCQs based on Python concepts
+MCQs based on OOPS
+MCQs based on SQL
+Questions based on OOPS
+Questions based on SQL
+Questions based on Python
+Project-related questions","Coding on arrays
+Coding on strings
+Substring problem
+Palindrome problem
+Duplicates in array
+Coding questions (general)",
+28,XFilesPro,"Tell me about yourself
+Family background
+Why should we hire you?",Questions regarding projects mentioned in the resume,"Find the most frequent character in a string
+Find first n numbers of prime numbers
+Find the most frequent character in a string
+Find first n numbers of prime numbers",
+29,,,,,
+30,,,,,
+31,,,,,
+32,,,,,
+33,,,,,
+34,,,,,
+35,,,,,
+36,,,,,

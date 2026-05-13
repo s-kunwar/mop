@@ -1,0 +1,213 @@
+serial_number,company_name,technical_questions,programming_questions
+1,Ellucian,"1. HTTP status and methods.                                                                                                                                                                                                                                                 2. What is nosql, list, tuple and set.                                                                                                                                                                                                                                                                     3.Some basic Java string questions                                                                                                                                                                                                                                                        4.Oops concepts in detail                                                                                                                                                                                                                                                                             5. Cloud concepts","1. Sort the list and give largest number from it.                                                                   2. Coding question prime number                                                                                       3. Code for printing Nth number that is divisible by both number a and b. 
+Input given is N,  a and b
+4. Sql queries to write as well as to give expected output of sql, C, Python, C++ code snippet.
+5. Code for Sorting the list and return largest element in the list                                           6. Sort an array increasing decreasing , print odd even numbers , Language : python         7. Java string question ( Reverse each word in a sentence)                                                  8. Print prime number using java                                                                                            9. Prime factorisation in a given range"
+2,Phonepe,"1. 3 way handshake
+2. Docker: (what is docker file, docker image, docker container)
+3. Nginx
+4. Types of encryption
+5. Difference between encryption and hash and where are they used                                                                                                                                                                                                                                                                                   6. Linux related questions (directory and little concepts)
+7. Firewall related theory
+8. Javascript async await
+9. Asked about IDS/IPS
+10. How to improve security of network
+11. Authorisation vs authentication
+12. SSD vs HDD
+13. What is UEFI
+14. Project + resume related questions
+15. Bash scripts basics
+16. What is GRUB loader?                                                                                                                                                                                                                                                                                                                                                      (round 1)
+17. what is chmod and chown
+18. about firewall in linux
+19. what is NAT
+20. what is a subnet and related questions
+21. where are system logs stored in linux
+22. router and switch
+23. http vs https (default ports of http,https,ssh)
+24. how to secure a box
+25. how is ssh secur
+26. lateral cyber attack
+
+(round 2:)
+27. experience in linux
+28. what is WSL
+29. what kernel does wsl use
+30. how is wsl implemented in windows
+31. what is hyper-v
+32. what is a virtual system
+33. how to create a virtual system
+34. questions about curl,grep and basic shell scripting
+35. what is repeater in burpsuite
+36. how to replicate repeater feature in command line
+37. how do u stay updated with infosec                                                                                                                                                                                                                                                                                                                                           38. Questions from resume, projects and tech stacks mentioned
+39. Cryptography and its types and how does asymmetric cryptography works in detail
+40. Inter process communication  and how is it possible in between files in python
+41. Questions on docker image , docker container and docker compose and docker file
+42. Questions on basics of linux and linux commands such as echo, cat,etc
+43. Bash scripting commands to make a post request using curl
+44. RESTful and RESTless api
+45. Is http stateless or stateful and how If stateless, how does it maintain state of a user
+46. Why is accept cookies prompt shown in websites nowadays.
+47. What is jwt and how is it better the older ways of tokens and authentication.
+48. How is jwt tamper proof
+49. What is jwt token secret is leaked
+50. How to ensure that confidential credentials are not pushed on to github.                                                                                                                                                                                                                                                                              51. Questions on Linux and Computer Networks mainly. Scripting languages as well
+52. Explain TCP/IP and SSL protocols
+53. How will you verify a website you are visiting is authentic and not fake. 
+54. Questions on bash
+55. How would you do user authorization and authentication in Django""                                                                                                                                                                                                                                              56. multithreading and multiprocessing in python
+57. what are decorators in python and opinion on rust","1. Java program was to find the age given the date using localdate and period
+2. It included questions like finding the frequency of each character and printing it like ""e2r3"" this meaning the e was repeated twice and r was repeated thrice.                                                                                                                                                3. the other program in python which is, giving discount based on the number of books purchased                                                        4. Merge sorted array
+5. Count frequency of letters
+6. Programming question on OOPs concept
+7. Convert a given date into years by finding difference from a given date (Easy, 3-lines code using Java library, question was restricted to solve using java only)"""
+3,Deloitte,"1. explain sdlc life cycle ,structure of html , basic questions on css                                                          2. what is stack 
+3. what is queue","1. HTML, Javascript and Python                                                                                          2. Print Hello World and Even number"
+4,Amadeus,"Technical Interview:
+1. About Project and questions related to that.
+2. three DSA questions.
+(i) Merge two sorted linked list
+(ii)Find the first occurrence of a palindrome substring present in a string.
+(iii)Implement stack (overflow and underflow).
+3. DBMS: Different type of keys and then he asked me to write a query for a problem statement. Difficulty level of query question was easy.
+4. Stages of Software Development Life Cycle and explain in detail.","(i) Merge two sorted linked list
+(ii)Find the first occurrence of a palindrome substring present in a string.
+(iii)Implement stack (overflow and underflow).
+*You can choose any programming language. I did with Java (student experience)*"
+5,Eurofins,"1. Different types of data types in python.
+2. Why is python becoming more famous nowadays.
+3. How will you manage traffic in websites?
+4. Suppose you have a movie booking platform and two people are trying to book the same seat at the same time, then what will you do?(use threads)
+5. Which algorithm is used by google maps and explain its working?
+6. Internal working of joins(cartesian product and all)
+7. Dbms queries based on scenarios.
+8. About subscription and polling.
+9. Bootstrap classes and html css functioning 
+10. Write a java class based on a scenario
+11. ""Print words inside a bracket for a given string with random values.
+12. Print star pyramid pattern""                                                                                                                                                                                                                                                                                                        13. What is OOP and explain concepts of OOP along with code examples
+14. Asked to write program to print words within brackets in a given string
+15. Program to print pyramid pattern
+16. Asked aptitude questions like how to get 1L, 2L,…, 9L from a flask of only 9L and 4L""                                                                                                                                                                                                                   17. Whether the string is anagram or not 
+18. Whether the string contain a given substring or not. If yes, then print remaining string... Example - string : ompati, substring : pa. It should print pati
+19. 2 matrix based question 
+20. String based question
+21. divide the given string into substrings having 3 character each 
+22. sql query - find max salary employee puzzle - 9 balls problem where 9 balls are given and all are of same weight except one. How many steps will it take to identify the unique one.  ""","The questions were from easy to hard level, you could do in any language(mostly c, c++, python, java etc.):                  1. Anagrams
+2. Substring questions 
+3. Maximum subarray but for 2D array
+4. Find saddle point in a 2D array
+5. Remove single vowels from a string
+6. Suppose you have a string as om* and the entered word is bombay, then print ombay
+7. Print substring from an input string starting with given pattern
+8. Find if two given strings are anagram
+9. Remove single occurring vowels from a string                                                                                                            10. Find sub matrix giving maximum sum of elements                                                                                                           11. Whether the string is anagram or not 
+12. Whether the string contain a given substring or not. If yes, then print remaining string... 
+Example - string : ompati, substring : pa
+It should print pati
+13. 2 matrix based question 
+14. String based question divide the given string into substrings having 3 character each"
+6,Quinbay Technologies,"1. Questions on OOPS
+2. Difference between relational and non-relational databases
+3. Basics of Javascript
+4. Puzzles","1. Palindrome
+2. Detect cycle in a linked list
+3. Merge 2 linked lists
+4. Pattern printing"
+7,MSG Global Solutions,"1. Javascript, html, css, java, python basic concepts",1. Python programs
+8,Thermo Fisher Scientific,"1. Questions related to the resume (project, domain, languages)                                                               2. Common interview questions for tech jobs that test your technical skills, problem-solving ability, and how well you adapt to challenges.                                                                                                                                 3. Definitions - operating system and networking, Basic SQL syntax
+Questions based on Projects","1. Python programs                                                                                                                2. Hash, Maps, Graphs, SQL Queries"
+9,Thomson Reuters,"1. Web Scraping, Automation                                                                                                                 2. Pandas                                                                                                                                                         3. Java                                                                                                                                                                               4. Python","1. Scatter Palindrome , suppose input is [""bbrg""] a string is a Scatter Palindrome if it's letters can be rearranged to form a palindrome. Then for bbrg output is 12
+It can be rearranged like - b, bb, brb, bbrr, bbgrr, b, rbr, r, rr, rgr, r, g"
+10,iManage(Internship),"1. Questions were based on SDLC and STLC.
+2. Application based questions from CN and OS.",1. Simple pattern based coding questions.
+11,Oracle (FSS),"1. Two technical interview rounds - mainly focused on SQL queries, Java, OOPs concepts, projects, Exception handling and (prepare well for whatever tech skills mentioned in resume.) 
+2.diagrammatically explain your project 
+3. Diff bw drop truncate delete in sql                                                                                                             4. indexing in sql and why its imp                                                                                                                       5. foreign key and primary key and composite key in dbms                                                                                                                                                              6. Java and its features, OOPs, thread and multithreading, exception handling and its types, get post put in api                                                                                                                                                                                                                 7. what is method overloading and overriding and which one is runtime                                                                                                                                                                 8.  types of Inheritance                                                                                                                         9.is multiple Inheritance allowed in java                                                                                                                                                                                    10. synchronized block and synchronized method in java                                                                                                                 11. abstraction and encapsulation                                                                                                                                                                                                                                               12. Diff bw linked list and arraylist                                                                                                                                  13. what are the diff types of collections in java                                                                                                                         14. Java libraries 
+14. DBMS scenario based question","1. Find the count of possible palindromes in string                                                                                                                                           2.Find the count of vowels and consonants in string                                                                                                 3.Prime number with exception handling                                                                                                         4.sql queries to find maximum salary of emp                                                                                         5.doing left join from two tables 6.Based on experience of employees group there salary                                           6. Prime no. and fibonacci code, sql queries                                                                                                              7. Write Inheritance code                                                                                                                                                                                                                                          8. Code in java, find the max no. of ways a graph can be formed using the given no. Of vertices                                                                                                                             9. SQL query - retrieve the details about third highest salary person. 
+10. Reverse a string and count the number of vowels and consonants."
+12,Surewaves,1. Questions based on skillsets mentioned in the resume and some social media improvements,
+13,Epicor,"1. Basic questions on JAVA
+2. What is bash? What is shell scripting used for?
+3. What is kernel? 
+4. Explain projects mentioned on resume followed by questions related to it.
+5. Discussion on extra curricular activities mentioned on resume.","1. Write a program to find a particular word in a given sentence in JAVA.
+Example: Input: s = ""This is a book""
+                            w = ""book""
+                 Output: True (as the word is present in the given sentence)"
+14,Microland,"1. Questions on networking and cloud computing. Apart from that, questions were primarily focused on the projects and skill-set mentioned in the resume                                                                                        2. Operating systems concepts",
+15,QSYS,"1. Oops
+2. Constructors and destructors 
+3. Properties and advantages of java
+4. Spring boot features
+5. Example code for inheritance                                                                                                             6. Python related basic questions","1. ""Frequency of a substring in a given string Reverse each word of a string ""                              2. ""Kth element Frequency of substring  Sum of numbers """
+16,KOCH,"1. About project and the technology used in the project.
+2. Why the particular tech stack is used?                                                                                                   3. DBMS related questions","1) Print alternate characters from the given string with a space between them.
+2) Add the two inputs and add leading zeroes to make the output the specified size."
+17,Ascendion,"1. Define OOPS and its four pillars
+2. Steps of software development life cycle.",NIL
+18,Quantum Street AI,"1. Code of Prime number, 
+2. Difference between Dictionary and List.
+3. Difference between Set and List.
+4. Define AI, Machine Learning, ML Model.",1. Prime number code and syntax based questions.
+19,Light & Wonder,"1. State management in React
+2. Hooks in React
+3. Inheritance in React
+4. Polymorphism
+5. Difference between Java and C++
+6. Async and await concepts
+7. Scenario-based question on async and await","1. Reverse a number
+2. Reverse a string
+3. Detect a cycle in a linked list
+4. Check whether a string is a palindrome or not"
+20,SophisTex,"1. Related to Abstract class, Exception Handling, Joins and SQL Queries
+2. What is Abstraction, polymorphism, inheritance?
+3. Different sorting techniques 
+4. Which is better linear search or the binary search?
+5. Sql commands 
+6. Queries on joins",1. Binary search Any language can be used
+21,ANZ Bank,"1. query on insert,update and delete
+2. definition of data structure
+3.difference between array and linked list
+4.brief about software testing and tools 
+5.brief about mongodb abd its features.
+6.SQL query to find the maximum salary
+7. About docker
+8. JavaScript based questions","1. program related to array
+2.  find minimum time required to execute a set of processes(process allocation)
+3. SQL query
+4. Meeting rooms II (Leetcode) 
+5. Dominos Coloring (DP Question)"
+22,Archle Labs,,
+23,Unique HR,,
+24,Bottomline,"1. Anagram
+2. Bubble sort with time complexity
+3. Stack implementation
+4. SQL basic to medium level queries
+5.Full conceptual knowledge on Java, Python, C, Javascript
+6. AI
+7. OOPS
+8. SDLC
+9.  OS concepts
+10. Scenario based api end point creation
+11. Given an array of numbers bring all the zeros to the end(no using an extra array)
+12. Docker image creation
+13. Redis and Mongodb related
+14. Project related (from Resume)
+15. Arrays","1. Write a program to  sum numbers from range [1, n] given that it should not be a multiple of x and y. They gave values of n, x and y..
+2. rite a program to add adjacent numbers until we found the the numbers are not circular which means the forst number and last number are same and increase the count if the sum of those adjacent numbers is divisible by N. They gave arr[], N.
+3. Sum of all numbers from 1 to N which are not a multiple of X and Y
+4. Find the sum of the couples in an array that are divisible by N and not a wrap around of the non cur circular array. 
+5. Sum of numbers from 1 to N which are not divisible either by x or t
+6. Bring all the zeros to the end of the array(the order of other numbers should be preserved and no additional array can be used) 
+7. Array based programs"
+25,Diona,,
+26,ANZ (Apprentice Role),"1. Java- data types, multithreading, datstructure
+2. Python - mutable and immutable, how to pass the value
+3. SQL Queries","1. Code for Sorting and Searching technique
+2. Scenario based question
+""How to move the 1000's terabytes of transaction from one machine to another"" (Asked about approach used for above question)"
+27,Esyasoft Technologies,1. Sorting and searching,1. Code for sorting algorithm.
+28,Thought works,,
+29,Infosys 3,,

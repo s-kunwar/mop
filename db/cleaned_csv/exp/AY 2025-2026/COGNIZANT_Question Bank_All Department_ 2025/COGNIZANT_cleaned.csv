@@ -1,0 +1,53 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Online Exam Pattern
+","Important Links for Placement Preparation
+"
+BE-ECE,Vidapanakal Swetha,1CR22EC238,Cognizant,400000-675000,.,.,.,"Questions asked are:- sorting the array without sort Function print even and odd number in an array, sql query",Tell me about yourself( no technical question),"2(python), 1(sql)",,
+BE-ISE,Prateek G Ballari,1CR22IS106,Cognizant,4LPA,Aptitude questions with gaming based questions,,,,"Project,coding questions, aptitude question","Reverse a string,prime number","Communication,Aptitude, technical assessment, technical round",
+BE-CSE,Kowshik B H,1CR22CS083,Cognizant,4-6.75,"Normal tyl aptitude questions on sp and cp,data interpretation, percentage and few logical questions.",,,"1.Tell me about yourself 
+ 2.how do you handle critical condition",1.Related to DBMS joins,1.Write a program to check the uniqueness of the string,"1.sql query(2 question) 2.programming(2 question) 3.Add the specified feature to give website(html,css,js). 4 mcqs on core java)",
+BE-ISE,Saket kumar,1CR22IS127,Cognizant,4 lpa,Questions were based on percentage and logical reasoning,,,Interviewer was very friendly,Coding questions on array,Questions on array,,
+BE-ISE,AYUSH KUMAR,1CR22IS029,COGNIZANT,4-6.5,,,,,questions from python,"fibonacci, palindrome, factorial",,
+AInDS*,Farhin,1CR22CD014,Cognizant,4-6.75 LPA,"The aptitude round had 3 sections: Quantitative (math problems like percentages, ratios, DI), Reasoning (puzzles, coding-decoding, series), and Verbal (reading comprehension, grammar, error spotting). Difficulty was easy to moderate",none,none,"In personal interview the interviewer asked mostly technical questions.The questions were mostly focused on my technical skills.
+ The Questions that were asked to me by the interviewer were:
+ 1.Tell about yourself
+ 2.Am i willing to reallocate to any places and work any time
+ 3.Why did i choose python as my primary skill
+ 4.Advantages of python than other programming languages
+ 5.Write code to Reverse String
+ 6.What is indentation error in python 
+ 7.Excecute a program to show indentation error.
+ 8.Any questions for me to ask?","1.Why did i choose python as my primary skill
+ 2.Advantages of python than other programming languages
+ 3.Write code to Reverse String
+ 4.What is indentation error in python 
+ 5.Excecute a program to show indentation error.","1.Write code to Reverse String
+ 2.Excecute a program to show indentation error.
+ They asked questions in python programming language",,
+BE-CSE,N Varsha,1CR22CS114,Cognizant,4.5 LPA,"Quantitative Aptitude: Questions on Percentage, Profit & Loss, Time and Work, Simple and Compound Interest, Ratio & Proportion, Number Series.
+ Reasoning: Questions on Puzzles.",,,"Introduce yourself.
+ Tell me about your projects.","What is a join? Explain different types of joins in SQL.
+ What is diamond inheritence?
+ What is the difference between group and cogroup?
+ What is encapsulation?",Addition of the matrix,,
+AIML*,M Shailini,1CR22CI028,Cognizant,4-6.75 lpa range,"Quantitative aptitude was medium level with the time limit, had game based questions which tested quickness aswell. Communication round was also easy.",,,.,"Questions from sql, Python basics , Oops concepts , integrating detail regarding the topics from projects , scenario based questions, basic Python coding","Python matrix addition , nested loops and while loops difference, is and == difference, sql joins",,
+BE-ISE,Kilari Karthik Mahesh,1CR22IS068,Cognizant,4 LPA,"1- Communication round (speaking, listening, audio comprehension and questions, grammer), audio plays only once
+ 2- Aptitude and game based round- tough questions related to basic aptitude topics like areas, blood relations, seating arrangement, simple/compound interest, clocks, etc in Apti, sudoku, symmetric/mirror image patterns in game based",-,-,"strengths and weaknesses, willingness to learn new technologies, relocation, night shifts, etc","difference between list,set, tuples, different datatypes, four pillars of OOPs concepts, how to deal with NULL values, list comprehension and lambda functions","2nd largest element in a list, python","skill cluster 2- python mcqs, cloud related mcqs, 2 programming questions, sql questions",end number of videos on youtube
+BE-ISE,AYUSH KUMAR,1CR22IS029,COGNIZANT,4-6.75,,,,,,,,
+AInDS*,Lakshmi Charan M V,1CR22AD061,Cognizant,4 - 6.75LPA,An easy to medium level of aptitude is enough to crack them.,They asked me to choose any topic and speak about it for one minute.,,They asked a few situation-based questions.,"They asked questions about my projects, SQL, and Python.","Python code to check whether two strings are valid anagrams or not.
+ SQL query to find the top 3 maximum salaries in the employee table.
+ SQL query to find the marks greater than 80 in the Maths subject.",,https://www.interviewbit.com/
+AIML*,Anhupama N E,1CR22AI015,Cognizant,4-6.75,In aptitude round there were two sections one was related to quantitative aptitude and logical reasoning. The other section was a gamified section used to test your cognitive thinking,,,,"Write a program to print Odd number 
+ What is OOPS
+ What is inheritance 
+ What are the types of inheritance 
+ Explain the types of joins","Odd number
+ Sql join question",,Geeks for geeks
+BE-ISE,Varshini Uday Shet,1CR22IS180,Cognizant,4lpa,"Aptitude questions were little hard, game related questions also included",,,"Project related, common HR kind of questions, basic python programs and concepts for cluster 2","2 sql, 2 coding and rest mcqs of cloud for cluster2","Joins related sql, 2 python programs -cluster2","First communication, aptitude, technical assessment, interview",Previous years questions would help
+BE-ECE,Pratheek P,1CR22EC173,Cognizant,4,Questions from TYL Aptitude classes,,,"Basic questions like would u be willing to work from any location?
+ Any timing shift ?
+ Any department / Project ?
+ Where do you see yourself in future ?",Python and SQL questions basic level,"Python - program for Inheritance example
+ SQL - queries using where , group by , order by....","SQL , Python , Cloud services , OOPS concepts",
+AIML*,Naveen S Nath,1CR22AI076,Cognizant,4-6.75,A3 level questions,-,-,Only Introduction,"Technical Interview-code and output based questions and one techinal programming questions
+ code questions: output off print(a=b) etc","coding question:
+ sort an array and remove all the zeroes and append at the end off the list",Online aptitude round 1 speech X round 2 technical assessment round 3 personal interview final round,"Easy Leetcode questions on arrays, Lists and strings"

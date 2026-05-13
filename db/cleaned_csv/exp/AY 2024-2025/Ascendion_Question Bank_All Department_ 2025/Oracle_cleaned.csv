@@ -1,0 +1,49 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.
+BE-CSE,Divyam Kumar,1CR21CS066,Ascendion,4,,,,"1.Describe about yourself
+ 2.Why Bangalore for engineering?
+ 3.Tell me about your family
+ 4.Where are you from and it is famous for?
+ 5. How would you manage time in Bangalore traffic?
+ 6. What do you know about company?","1. Define OOPS and its four pillars
+ 2. Steps of software development lifecycle.",
+BE-ECE,Gaurav Kumar,1CR21EC079,Ascendion,4-5 LPA,Basic aptitude question on quants and logical reasoning and coding questions medium level,,,"In the HR round, the HR was very humble and kind. she asked me question about the family ,some situation-based questions , why i want to join this company, are you able to relocate according to requirement .","In the technical round, they asked me in detail about my project, the technologies I used, the difficulties I faced during the project, and about my final year project",character star printing and basic mathematic related question
+BE-EEE,Thejas G V,1CR21EE087,Ascendion,4-5 per annum,"A. Programming Fundamentals (MCQ) - 15 Questions – 20 mins
+ B. Coding/Programming - 2 Questions – 65 mins
+ C. Cognitive Ability (MCQ) – 15 Questions – 30 mins (This will consist of Quantitative aptitude, Logical reasoning, Logical thinking)
+ D. English Skills (MCQ) – 25 Questions – 20 mins.
+ The test was given in this format only.",Na,Na,"Is was the longest interview round .
+ The question where like
+ 1.introduce yourself
+ 2.tell me about the company 
+ 3.what do you expect from the company 
+ 4.what is your long term goal.
+ And other questions about the project","They asked me to write the program .
+ And it was a virtual round and it was like a technical and hr round where they ask both technical and hr questions.
+ 1.which programming language you know 
+ 2.what concepts you know 
+ 3.explain them.",Fibonacci series(java)
+AInDS*,Aman Abhishek,1CR21AD009,Ascendion,4,Basic aptitude questions + 2 coding questions.,,,"What is your strength and weakness.
+ After 5 years where did you see yourself?
+ Why ascendion?
+ Are you open to learn anything?
+ How you'll manage team collabration?
+ Project description.","*Oops concept
+ *Brief explanation on project
+ *Questions related to framework and tools used in project
+ *Basic programing questions
+ *DBMS theory questions
+ *SQL queries(easy-medium)
+ *Computer network basic terminologies
+ *Basic knowledge of front-end and back-end frameworks",Basic string array questions.
+BE-ECE,Monisha K M,1CR21EC125,Ascendion,4-5 LPA,All three,No,No,"Yes
+ It was good 
+ Questions were asked about interested on company and towards work","Question were related to projects and internships 
+ And about programming language","I used java and python more in my projects
+ So questions were related to java concept"
+AInDS*,Sayed Mizan Hussain,1CR21AD048,Ascendion,2025-04-05 00:00:00,Basic aptitude,,,"1-introduction 
+ 2-Coding Languages 
+ 3-Some basic coding language related questions 
+ 4-project discussion
+ 5-technical question based on project",Project related technical question and programming language theory question,Java
+AInDS*,Susmit Kumar Pandey,1CR21AD053,Ascendion,2025-04-05 00:00:00,"2 rounds- 1st coding (elimination round)
+ 2nd behaviour assessment (non-elimination round)",,,"Hr questions - introduction, aspiration in life , plan for further studies","Questions on project tech stack, ML",

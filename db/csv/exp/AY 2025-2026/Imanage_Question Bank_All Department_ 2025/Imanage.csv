@@ -1,0 +1,35 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.
+BE-ISE,Rohan kumar jha,1CR22IS116,Imanage,"Internship-(20-30)k,ctc 8-10 lpa -based on requirement and performance",15 questions (quant & logical+ cs fundamentals)-easy level(20 mins)-pen paper,,,"Managerial round:(15-20 mins)
+ 1.Introduction & personal details
+ 2.Details about project..flow & block diagram explanation on white board..
+ 3.Question : if you have a team and you want to delete a shared folder ..what steps would you take ..make a flow & block diagram & explain(pen paper) ..
+ 5.why did u choose engineering..
+ 6.difference between accuracy & precision 
+ 
+ Hr round :(10-15 mins)
+ 1.Basis introduction 
+ 2.Some questions on the role .
+ 3.Internship overview- role, duration ,working model ,stipend etc ..
+ 4.Where do you see yourself in 5 years ..
+ 5.Will you be ok to work for the same role in full time ?
+ 6.why QA at imanage ..why not anything else like developer in other companies etc..","Technical round :(20 mins)
+ 1.Introduction 
+ 2.Detailed explanation About the 1 ml project & my contribution in project.
+ 3.About imanage company 
+ 4.Oops-polymorphism
+ Method overloading & overriding.
+ 5.Binary search conditions & tc..",
+BE-CSE,Rakshitha C,1CR22CS147,Imanage,8-10LPA,"Basic aptitude questions ,one riddle and basics of Linux CN and OS",,,"Round 1 technical interview 
+ 1)Asked me to explain one of my projects and later asked me to write a python code to open a pdf and then extract images from the pdf and then extract text from the pdf 
+ 2)Second program asked me to write a program for divisibility by 5
+ Round 2 manager interview 
+ 1)Asked me to draw the flow diagram for one of the projects and explain the risks and limitations we faced in implementing any part of the project 
+ 2) provided an use case and asked me to draw the flow chart for the same explaining risks and limitations",,"1)Asked me to explain one of my projects and later asked me to write a python code to open a pdf and then extract images from the pdf and then extract text from the pdf 
+ 2)Second program asked me to write a program for divisibility by 5"
+BE-ISE,V Sanjana Devi,1CR22IS176,IManage,8-10LPA,"Basic aptitude, reasoning, fsd , oops, DBMS and os mcqs",No jam session,No group discussion,"There were 3 rounds technical, managerial and HR round
+ Technical round was quite easy , questions asked on project , python syntax , https status codes, full stack
+ Managerial round was a bit tricky , questions extensively based on project and scenario based question on testing","Mostly Based on Project, explain ur project ,why did u choose this
+ Https status codes
+ Difference between list and tuple 
+ Python syntax",No programming questions asked
+BE-ISE,BHOOMIKA MANJUNATH MADIVAL,1CR22IS031,Imanage QA test intern,No,Easy and competitive question,.,.,"Question about class and object, overriding, overloading, resume , mini project, while , do while loop, about company",Mini project details,"Loop , class , object, DBMS, data structure, binary search, time complexity"

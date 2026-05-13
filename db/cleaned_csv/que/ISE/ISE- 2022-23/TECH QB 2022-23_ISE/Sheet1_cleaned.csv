@@ -1,0 +1,211 @@
+serial_number,company_name,technical_questions,programming_questions
+1,Cognizant,"1. Difference between stacks and heaps
+2. Explain OOPS concept.
+3. Ellaborate on join index
+4. To write queries from a given table.
+5. Basic syntax and definitions from python.
+6.Difference btw foreign key and primary key 
+7. Simple SQL queries
+8. Difference between C vs C++
+9. Using namespace std;   -> it's explanation 
+10. questions based on javascript","1. General questions on C++
+2. Fibonacci series
+3. Reverse a string
+4. explain the right angle triangle program"
+2,Ellucian,"1.SQL Queries,
+2. Java Programming concepts,
+3.Moderate Programming Qs
+4. OOPS concepts, Project related questions, Java Classes, Python basics, Array related questions.
+5.  JAVA Collection Frameworks, C and C++ basic questions - Constructors, Destructors, Memory Allocation, structures, 
+6. DBMS definitions (Primary key, foreign key, unique key),
+7. GitHub related questions and commands","1.Parathesis Checker & Prime Number
+2.Java basics 
+3.Programs like Multiplication Tables - Language of your choice
+4. Reversal of a String and Array - Python
+5. C programing questions"
+3,Epicor,"1. OOPS concepts 
+2. DBMS quesries and normal forms 
+3. REST APIs
+4. Searching and sorting Algorithms
+5. Class definition
+6. Polymorphism it's types with an example
+7. Data abstraction
+8. Prevelant Operating systems in the industry
+9. What is Interface ?
+10. Explain Disc scheduling algorithms
+11. Explain Job scheduling algorithms - Bellman Ford algorithm in detail
+12. What is a thread, process, deadlock?
+13. Sql queries on joins
+14. Explain Normalization and it's types
+15. Explain Primary key and unique key and their difference
+16. All the skills I claimed in the first page of my resume. SQL Update query and find 2nd max salary.","1. Merge Sort
+2. Quick Sort
+3. Any programming language of our choice preferably Java. 
+4. Factorial
+5. Binary Search
+6. Missing number from 1 to N"
+4,Amadeus,"""There was a panel interview instead of personal interview. There were 3 people, amongst them 1 person from HR team and 1 person from Technical side. Mostly common HR questions were asked, like :-
+1. Introduce yourself
+2. Why did you choose this company?
+3. Tell me about your hobbies
+4. Discuss on the topic """"Timeline kills Creativity""""
+5. What are the projects that you have done, and other certifications 
+6. Are you a team player, or a team leader
+After that the Technical round started. Questions were :-
+1.Explain OOPS concept in your choice of language (mine was C++)
+2. Why did you choose C++ and not Java?
+3. Write code for Operator overloading, Function overloading and Dynamic binding.
+4. Write code for Merge sort and explain
+5. Explain Quick sort
+6. Explain what is Time Complexity
+7. According to you, what is the definition of Data Structures
+8. Explain what are the ML/AI algorithms you've used in your projects.
+""Technical round(50 min):
+9.Oops:  Oops, oops pillar, Implement polymorphism(Function Overloading,  Function Overriding), More question on inheritance and polymorphism. Implement class for MakeMyTrip website.
+10. Dbms:  Normalization and its forms
+11. OS:  Multi-Threading, Multiprocessing OS, example of OS.
+12. What if two people are booking same ticket and how to handle it?.
+13. While searching for a flight how the different airline data are rendered ?""","1. Time Complexity
+2. OOPS concepts, Sorting Algorithms
+3. Linked lists, definition and manipulation 
+4. Trees and graphs
+5. ML/AI algorithms
+6. Data structures
+7.Implement Tree from scratch from the given arrays."
+5,Bosch Drive,"1. ""Questions related to language provided in resume 
+Eg. Python 
+2. Features, how it will advance in future, how different it is compared to other languages.
+3. Libraries, some coding questions, OOPS concepts, DS ""
+4 Django,flutter cross questions","1. Sorting"""
+6,Chainalytics,"1.Oops concepts with real time examples
+2. Basics of sql(primary key, foreign key, unique, not null) 
+3. DML and DDL
+4. Basic queries
+5. Aggregate functions
+6. Limit function in dbms Transactions, 
+7. ACID properties","1. Reverse a string
+2. Fibonacci using recursion
+3. Factorial using recursion
+4. Quick sort and merge sort implementation
+5. All OOPS concept implementation
+6. Linked list using oops
+7. Stack implementation using oops"
+7,CLARIVATE ANALYTICS,"1. implement all types of polymorphism 
+2. ""Definitions of all DS 
+3. Applications of Some DSA
+4. Project related questions
+5. Tree traversal
+6. Some basic questions related to Java program ""
+7. Thorough Discussion on projects for 35 minutes. Told to write the code of the core logic of the project , database schema and database connectivity. Further discussion on time complexity of the code and how to improve it. 
+
+8.Javascript Concept check like how to manipulate the dom , 2d array, how javascript is helpful in making the webpage interactive. 
+
+9. Thorough Discussion on 4 pillars of Oops Concept with coding. ""
+A query on updation","1. find unique elements in an array and variation of coin exchange problem
+2. ""Reverse of list items in python
+3. Elimination of repeated numbers in list
+4. String reverse program in Java
+5. Find the second maximum number in the array.
+6.  Programming language used - Java. : They asked me to code 2 coding questions. one is finding frequency of letters in a string using hashmap method the other one is printing a string excluding special characters."
+8,Deloitte,"1. Sorting algorithm
+2. Search method
+3. Oops 
+4. DBMS
+5. Project ""
+6. ""What is ML
+7. What is multiclass regression
+8.Program to count no of words 
+Real word regression example with internal and external factors.
+Java oops concepts.
+Questions related to my Java project ""","1. Java : Swap a number without a third variable
+2. Java rotate matrix""
+3. Program to count no of words (any language)
+4. Program to replace a word (python)
+5. Program to split 2 words (python)"""
+9,EY,,1. We had an online coding round. There were 2 questions and we have 1hr 15 minutes to solve it. We could use any language
+10,Infoedge,,"1. Count Frequency of characters, 
+2. anagram"
+11,Hitachi Vantara,"1. DBMS
+2. OOPS, Java
+3.Python /AI/ML.
+4.""Difference between interpreter and compiler?
+5. What is the use of header files in C?
+6.Questions on Java OOPS,such as Ploymorphism,abstract keyword,interfaces,etc?
+7.Some basic questions on HTML and CSS(Since I had mentioned on the resume)
+8.Brief explanation of 2 mini projects""","1. Write a java program to demonstrate polymorphism
+ 2. Write a query [Basically, a query using the group by keyword]
+ 3. Swap 2 numbers
+ 4. Palindrome
+5. Bubble Sort, find pairs (x1, y1) such that x1! =x2 and y1! =y2 where (x2, y2) is also a a pair. 
+6. Calculate the date of birth using any language program. 
+7.Implement a simple Bubble Sort and Broken Beads Problem"
+12,Evalueserve,1. Joins and Types of joins,1. Merge Sort
+13,Global Logic,"1. Window functions in SQL
+2.Java and OOPS ""
+3.Inheritance
+4.discuss where you have used OOPS in your project
+5Polymorphism
+6.Early binding late binding
+7.two programming snippets
+8.one java script question
+9. question based on resume (about tech stack in which project is done)""","1.Reverse a String
+2. Magic number in an array
+3. Array and Magic value
+4.Print the number which is nearer to zero"
+14,Accenture,"1.C, Java, Python",
+15,Light and Wonder,"1.What are transaction?
+2.What are joins?
+3.Write querys
+4.What is OS?
+5.Uses of RTOS
+6.Explain and prevent deadlock
+7.What is paging""
+8. OOPS Concepts","1. Merge sort 
+2. Quick sort 
+3. Number of words in string
+4. Program to print the ASCII value of a word"
+16,Publicis Sapient,"1.Theoretical Questions from Java, puzzles, 
+2.Data Structures, 
+3.Exception handling, 
+4.File operations, 
+5.Database connection, 
+6.Finding output of a java code.
+7. What is JVM, Pillars of Java/oops?
+8. What is stack, hashmap and heap?
+9. Details about Python inbuilt data structures. 
+10. How to connect database to python ?
+11. Java collections
+12.Print common and uncommon values from two different lists","1.Given a string, find all the vowels and display them. 
+2.Check if the string formed by vowels are palindrome or not
+3.Print the pattern in diamond shape(Python)"
+17,TATA Elxsi,"1.Data structures 
+2. Algorithms questions 
+3. Basics of C and Python 
+4. Final year project.","1.Technical interview-Swapping two numbers 
+2.Reverse a number 
+3.list fibonacci numbers."
+18,Persistent Systems,"1 OOPS, loops
+2 DBMS
+3 OS
+4 MySQL.","1 Basic Prograaming
+2 How to find an even no 
+3 how to point a number"
+19,DhiOmics,"1 Python
+2 DBMS
+3 Loops",Programs usimg python to mean median and mode
+20,Microland,,Project worked and knowledge about the same
+21,Skillo Villa,"1 data science
+2 python
+3 java
+4 oops
+5 machine learning",find the 2nd largest element in the array in o(n) space complexity
+22,MSG Global Solutions,"1. Introduce yourself.
+2. Getting to know about the company and interviewer more.
+3. Asking about growth in the company and upskilling.
+4. Diving into basic architectures of Data Structures and Algorithms (Loops, LinkedList, Stacks)
+5. Explaining projects and tackling questions on them.
+6. Water-Jug problem puzzles.""
+7 recursion","1. Solving a pattern printing problem.
+2. Problems on series pattern.
+3. rotate linked list ,delete the ele provided reference to middle is given ,implememnt linked list using array
+4. water jug prblm"

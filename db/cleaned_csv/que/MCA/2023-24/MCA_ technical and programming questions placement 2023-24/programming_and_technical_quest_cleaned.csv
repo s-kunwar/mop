@@ -1,0 +1,74 @@
+serial_number,company_name,technical_questions,programming_questions
+1.0,Accenture,"Oops concepts, OS concepts, Networking The Questions asked in accenture were 
+1) Feedback received in Project
+2) did you use api’s in your project? If yes how?
+3) Which Programming languages do you know? Tell its advantages 
+4) How will you resolve a conflict between two members of your team if you are a team lead
+5) Limitations of your project                                                                                                                    6) Pseudo code questions, computer fundamentals questions , Excel PowerPoint questions","1. Given a string 'abccdccaaz' print the first duplicate occurance of the alphabet. 
+Output - in abccdccaaz it should print c                                                             2.
+No of steps required to make a Matrix into a Lovely Matrix ( Lovely Matrix - it is a 5x5 Matrix with 24 zero's and only one 1, and the 1 should be in the center of the Matrix)
+Given a 5x5 Matrix consisting of 24 0's and one 1 ,
+Print the number of steps required to make the Matrix into a Lovely Matrix!       3. Program on * Arranging Three Colour stones RGB on a table 
+* Dividing Apple of 100 and 200 grams equally among Friends
+* All Languages were available but I used JAVA                                            4. Program to display Largest SubString Palindrome      5. ""Given a string 'abccdccaaz' print the first duplicate occurance of the alphabet. 
+Output - in abccdccaaz it should print c"""
+2.0,Epsilon,"SQL Joins
+SQL keys
+SQL BASICS",SQL query basd on the Table they provided
+3.0,MapleLabs,Functions in c,"5. Program on One contains apples, the other contains oranges and the third contains a mix of orange and apples We have to pick one fruit from each and label the boxes correctly"
+4.0,Bluebird,Testing Question,1.What is testing?2.Types of Testing 3. What is automation testing? 4.What is Blackbox and whitebox testing?5. What are the Test cases for Mobile battery? 6.Bugs which you found in your daily life while using your mobile?7.What are the android versions?8.How to eclare an array in Python?9.What are the test cases for lift?
+5.0,TapAcademy,C++ Concepts,1.How can you use two numbers by swapping them?2. How are we going to add numbers using expressions? 3. In which situations do we add numbers without using expressions?
+6.0,Accolite,"Java concepts,C++ concepts","1.Explain java String pool.
+2.Explain exception handling hierarchy.
+3.Oops concept.
+4.What are the two ways to create a thread.
+5.Difference between final,finalize,and finally keyword.
+6.Difference between throw and throws.
+7.Difference between checked Exception and Unchecked Exception
+8.Difference between C++ and Java.
+9.Why java is not pure object oriented language.
+10.Difference between Heap and stack Memory in java.
+11.Difference between comparable and comparator in java.
+12.Difference between HashSet and HashMap.
+13.What are the Features of java Hashmap.
+14.Difference between Stack and queue.
+15.Difference between Array and Linked List.
+16.Tell me about your Project.
+17.Basic tag on Html like img,paragraph.
+18.In Html how to create list,table.
+19.How many ways we write css in Html.
+20.Why we need Css."
+7.0,ITOrizon,Java concepts,"1. Why java is platform-independent 2. Why java is not 100% platform-independent. 3.Constructor 4. Overloading- Overriding 5. Types of Overriding 6. Explain public static void main(String[] args) 7.Some real time problems 8. What is SQL? 9. SQL commands. 10.Use of Rollback,commit,savepoint."
+8.0,IT Orizon,For Business Analyst Role,"1.Give a scenario to solve the problem
+2. Sql question (like aliases, joins etc etc)
+3. Projects.
+4. Program in language you mention in hr screening form and resume
+Imagine there is a company like Amazon. If a customer orders a dress from Amazon but it's out of stock after he have placed the order, the question arises: Will Amazon deliver the order to the customer? If so, what approach will the company use?
+Imagine there is a club that requires a code to enter. At first, you don't know what the passcode is. So, you decide to wait and analyze the other people entering the club. The person from inside the club says ""12"", and the person who wants to enter says ""6"". After that, another person arrives, and the guard says ""10"", and the person says ""3"". After hearing this, you think, ""I've heard enough; now I can enter the bar."" So, you go to the guard, and he says ""6"". What will be your response to that number so you can enter there?
+direction sense
+blood relation
+seating arrangement
+visualization(calculate the numbers of triangle, rectangle, etc)
+ratio and proportion
+encoding decoding
+number series
+age questions"
+9.0,MSG Global Solutions,C++ Concepts,1. Binary Search 2. Mkae a function to count palindrome strings inside a input string 3. puzzle questions
+10.0,Quantiphi,"1.Difference between google docs and word
+2.Difference between powerpoint and google slides
+3.Basic Core Java Questions-About Oops concepts
+4.what is cloud?
+6.where is cloud used?",1.Basic Coding Questions-Write a Java program on Pallindrome number 2.Puzzle Question-There is a square metal sheet you need to reduce the weight without changing the size or shape of it?
+11.0,L7 Informatics,1.How to scrap the data from CSV without using any external library?                                              2. Expalin aout the project build on python,1.Basics of Python 2. Tell me about your project
+12.0,Capgemini,"Java concepts,C++ concepts","1.why is C++ names as it is?
+2.what is the difference between C and Java?
+3.What is HTML?
+4.What is XML?
+5.Why is java called Object oriented?
+6.Explain about project followed by database connection and what is php and javascript?"
+13.0,Surewaves,For Business Analyst Role,"1) How will you see yourself after 5 years in company
+2)How do u handle conflicts in your team ,
+Eg- like in your project team
+3) what is current technology you know
+4) explain your  project in detail 5) Basic coding question 6) Give a scenario to send a mail"
+,,,5

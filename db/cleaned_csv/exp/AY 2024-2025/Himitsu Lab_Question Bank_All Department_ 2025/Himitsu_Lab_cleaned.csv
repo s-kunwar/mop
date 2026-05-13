@@ -1,0 +1,15 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.
+AIML*,Amrita Sharma,1CR21AI007,Himitsu Lab,3-4 LPA,"1)Introduce yourself
+ 2)Why do you want to join this company?
+ 3)How do you spend your free time and how it shapes you as a person?
+ 4)How do you face challenges and explain with an example you faced?
+ 5)Questions regarding the previous internships.","Regarding project and live coding questions below on notepad(not code editor):
+ 1)Write a function to generate all combinations of well-formed parentheses for n pairs.
+ Input: n = 3
+ Output: [""((()))"", ""(()())"", ""(())()"", ""()(())"", ""()()()""]
+ 2)Write a function to rotate an array k steps to the right.
+ Input: nums = [1, 2, 3, 4, 5, 6, 7], k = 3
+ Output: [5, 6, 7, 1, 2, 3, 4]
+ 3)Write a function to group anagrams from a list of strings.
+ Input: [""eat"", ""tea"", ""tan"", ""ate"", ""nat"", ""bat""]
+ Output: [[""eat"", ""tea"", ""ate""], [""tan"", ""nat""], [""bat""]]",Python and project related

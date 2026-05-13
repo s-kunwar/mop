@@ -1,0 +1,459 @@
+serial_number,company_name,technical_questions,programming_questions
+1,Ellucian,"1.Analyze given tables and write or interpret SQL queries.
+2.What is SQL and NoSQL Databases.
+3.How to limit number of elements in database using MongoDB
+4.What is MongoDB
+5.Test knowledge on Database Management Systems and query formation based on scenarios.
+6.Predict the output based on provided code snippets.
+7.General aptitude and reasoning questions, typically involving 2 questions and one coding problem.
+8.Around 15 questions related to C, C++, and SQL was asked.
+9.Odd and Even Numbers Check: Writing code in an IDE to check if a number is odd or even.
+10.Basic Coding questions covering various scenarios, including reading files in Python and other fundamental tasks involving arrays and strings.
+11.Predict the output of JavaScript code snippets.
+12.What are CSS Grid, How to deploy it
+13.How to style a text in center in HTML
+14.How do you design and deploy Cloud Architecture , SaaS Model.                                                                                                                                             15.What is your understanding on SaaS Model.                                                                                                                                                                                                       16.How have you implemented or integrated Ellucian Journey AI in your projects?
+17.General questions on various technical topics including cloud computing, OOPS, and more.
+18.Differentiate Between If Else and Switch Statement?
+19.How Will You handle errors in the code?(Exception Handling)
+20.What do you know about context managers in Python?
+21.What is SQL? How is it different from MongoDB? Do we need schema for SQL and MongoDB and how do you store the data in both?
+22.Question Based on Project In the Resume and various use cases of each project.
+23.Polymorphism real world example.
+24.Tell the keywords use to declare variables in Javascript and Difference b/w var and let.
+25.What is super and static key word in JAVA.
+26.What is abstract and inteface? tell the differences b/w these two.
+27.Box model in CSS
+28.Delcaring objects in Java
+29.OOPS case scenario questions.
+30.Questions based on project listed in the resume.
+31. Questions on Java, javascript and OOPS.
+32.What is runtime polymorphism
+33.Questions regarding thread states
+34.Questions based on React and angular
+35.Shallow copy and deep copy, Const keyword, Class and objects
+36.Database management system,
+37.Tools related questions which were used in projects 
+38.Write code in an IDE to check for odd and even numbers.
+39.Frame SQL queries based on given scenarios. The situational questions revolved around handling work challenges and teamwork experiences. The overall focus was on evaluating my technical proficiency and problem-solving abilities.
+40.JavaScript Code snippet, to predict it's possible output
+41.What is SQL and NoSQL
+42.What is MongoDB
+43.How to limit number of elements in database using MongoDB
+44.What are CSS Grid, How to deploy it
+45.How to style a text in center in HTML
+46.How do you design and implement RESTful APIs?
+47.What is your experience with Python frameworks Django ?
+48.How do you use Docker for containerization?
+49.How do you design and deploy cloud architecture?
+50.What is your understanding of the SaaS model?
+51.How have you implemented or integrated Ellucian Journey AI in your projects?
+52.Reading a file in python
+53.basic codes 
+54.DBMS and OOPS","1.Write a program to check if a given number is even or odd.
+2.Calculate the Least Common Multiple (LCM) of two given numbers.
+3.General Python questions, possibly covering core concepts or small code snippets.
+4.Core C++ questions on topics such as sorting algorithms, arrays, pointers, and common inbuilt functions like printf and scanf. 
+5.Questions on SQL queries, including CREATE, SELECT, and conditions.
+Python Development in Cloud and AI Environment:
+6.Create a Docker container and write a Python script to execute within it.
+7.Implement a simple RESTful API using Django.
+8. Discuss AI tools or frameworks you have experience with and how to integrate AI models into applications.
+9.Cloud computing questions especially focusing on AWS and related services.
+10.Mostly Guess the Correct Output based questions in languages such as C++, C, Python and Java.
+11.Find the min number in an array?(C++)
+12.Program to find second largest number in Java.
+13.Write SQL queries for Student database.
+14.HTML code for a frontend of a page
+15.write a program to check even or odd numbers, in Java language
+16.Find the LCM of two given numbers(No specific language mentioned)
+17.Basic c++ core questions
+18. Python 
+19.Create a Docker container and write a Python script to run inside it.
+20.Implement a simple RESTful API using Django.
+21.Have you worked with any AI tools or frameworks? If yes, please name them.
+22.How do you integrate AI models into your applications?
+23.Question on the language mentioned in resume 
+24.About c inbuilt function (printf, scanf, sorting, pointers, arrays and use,) 
+25.About sql queries (create, select and conditions) 
+26.About python libraries
+27.More focused on cloud computing especially AWS
+28.Prime TIme
+29.Prime factors in a range
+
+Candidates should be prepared for questions on all languages and tools mentioned in their resumes.
+They can Expect one programming question during an assessment and two during an interview, primarily in Java."
+2,Eurofins,"1. Sort an array that contains 0s and 1s, without using an extra array and in O(n) time
+ Write pseudo code on paper.
+ 2. Write a function that takes two cities are parameters and connects them and write
+ another function that takes two cities are parameters and check if those two are connected.
+ It was graph question.
+ 3. What are clustered and non-clustered indexes in SQL
+ 4. What is primary key in SQL ?
+ 5. Difference between SQL and MongoDB ?
+ 6. What are unique keys in SQL ?
+ 7. Questions about your Projects & technologies used?
+ 8. What specific problems did you face in this project ?
+ 9. Media queries ?
+ 10. When you enter a url in the browser and hit the enter button, what all happens ? Explain.
+ 11. Some questions on OOPs
+12.sql vs nosql,
+13.selection sort,
+14.trim starting and ending zero,
+15.inheritence and polymorphism code example,
+16.multiple sql queries based on join, union, aggregate function, subqueries
+17.some more questions based on string
+18.OOP
+19.DSA
+20.SQL
+21.Optimisation related questions","1. Check if the following strings are anagrams.
+ 2. find saddle points in the matrix (the definition of saddle points was given in the question)
+ 3. find the sub-array in the 2D array, that has the highest sum
+ 4. Take two strings as input and if the second string is a substring of the first string, 
+print the first string.
+ Example input: 
+ Bombay
+ om*
+ Output:
+ Bombay
+ 5. Delete the vowels from the string but do not delete if the vowel is succeeded 
+or preceded by another vowel. Print the final string.
+6.Valid Anagram
+7.Saddle Point in a Matrix
+8.Eliminate more than 1 consecutive vowel maximum sum submatrix
+9.String matching 
+10.Missing number in array
+choose whatever language you want to code in OA as well as in Interview
+11. to check if 2 words are anagram or not
+12.pattern matching,ex: give 2 string """"""""""""""""bombay"""""""""""""""" an """"""""""""""""om*"""""""""""""""", it should print """"""""""""""""ombay""""""""""""""""
+13. find saddle points in a matrix, points in a matrix which have the highest value in a row and lowest value in column, print index in sorted order
+14. given string , remove single vowels, if continuos not remove it, for ex """"""""""""""""abbaabb"""""""""""""""" will be """"""""""""""""bbaabb""""""""""""""""
+15. given matrix of n*n, find m*m matrix with maximum sum, 2<=m<n"
+3,Surya Software,"1.Two coding question anagram and subset array
+2.Questions based on ooc, dbms etc.
+Solutions were asked in written (on paper) rather than being written in IDE
+3.Valid parenthesis
+4.Sql (primary key and foreign key)","1.Questions describing real world scenarios, ""optimised""
+ solution was asked.
+2.Valid parenthesis(preferred language)
+3.Balanced paranthesis"
+4,EPICOR,"1.Java strings and arrays questions.
+2.Reversal of string
+3.Classes and objects
+4. Largest and second largest salary using MySQL and 2-3 
+5.Questions on SQL queries 
+6.DBMS definitions like Primary key, unique key,  DDL, DML, DCL, TCL, DQL, etc
+7.OOPS concepts which include 4 pillars, super keyword, Constructor chaining. 
+8.HTML and CSS question on flex box, what is display : block means and HTML tags basic.
+9.Question on Project.
+10.Questions on opps concepts","1.Permutation and combination question to be coded in any language
+2.Print all the odd index element in an Array
+3.Check if a String is a Palindrome
+4.Reverse a String by words (Ex : Hello CMRIT --> Output : CMRIT Hello) 
+5.Finding sub string in a given string ,and sorting algorithms"
+5,Epsilon,"1.Explain about your project.
+2.Write a python program on the hangman project. 
+3.Write a simple insert statement in SQL
+4.Scenario based questions emphasizing on digital marketing.
+5. SQL queries basic to medium level questions.
+6. Questions on Digital marketing. 
+7. Questions regarding the company. 
+8.Question were mostly based on resume, explanation of any one project. 
+9.General oops questions such as interfaces,abstraction,encapsulation. They gave real time situation and asked to apply oops concepts.
+10.DBMS question like unique key, inner join,left join and one query.
+11.Sql queries were asked.","1.How to reverse a string?
+2.Fibonacci series (ONLY APPROACH, NO CODE)"
+6,Surewaves,"1.OOPs, DBMS-queries, HTML, CSS, JS  2)What is relational and non-relational database 
+
+3)Tell me about ACID principals in dbms
+4) Similarly some more questions related to dbms
+5)OOPS concepts with real life examples
+6)Questions related to projects and its implementation  7)What are transactions in dbms","1.Question on -Linked List
+2.Palindrome-was made to do some modifications based on interviwer
+3.HashMap-question    4)There are two strings given s1 and s2. Find if s2 is anagram of s1 or not
+5)Find if a number exists strictly more than the size/2 of an array
+6)Simple sql queries 
+7)There are n number of people and there are n number of bulbs, person 1 comes and toggle bulbs 1,2,3...n, then person 2 comes and toggle bulbs 2,4,6...n, then person 3 comes and toggle bulbs 3,6,9...n.
+Find which bulbs will be lit at the end."
+7,Accenture,"1.The technical questions were mainly on networking,Ms word,Excel.
+2.Basic OOP concepts 
+3.About project & Java 
+4.Programming language, technology used in project 
+5.Cloud computing questions 
+6.Why do we use OpenCV, dlib, pygame?","1.Find the nth integer of infinite integer array.
+2.Select and delete point in the sequence. 
+3.Determine the Nth digit in the given list 
+4.Questions on pattern matching,infinite integer sequence and a game using list. 
+5.Return N digits from list of n sequenced number .
+6.A game question like a person selects a target number from list and remove target-1 &target+1 number and return.
+7.Arrays, 2d arrays
+8.Combinations program 
+9.Steps count 
+10.Java pattern matching and strungs
+11.Find round number
+12.Boredom problem
+13.A question related to arrays and leetcode 70(climbing stairs problem)
+14.Guess the next n numbers
+15.Program to find the square root of a number .
+16.Number of ways to reach the final step (Dynamic programming)
+17. Array based question 
+18.Prime number 
+19.sliding window problem(Coloured Stone)(python)
+20.Interchanging of the letters based upon the pattern.
+21.factorial of a number, string medium level question on leetcode"
+8,Impelsys,"1.Basic html tags
+2.Difference between class and ID selector
+3.Why php is used in projects
+4.Questions from courses mentioned in resume
+5.What is JOINS?
+6.What is OOP?
+7.Difference between Object and Array
+8.Pillars of OOP
+9.Relationship between tables",1.Sum of the numbers in an array
+9,KOCH,"1.Basic question related to skills mentioned like frontend, back-end technology used in the project.
+2.Html 
+3.Css
+4.Detailed Follow-up questions from the Final Year Project
+5.What is Polymorphism 
+6.What is Inheritance 
+7.Data and Data types
+8.Mobile application development framework
+9.Cloud computing
+10.Computer Networks
+11.Cybersecurity     12.Basic questions on networking such as how to find IP and it's configurations.    13.Few questions on projects.","1.Sum of the last two digits in a number.
+2.Change the even numbers to odd in a phone number.
+3.Addition of last 2 digits of a number
+4.2D Array
+5.Matrix questions  6.Prepend 0 to a sum in order to make it a particular length. 
+
+7.Print alternate digits in a number excluding the leading 0s(Any language)""
+8.To find age of two given person on the basis of given data.
+9.To find a number with specific number of preceding zero based on given conditions."""
+10,Oracle Financial services Software,"1.Difference between RDBMS and NoSql.
+2.Why you preferred the specific technology or tech stack for your project.?
+3.Abstraction,Abstract and Interface.
+4.SQL query to find all duplicates and their count from database, how to delete duplicates.
+5.SDLC(software development life cycle steps)
+6.What is default package in Java language that JVM initialises.?(Lang package)
+7.What is importance of static in Java main function.?
+8.Dbms query writing.
+9.Program on how to reverse a string without using any functions
+10.Oops concepts like inheritance, abstraction
+11.Java concepts 
+12.Oops,java concepts like abstract function,, interface,try catch
+13.RDBMS,SQL Queries
+14.plaindrome,oops with real life example,technologies used in project,highest marks from student table query
+15.Basic Sql queries and theoretical concepts 
+16.Code for Fibonacci series with and without recursion","1.Given a number say 
+ Input = 555
+ You need to add the digits of given input number and boil down to a single digit
+ 5+5+5=15
+ 1+5=6 
+Output= 6
+2.Reverse a string without using any functions (python)
+3.Try catch finally block in java
+4.Leap year program in java
+5.Prime number
+6.Substring palindrome"
+11,Cimpress,"1.Linked list related questions.
+2.Oops concepts, DBMS and Data structures","1.Creation of Linked list and insertion, deletion from linked list using Python
+2.Unequal lengths(20M), cache(20M) and laptop sales (50M)"
+12,FIS,"1.odd even program,technologies mentioned in project.",
+13,Microland,1.Questions from project,
+14,o9 Solutions,"1.MySQL questions
+2.SQL questions-joins 
+3.Coding questions like Linked list and arrays and strings 
+4.SQL
+5.Data structures 
+6.Explaination of project 
+7.Sql queries on joints, views and others
+8.Why used mongodb  ,sql vs nosql","1.String reverse
+2.Fibonacci
+3.Maximum element in an array
+4.Simple programs like palindrome, anagram, password strength, count the number of vowels in a word"
+15,Flow Edge,"1.link list,array problems","1.Function calls, array questions"
+16,Toprankers,"1.logical questions from oops(Java inheritance in depth)
+2.sql-joins
+3.recursion
+4.linkedlist implementation,queue,stack
+5.css,html
+6.dbms- indexing in depth","1.medium level recursion question
+2.linkedlist"
+17,MSG Global Solutions Drive,"1.The questions related to java oops,focused mainly on Java basics,and sql
+2.Java questions on encapsulation, polymorphism and array list
+3.About Java concepts, arraylist, exception handling 
+4.Example of polymorphism 
+5.ER diagram of a situation","1.To check if a string is palidrome or not 
+2.to find duplicate character in a array 
+3.program based on Java encapsulation and polymorphism
+4.Coding questions on palindrome of a string 
+5.Number of unique characters in a string in java
+6.Reverse string
+7.Remove duplicate letters in string
+8.Check number of palindromes present in given string.
+9.Palindrome program
+10.Even and odd program"
+18,Publicis Sapient,"1.Oops concept, queries of sql
+2.Dbms basic queries 
+3.hierarchy in exception handling
+4.jdk vs jvm vs jre 
+5.primary key and foreign key
+6.explain public static void main","1.code on reverse a string- java
+2.Bubble sort
+3.Dbms sql queries on joins 
+4.primary and foreign key implementation"
+19,Certometer,"1.Python questions- classes, decorators
+2.React concepts- components, props, hooks","1.Given input of current day, hours, and minutes, convert the time from GMT to IST (offset of 5.5 hours or 330 minutes). To be written in Java or Python."
+20,SophisTex,"1.Resume project
+2.debugging
+3.puzzles",
+21,Mu Sigma,"1.What is a dictionary in python
+2.What are the data structures used in python
+3.What are sets in python
+4.What are the joins used in sql
+5.How does your project work? 
+6.What are the different components of your project?",
+22,Tech Mahindra,"1.Oops concepts
+2.OS questions 
+3.mysql",
+23,Carrier,"1.Questions on SQL
+2.OOP concepts","1.reverse a linked list
+2.quick sort"
+24,"Wonksknow, Bangalore","1.What is flutter?
+2.Questions related to full stack development
+3.Which logic gate is used in two-way switches?
+4.Internal implementation details of RAM","1.for loop in python
+2.arrays, dictionaries and key value indexing."
+25,Iron mountain,"1.Oops concepts
+2.DSA
+3.One puzzle was asked in which I was given 10 blue balls and 10 red balls and we need to pick one by one alternatively and need to put in a box. What will be the minimum number of turn it will take to form a pair with the same color in the box.(Answer was 3). ""","1.Count of character in a string
+2.sorting of 0,1
+3.The question is to sort an binary array(array containing 0's and 1's). Expected to solve this in O(N) time complexcity and O(1) space and can be solved using any programming language."
+26,MathCo,"1.Prime number 
+2.Fibonacci
+3.Define software
+4.User flow diagrams
+5. Armstrong number code (Java or Python),
+6.SQL queries on switch cases and basic queries.","1.Palindrome
+2.String reversal, 
+3.Check if number is prime or not, 
+4.Iterate through a dictionary and return the count of values which are repeated.
+5.Thorough explanation of Projects in your resume and Idea behind their implementation
+6.Find the missing line in the code written in pseudo code
+7.Prime Number"
+27,Infosys,1.Basic of DSA,"1.Explanation one dsa algorithm
+2.Explain one hard problem from leetcode 
+3.Pseudocode of bubble sort"
+28,A.P. Moller Maersk,"1.What is the difference between method overloading and operator overloading, with real-life examples?
+2.Questions on OOP concepts, including why and where we use them in the real world.
+3.Questions based on the projects you have mentioned, along with the internship projects.
+4.OOPS Completely with examples
+5.Abstract vs Interface
+6.Java questions
+7.DSA
+8.JS vs TypeScript
+9.fetch API, promises, async/await
+10.Node.js vs React
+11.Balanced Parentheses
+12.OOP pillars, polymorphism, inheritance (C++ vs Java)
+13.LRU algorithm
+14.Python vs Java/C++, interpreted vs compiled
+15.multithreading
+16.singleton pattern
+17.ArrayList vs List.
+18.About fetch method in javascript,about inner join.","1.Question on linked lists to add two numbers, with each digit of the number stored in a node, without using any other data structure.
+2.Palindrome
+3.Reverse a string
+4.Linear search
+5.Binary search
+6.Balanced Parentheses - (Python).
+7.Number of Islands (DFS in a matrix) - C++
+8.Polymorphism Code Implementation - {C++}
+9.Inheritance Differences (C++ vs Java)
+10.Bubble sort"
+29,QSC,1.Questions related to datastructure   2.  python theoritical concepts like garbage collection,1.kth largest number in an array of repeating numbers with some conditions of not to use extra space
+30,Epsilon,1.Questions related to DBMS and Software Engineering and Project Management,1.Moderate level of SQL and web development questions
+31,Cognizant,"1. Question based on python 
+ 2.Question based on SQL","1.Opps concepts 
+2. Collection data types in python
+ 3.Stack 
+ 4.Queue
+ 5.SQL basics"
+32,Phonepe,"Questions mainly on using of Linux and concepts of Computer Networks.
+1. Explain how search engine works. How it retrieves the data
+2. Explain the process of how email works.
+3. Difference between Authentication and Authorisation","1. Determine age (java)
+2. Classes and Object (Python)
+3. Sum of Digits
+4. Character Occurrence
+5. Calculate Discount
+6. Merging Two Arrays"
+33,Thermo Fisher Scentific,"1.How well do you rate yourself in Python. 
+2.What all python concepts have you worked with.
+3.project related challenges 
+4.project tech stack thorough enquiry",
+34,Imanage,"1.Some of the questions based on CNS, OOPS and CNS
+2.SDLC
+3.OSI LAYERS
+4.Java, mySQL
+5.Software Testing","1.Finding a particular word in the dictionary 
+2.Pattern based problems 
+3.Selenium,Java"
+35,Epicor,"1.Find the maximum number in an array
+2.Sql queries(basic):
+3.Find all the names starting with letter c
+4.Peform basic join operation",
+36,Surewave,"1)What is relational and non-relational database 
+2)What are transactions in dbms
+3)Tell me about ACID principals in dbms
+4) Similarly some more questions related to dbms
+5)OOPS concepts with real life examples
+6)Questions related to projects and its implementation","1)There are two strings given s1 and s2. Find if s2 is anagram of s1 or not
+2)Find if a number exists strictly more than the size/2 of an array
+3)Simple sql queries 
+4)There are n number of people and there are n number of bulbs, person 1 comes and toggle bulbs 1,2,3...n, then person 2 comes and toggle bulbs 2,4,6...n, then person 3 comes and toggle bulbs 3,6,9...n.
+Find which bulbs will be lit at the end."
+37,ANZ Bank,"1.Java, SQL, programming 
+2.In-depth about projects and technical skills mentioned in resume
+3.MongoDB Query (Aggregation pipeline)
+4.SQL Query (joins)
+5.Python code (anything)- selection sort, merge sort, Fibonacci, binary search, etc
+6.AWS related 
+7.JavaScript",Online coding round- 1 leetcode medium and 1 leetcode hard (DSA)
+38,QuantumStreet AI,,"1.Basics of python
+    -4 coding questions to be compiled in laptop that was given
+    -qns were create an dictionary out of the two lists given, palindrome, prime number, anagrams
+2.testing related questions basics"
+39,ANZ Bank,"MongoDB Query (Aggregation pipeline)
+SQL Query (joins)
+Python code - selection sort, merge sort, Fibonacci, binary search.
+Basic question from AWS 
+JavaScript","Python
+Online coding round- 1 leetcode medium and 1 leetcode hard (DSA)"
+40,Condenast,"questions about Software testing  ,MySql questions (Joins),SDLC ,write test cases for your projects, Agile method",write code for calculating permutations in JavaScript
+41,SophisTex,Basic questions from Dsa and CNS,"program for checking the given string is Palindrome or not,                                                                           program for reversing a string"
+42,MSG Global Solutions Drive,"Basic questions on BST
+Arrays question (Minimum difference between array)
+Inheritance question                                                                                                  projects tech stack, bfs & dfs question, stack, dsa concept.                                                                              Knowing basics of the skills mentioned in your resume is very important.","BST
+Second largest Number in an array
+Minimum difference between arrays                                                                                                                                             stack based
+bfs &dfs based
+two pointers based"
+43,7th Gear.Ai,Basic Questions. About internship experience and what was solved during that time             https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/,-
+44,EasySoft,"Basic Questions from project
+Data type questions in java
+SQL queries (we should write)
+SQL questions",SQL grouping function
+45,ANZ (Apprentice),"1) merge 2 datasets using pandas
+2)sorting one columns of a dataset in descending order 
+3)what are the programming languages that you know  
+4) questions were based on resume                                                                       5)Cooding question they asked palindrome ,reverse the string using recursion,in the string find no of palindrome                                                      6)  Libraries
+7)Functions
+8)Oops,Java and python related questions 
+9)Sql vs mongodb
+10)Sum of two numbers without plus operator","1) sorting a column of a dataset(python)
+2) joining 2 datasets                                                                                                                                                                  3) Palindrome 
+4)Reverse the string using recursion"
+46,7 eleven,"1.Write python code for the given problem
+2. Join concept questions in sql
+3. About Hadoop and big data  4. windows function in SQL  5.all different kinds of join in MySQL with syntax   6.situation based SQL questions solutions with codes  7. basic python theory  questions like difference between list and array  8.tuple and sets and medium situation based coding questions(python)",1.Fibonacci. 2.permutations.

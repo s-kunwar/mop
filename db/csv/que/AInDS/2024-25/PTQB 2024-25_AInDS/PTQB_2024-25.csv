@@ -1,0 +1,172 @@
+Column_0,Column_1,Column_2,Column_3,Column_4
+S.No,Name of the Company/Drive,Personal interaction,Technical questions,Programming questions
+1,ELLUCIAN,Questions based on Projects done,"About python,Java basically the languages mentioned in the resume",Prime factorisation in a given range
+2,ACCENTURE,"1) Questions based on Projects done, 2) Tell me about yourself, 3) What are your strengths and Weaknesses, 4) Where do you see yourself in 5 years, 5) Questions based on certifications, 6)Why did you take up this course, 7) Explain about AI and DS.",Based on Projects,1) Based on Basic Array and 2) String Operations.
+,ACCENTURE,"1. Tell me about yourself.
+ 2. Which is your least favourite subject and how do you manage to score in it?
+ 3. If your mentor asked for any changes in your project how do you deal with it?
+ 4. Do you face conflicts in your team? If yes then how do you handle it?
+ 5. How do you fix any bugs in your project?
+ 6. Have you ever faced any failure and how did you overcome that?
+ 7. Do you have any questions for me?",,
+,ACCENTURE,"1. Introduce yourself 
+ 2. Introduce your family background 
+ 3. Explain about your projects
+ 4. What are the new things you learned in past year.
+ 5. How you are planning on future to enhance your career.
+ 6. How you want work environment to be.
+ 7. Are you comfortable in working on any project or do you have any specifications.",,
+3,MathCo,1) Situation based questions and 2) questions related to data science.,1) ml algorithms and 2) models used,none
+4,MSG Global Solutions,introduce yourself.,"1) questions based on oops concept, 2) dsa, and 3) your project techstack",none
+,MSG Global Solutions,"Round 1 Online Assessment - Mcqs on aptitude,DBMS,OOPs,Pseudocodes Round 2 Technical Interview - 1) Resume based questions.2) What is synchronous and asynchronous in JS.3) What are callbacks.4) What are the different types of data in JS .",1) What is a LSTM Model?2) React Components?3) Class Based Components?4) States and Props?,"Logic for Merge Sort Only.Code for Bubble Sort,React Components using useState.Write the code for pivoting logic in Quick Sort.Reverse an array."
+5,outcomes,"1) Tell me about yourself, 2) Tell me about outcomes, 3) why do you wanna join outcomes, 4) why should we hire you","1) In depth OOPs based questions, 2) SQL based questions, 3) Reversal of string using python and 4) Reversal of string using java",DP questions
+6,Sagility Healthcare,,"Technical questions related to projects
+ 1) About hyper parameters
+ 2) LSTM
+ 3) Pytorch
+ 4) Regression
+ 5) Basic coding questions like prime numbers and sum of list.
+ 6) LLM
+ 7) Basic query in MySQL
+ 8) Gen AI and RAG",
+,Sagility Healthcare,,"1. Consider a wall is 30ft in height. A spider takes 1hr to go 3ft up and immediately slip down by 2ft . How much time it took for the spider to reach the top?
+ 2. What are the different types of Joins in SQL. Explain each of them.
+ 3. SQL queries on Left join and inner join.
+ 4. What is the difference between List and Set?
+ 5. What is Pandas in Python used for?
+ 6. What are the different libraries you have worked with in Python.
+ 7. What is NLP used for?
+ 8. How do you decide which machine learning model to apply based on the dataset being used?
+ 9. What is Multinomial Naive Baiyes?
+ 10. Project related questions.
+ 11. How do you determine the accuracy of the model?
+ 12. Other logical questions.",
+8,Oracle,,1) find the number of palindromic substring in a given string and 2) variable size sliding window question was there,1) OOP concepts 2) DBMS joints
+9,ANZ,1) interested field and subjects 2) project based 3) asked to visualize plots based on scenario 4) why you want to join our company 5) any questions for Company or Employer,1)SQL based 2) joint functions 3) scenario based questions wrt data visualization,
+8,Cognizant GenC,,1) SQL 2) data science 3) data frames 4) data manipulation commands,"1) basic python questions on list, tuple and set 2) sort list 3)"
+10,Maersk,"Q1-explain your project
+ Q2-why did you choose this project?
+ Q3-then they ask some conditional based questions regarding project
+ Q4-oops concept but not in depth
+ Q5-easy to medium level dsa question",,
+11,Maersk,"1)Tell me about yourself. 2)Questions invólving Projects and work done in internships - 3) Did you work on frontend or backend ? 4) What technologies did you use? 5) What were the group projects like and what did you aim to achieve?? 6) Draw the architecture of database schema for banking system. 7) Is there any way it could be more efficient and less co-dependent? 
+ Behavioural Qs - 1) What would you do in an environment where you and your teammate are not getting along ? , 2) How would you convince the Team Lead if the work done by you is better? , 3) Why do you want to join Maersk?","Technical Questions involving coding - 1) What is multithreading??,2) What are the states of a thread? , 3) Write a program to print even and odd nos. Using 2 threads(use join) , 4) Difference between binary tree and Binary search tree, 5) Write a program to identify BST, 6) Deep dive into linked list and reverse nodes using program, 7) Primary key and database efficiency questions","Questions invólving Projects and work done in internships - 1) Why did you choose SVM model for classification, 2) What other models can be used if more than 2 classes are to be defined in ML, 3) Draw the architecture for Banking database schema, 4) Explain K Means Clustering and the breakeven point in detail."
+12,IBM,"1) Related to resume's projects and internship
+2) 2 SQL queries: 1. rows from date 10th Oct,2024 to 20th Oct, 2024
+3) 2. Sum aggregate function use
+4) 2 coding question:1. Array and targeted sum is given and find that if any two numbers from the array is equal to targeted sum or not.
+5) 2. Singly linked list is given and find the even numbers from that.",,
+,capgemini,"Company name: Capegemini 
+ 1. Introduce yourself 
+ 2. Tell me about your most favourite project.
+ 3. Questions related to Hackathons I attended 
+ 4. How do you and your team manage during hackathons? 
+ 5. Questions on Exception Handling
+ 6. What are the types of sorting algorithms? Explain any two.
+ 7. Explain the working of Binary Search.
+ 8. What are your hobbies.
+ 9. Is there any difference in OOPs concepts when we which the language from Java to Python 
+ 10. Which programming languages are you comfortable with?11. How do you manage/react to criticism from others?",,
+,capgemini,"Capegemini interview questions:
+ 1. Tell me about yourself. 
+ 2. What is Supervised and Unsupervised Learning? 
+ 3. What is random forest? 
+ 4. Difference between set and dictionary. 
+ 5. How do you swap lowercase and uppercase in python? 
+ 6. Write a program to take a user input and reverse the string. 
+ 7. Write a sql query to find maximum salary of an employee. 
+ 8. Technical questions based on machine learning, python and sql. 
+ 9. Situation based question.
+ 10. Questions based on projects.",,
+,capgemini,1) about my projects and 2) sorting techniques 3) some questions from data science about data frames and 4) data manipulation and 5) basic python concepts,,
+,Surewaves,"1. Explain about specific project
+ 2. Tools used in project
+ 3. What is your goal 5 years from now, but in not technical field or role but as a person
+ 4. Project Questions
+ 5. What is the AI implementation in Product Support Engineer Role
+ 6. Why are you choosing this job
+ 7. Explain 3 years of college in 3 mins
+ 8. Suppose there is a delivery person and the customer, now there is a delay in delivery and the customer isn’t accepting the order. How would you sort the issue?",,
+,Capgemini,"1. Tell me about yourself
+ 2. Tell me about the projects
+ 3. What are tools that you are comfortable with
+ 4. Explain projects
+ 5. Project specific questions",,
+,Maersk,"1. Tell me about yourself
+ 2. Project Specific Questions
+ 3. How would you introduce a new technology into the team
+ 4. Suppose there is a method that is better than yours but the team leader is not accepting this method, how would you convince your team leader?
+ 5. Did College help you in your career?
+ 6. What are the changes in you before joining the college and after completing 3 years in college.
+ 7. How do you handle pressure",,
+,Relevance Lab,"1.Mostly project based questions
+ 2. On hobbies based 3. on the resume 
+ 4. Family related questions 
+ 5. Situation based questions 
+ 6. Brain storming questions 7. opinion based 8. Questions on domain preference",,
+,ANZ Bank,"HR questions 
+ 1. Introduce yourself
+ 2. Tell about your hobbies
+ 3. Extra-curricular activity participation
+ 4. Any event organised and took a lead
+ 5. Project and mini project title and its significance
+ 6. How you can contribute in the growth of organization
+ 7. Where do you want to be in next 5 years","1.based on the resume and how we explain it. And
+ 2.how the project works and 
+ 3.what we understood about project work. In terms of",
+,Ascendion,,"1. Oops concept
+ 2. Brief explanation on project
+ 3. Questions related to framework and tools used in project
+ 4. Basic programing questions
+ 5. DBMS theory questions
+ 6. SQL queries(easy-medium)
+ 7. Computer network basic terminologies
+ 8. Basic knowledge of front-end and back-end frameworks",
+,Ascendion,"HR Qeustions -1. Introduce yourself, 2. aspirations, 3. plan for higher studies, 4. role model.","1.Questions related to project techstack
+ 2. Preferred language for programming
+ 3. frontend technologies you have worked on
+ 4.what is reinforcement learning",
+,Ascendion,1. Introduction 2. coding languages 3. some basic coding language related questions 4. project discussion 5. technical question based on project,,
+,Zepto,"""1. Tell me about yourself
+2. What are the things you'll consider when you need to buy a product? 
+3. What e-commerce applications do you use? 
+4. What do you look into while buying a product like AC, smartphone or a refrigerator? 
+5. Why did you consider only python and not R? 
+6. Tell me about a project you've worked on that felt very complex to you? 
+7. Do you prefer offline or online products sellers?""
+",,
+,Scalar Academy,"1 Tell me about yourself.
+ 2 Why do you want to join Scaler?
+ 3 What are your strengths and weaknesses?
+ 4 How do you handle rejection or failure?
+ 5 How would you pitch Scaler to a potential student?
+ 6 Sell me this broken Umbrella",1. Tell about mini project 2. Major project in final year 3. Internship done at zepto so which technology you worked on,
+,Bottomline Technologies,,"theory and concept of OOPS, SQL,AWS,DBMS,CN and project",1. frequency of char in string 2. prime number 3. print sum in a range
+,Bottomline Technologies,,Project related questions,"1) OOPs in Java, 2) alternative sum coding question"
+,Esyasoft,,"1. Questions asked from the coding round conducted offline
+ 2. Give the latest transaction from the table without using limit
+ 3. Merge two departments and find the highest salaried role in the merged departments
+ 4. OOPS four pillars
+ 5. Explain encapsulation, Inheritation with a real life example
+ 6. Reverse a string
+ 7. Palindrome
+ 8. Dsa basic questions
+ 9. Print numbers ending with digit 9 from the range 0-100
+ DSA, SQL was given weightage",
+,7 eleven Global,"1) Tell me about yourself
+ 2) What are your strengths and weaknesses?
+ 3) Why do you want to work here?
+ 4) Tell me about your projects and internship experience","1) Provided code snippets and asked follow-up questions based on them
+ 2) Questions on frequency counting and usage of counters
+ 3) Basic SQL and transactional queries
+ 4) Technical questions related to personal projects and 5) internship experience",
+,ANZ Apprentiship,1)Is AI an advantage or not,2)What did you learn in past one month,3)What are the different data types in python
+,ANZ,"""1. Explain your project thoroughly and questions based on project
+ 2. Basic python coding questions like reverse the strings and prime number
+ 3. Questions based on software development life cycle 
+ 4. Questions based on sql basic to intermediate level "" 5. There is a group discussion and they asked ""is AI is boon or bane""","""1. What is difference between AI and machine learning 
+ 2. What is the difference between set and tuple 
+ 3. Explain merge sort and quick sort
+ 4. Mention the types of joins used in sql
+ 5. Query based on full join""","""1. Reverse the string (python)
+ 2. Prime number (python)"""

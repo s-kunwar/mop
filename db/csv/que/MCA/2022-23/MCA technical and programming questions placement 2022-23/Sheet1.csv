@@ -1,0 +1,100 @@
+Sno,Company name,Technical Questions,Programming questions,Personal interaction
+1,Chainalytics ,"1.Sql queries
+2.concepts of OOP","Selection sort ,bubble sort,""Palindrome
+Armstrong number
+Shift left number "",Prime or nor,palindrome ","Questions related to project
+Hobbies and interest
+About the company
+About JD,Practical real world ,and programming  skils"
+2,Capgemini,"1.What is Server?
+2.What is Database?
+3.What are variables?
+4.What are different datatypes?
+5.Does Void have return type?
+6.Java pillars
+7.abstraction in java
+8. What is stack and queue
+9. ""Difference between c and c++
+10..Sql questions ""
+11.Definitions of linked list,array,cloud,networking,pointers
+12.Explain the Types of topologies""
+13.Why cloud services are used by every company now a days 
+14. what is os
+15.what is software and hardware
+16.what is the diff bw c and cpp
+17.what is attenuation ?
+18.what is a router ?
+19.Who is the father of C?
+20.Why C language is called the mother of all languages?""
+21.Basic OOPS concepts
+22.Database management system basics questions
+23.Computer network basics
+24.C basics( loops, data types, linked list etc)
+25.Difference between c++ and Java
+26.Difference between SQL And MySQL/
+27. why is java platform independent
+28.what do u mean by public static void main()?
+29.neccessity of break statement
+30.Does Void have return type or not?","1.swap without using 3rd variable.
+2.Fibonacci series.
+3.""Pattern printing,
+4.Basic coding ""odd or even""",Your idea about Cloud computing role
+3,Ceptes Software Pvt Ltd,"1.what is Cloud
+2. what IaaS, PaaS and SaaS.",No Programming Questions,"Introduction, Hobbies, Describe your project, My previous work experience,
+""The personal interview was good. First, I introduced myself and then gave my resume.
+The interviewer asked
+1. Why did you apply for a sales job?
+2. If I give you any product, you can go and sell it confidently.
+3. What did you learn apart from the college syllabus?
+4. Do you prefer Python or Java?difference between them.
+5. Where will you use these programming languages?
+6. If I give you a problem, can you solve it and write the code for it?"""
+4,Deloitte,"C,C++,Java Basic Concepts,basic programs ,sql queries","1.Program to swap two variables without using third variable 
+2.Fibonacci
+3.BinaryToDecimal","1.Interview 1
+    1.Introduce Yourself 2.Project related Questions 3.Basic programs 4.Basic OOPS 5.DBMS 
+2.Interview 2
+     1.Introduce Yourself 2.Indepth Questions about project(around 25 min) 3.Mostly SQL queries & related questions  4.Behavioural questions 5.Managerial Questions 6.Data mining questions 7.HR questions"
+5,Ellucian ,"1.What is a cloud? List some different versions of the cloud
+2.Define the various cloud storage levels
+3.Mention the layers of PaaS architecture.
+4.List the primary features of cloud computing. 
+5.Who are the cloud consumers in a cloud ecosystem?
+6.What are the component layers found in Cloud architecture?
+7.Define on-demand functionality.
+8.Differentiate between scalability and elasticity.
+9.Define the direct customers in a cloud ecosystem
+10.Explain security management in terms of cloud computing
+11.Intermediate questions about OOPs, Multithreading, concurrency, and thread basics",Write a program to remove duplicates from an array in Java without using the Java Collection API.-- Theoretically explanation.,Cloud computing and intermediate questions about java
+6,Synchron,OnlineMCQ test on basic of Java Html CSS Python Unix and Linux,"Went to office .SQL queries on different statements.Level was dificult deep questions on SQL and to write some programs like string count, string reverse.",HR basic questions Self Introduction and willingness about location etc was asked.
+7,TestVagrant,1) first round was coding round ( one coding question ),"it started with intro, then interviewer asked me to explain the code of first round.oops concepts in depth and more coding questions and scenarios i got to solve.(2nd technical round)-  oops concepts in depth, more scenarios based question asked me to write pseudo code for it. scenarios on testing."," 3rd(HR) Normal formality questions like intro, joining month and family background."
+8,Tel-mic(Japan),Group Discussion: Self Introduction Why Japan? Why did you choose this role? Basic details about projects done.,"About Projects title description and shared screen, showed project and presented it. Questions related to projects like how many days it took to finish project? what was my role in the project? Technical questions related to project like questions on HTML CSS SQL amd basic of C#.",Hr basic questions Self Introduction and willingness about location etc was asked. Asked to show project and present again.
+9,BlueBinaries,1)online test round(they asked basic technical questions and psuedo codes),2nd round)Techincal round(they asked basic c questions and they asked m write few programs whatever i know followed by a scenario based program,"3rd round)Group discussion .they gave us a topic why compnaies laying off employes ,we need to speak few lines4 round) hr round(they asked basic questions like are you willing you to relocate etc"
+10,MSG Global Solutions,"1.	List the various kinds of user types in the SAP system. Define each one of them.
+2.	Define SAP GUI.
+3.	How can the SAP system be locked or unlocked?
+4.	Mention the SAP GUI types suitable for various kinds of users.
+5.	Differentiate between System Log, Developer Trace, and System Trace.
+6.	What is private mode?
+7.	What is OCM and how to apply OCM Patches?
+8.	What is SAP single stack system?
+9.	What are the tools to install JAVA patches?
+",no programming Questions,"Introduction yourself?
+Questions related to decision making.
+Behavior and attitude was analyzed by the interviewer.
+How SAP will work?
+"
+11,Ellucian ,"1.        Explain about projects 
+2.         What is Normalization,
+3. Explain any 3 queries 
+4. Explain ACID properties,
+5. What are the Aggregate functions used in sql
+6.        Explain Java OOP concepts with a real time example
+7.        Write a Program using recursion
+8. Explain public static void main?
+9. Describe about cloud models?
+10. What are the key features of cloud computing? 
+",Program using recursion,"what did you do in your college other than academics?
+Explain about his projects"
+12,Palle Technologies,1) online aptitude questions 2) What is Polymorphism? 3) What is super and static keyword in java?,"1. Write any program to illustrate polymorphism.
+2. Programmetically differentiaite overloading and overriding",2nd round 1)  Introduce yourself 2) Gave some aptitude questions to solve

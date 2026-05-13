@@ -1,0 +1,28 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Online Exam Pattern
+","Important Links for Placement Preparation
+","
+Drive Links for any material/Materials for Placement Drive Preparation"
+BE-ISE,Deeksha Kumar K,1CR22IS045,Oracle GSC,9.8lpa,,,,"1) The first round was basically technical- whatever u hv 100% confidence that only u put - i kept react js too so he asked me to write some function in react , and he asked to find the duplicate in two arrays code , and a length of linked list code. Then he asked me to draw structure of my project basically system design and he asked me what’s my favourite app and asked me to write that system design also and inner , left, outer , right, self , cross joins i had to draw table 
+ 
+ 
+ 2) this round was difficult for me there were two managers who were taking my interview - they asked me many technical terms that has to do with cloud my pillar name like vcn , subnets, version control , etc , and scenario based question like i had a payment gateway in one of my project so he asked me what if user pays money and the system crashes all he can see is blank screen , how would u handle that and one medium level sql query and ond question was in a bus there would be three seaters one side and two seaters another side , if two users come for booking , u shd allocate the seats among 3 seaters one or if its not available, u shd asign nearest possible seats 
+ 
+ 3) third round was about real world problems , first he asked me to introduce anol and how was last two interviews- tell him “i learnt a lot from each interview- and the things i couldn’t able to answer i searched it online and it’s a new information and i learnt a lot” and he asked me in detail about one project and one real world problem like “forget how elevators are nowadays, i want to optimize user experience so that no one had to wait for the lift and also shd reduce time consumption “ - whatever i answered might be wrong","Programming in html and manipulation through css and js , arrays (detect the duplicate element from two arrays),linked list questions, to draw tables on all types of joins.","Arrays , linked list , html , css, javascript",,Striver DSA playlist,https://drive.google.com/open?id=1VDAeuG4-ocq_2t0L8AeW4opq-M717Cy-
+BE-ISE,Aswin J A,1CR22IS025,Oracle GSC,9.83,"MCQ's from basic aptitude, Pseudocode, Core subjects",Nil,Nil,"There were a total of three rounds, all of which were technical. Each round focused deeply on the projects mentioned in my resume, with detailed questions on implementation, technologies used, challenges faced, and outcomes. No separate HR or general questions were asked — the discussion remained entirely project-based throughout.",Write sql queries (Questions were related to the project itself),Solve two sum question on paper,,,
+BE-ISE,Sujay HK,1CR22IS161,Oracle,9.8 LPA,Questions asked on blood relations and coding -decoding,,,"Why oracle?
+ Where do you see yourself in 3 years?
+ Behavioural questions based on a situation.","Explain in detail about the projects mentioned in resume.
+ Write SQL queries. Using joins to combine multiple tables.
+ What is docker?
+ Explain the flow of process when a user submits their details on a signup form.
+ What are Rest API's?
+ What are Web sockets?",Questions on Strings. Any programming language,2 coding questions. Technical MCQ's and MCQ's on aptitude and reasoning,,
+AIML*,M Shailini,1CR22CI028,Oracle GSC,9.82 LPA,Technical assessment consisted of 12 aptitude questions,,,"In the HR round , the interviewer asked basic questions about myself ,my hobbies , interests , family , favorite subjects and also about projects","Oops concepts, sql queries ,dsa pseudocode","Parenthesis checker and array based questions , Python","4 parts of technical assessment , 2 coding questions ,1 technical section and 1 aptitude section",,
+BE-CSE,Noor Sariya Iffatg,1CR22CI035,Oracle,982000,The difficulty was medium,,,"Project, technical questions, aptitude","Related to the programming language , DSA, SQL","Python, SQL",,,
+AIML*,Madhusudhan Chandar,1CR22CI029,Oracle GSC,9.82,The difficulty was medium,,,"Asked about projects, internships and technical questions",Easy to medium level programming question,Language of your choice,"2 programming questions, mcqs covering programming and verbal ability",,
+BE-CSE,Prisha Deepak,1CR22CS136,Oracle,982000,Basic aptitude questions,-,-,"Technical round: Questions on core subjects like OS, project related questions,sql questions 
+ And basic DSA questions 
+ Managerial round : Scenario based questions, project related questions 
+ Hr round : strengths, weaknesses, challenges, and about the company",All core subject related questions,"Any language:1. load spike detector question
+ 2.Roll the string problem",2 coding questions.. 38 MCQs,Geeks for geeks important interview questions,
+AIML*,Shreya Bhat,1CR22CI050,Oracle CSS GSC,8.5-9.8 LPA,"Assessment - MCQs on Attitude, OS Concepts, DSA, LLMs, 2 coding qs",,,What I know about the company,"Questions on projects and tech stacks used in projects, hackathon projects, cloud, database, python basics","Palindrome code in any language, to find the maximum salary in each department in MySQL",MCQs and Coding,,

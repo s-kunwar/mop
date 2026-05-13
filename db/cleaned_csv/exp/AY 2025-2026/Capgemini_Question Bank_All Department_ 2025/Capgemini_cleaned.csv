@@ -1,0 +1,59 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview/HR Round experience.,Provide the list of Technical/Domain based questions asked during the interview,Provide the list of programming/Domain based (MBA) questions,"Online Exam Pattern
+","Important Links for Placement Preparation
+","Provide questions on Quantitative Aptitude, Reasoning, and Verbal Ability",Provide the Prominent Section during online test
+MCA,Uday P,1CR24MC106,Capgemini,4.25,,,"1.Introduce yourself 
+ 2.explain your project 
+ 3.what are the challenges faced during project
+ 4.why you joined MCA
+ 5.technical questions(OOPS, collection frameworks, basics) of java
+ 6.Are you willing to relocate","Java(basics, oops, collection frameworks, garbage collection)",,,,,"Puzzle Based Questions, Coding MCQs, General Coding"
+MCA,Ruchita Rajesh Joshi,1CR24MC087,Capgemini,4.25LPA,No,No,"Behavioural questions like Strengths, weakness, why should we hire you, About company","Basics of java such as difference between jdk, jre, jvm, garbage collection, oops concepts,static keyword",Java,,,No,"Coding MCQs, General Coding"
+MCA,ABHILASH H K,1CR24MC003,Capgemini,4.25,Nil,Nil,"1.tell me about yourself
+ 2.resume project explanation in detail with tech stack used
+ 3.scenario based questions 
+ 4.any other achievements or recognition which are not mentioned in resume
+ 5.any questions at last",Nil,Java coding basics,,,General topics which are basics,"Quantative Aptitude, Logical Reasoning, Puzzle Based Questions, Coding MCQs, General Coding"
+MCA,H R SHIVANI RAMESH,1CR24MC038,Capgemini,4Lpa,,,"Tell me about yourself
+ Explain any 1 major project
+ Challenges faced during the project 
+ Any questions","What are joins explain its types.
+ Different type of Sql(DDL,DCL,DML,TCL)
+ What is method overloading and overriding give the real world example","Array based question
+ Java",,,No aptitude round.Instead Gaming was there,"Puzzle Based Questions, Coding MCQs, General Coding"
+MCA,Manohari,1CR24MC059,Capgemini,4.25,Not conducted.,Not conducted,"The interview started with “Tell me about yourself.”
+ They asked a basic coding question to swap two numbers without using a third variable.
+ OOPs questions included constructor overloading ,abstraction, encapsulation, and the difference between == and .equals().
+ Overall, the interview focused on basics, communication skills, and clarity of concepts.","Questions were asked on OOPs concepts like constructor overloading, abstraction, and encapsulation, coding/pseudocode including swap numbers, binary tree traversal, infix-postfix conversion, and SQL queries covering select, join, and group by operations.",JAVA,,,Not conducted,"Puzzle Based Questions, Coding MCQs, General Coding"
+MCA,Bhavya Sunil P V,1CR24MC021,Capgemini,"4,00,000 per Annum",,,"The technical interview focused on testing my fundamental knowledge in programming and databases. The interviewer asked basic questions related to Java, SQL, HTML, and C. I was also asked to explain my project and some basic coding questions too. The interviewer was supportive and evaluated my problem-solving ability, clarity of explanation and my confidence.
+ 
+ Questions asked:
+ 
+ 1.Introduce yourself 
+ 2 Explain project 
+ 3.Core Java concepts 
+ 4.Basic SQL concepts 
+ 5.Basics of HTML
+ 6.Program to reverse a string and explain 
+ 7.SQL query to find all students name starting with A and explain 
+ 8.SQL query to find employees having salary greater than 10000 and explain 
+ 9.Questions based project","Tell me about yourself.
+ Tell about project
+ What is java and features 
+ Encapsulation 
+ Inheritance 
+ Write reverse string program
+ Write two sql queries 
+ Joins
+ What all comes in DDL
+ Html tags
+ JavaScript 
+ Difference btw java and C
+ PHP
+ JRE,JDK",,"Communication test,MCQ test, technical interview",,,"Puzzle Based Questions, Coding MCQs, General Coding"
+MCA,Anagha G Rao,1CR24MC013,Capgemini,425000,,,,"Difference between java and python,oops in java, collections,use of volatile keyword, Multithreading concepts, Method overloading and overriding, Strings,what is the use of string pool","Swap two numbers without using third variable in java,
+ 
+ Program to print array elements",,,,"Logical Reasoning, General Coding"
+BE-ECE,KIRAN N AKKUR,1CR22EC122,CAPGEMINI,4lpa,Na,Na,Na,"Oops, df bw list tupple","C,java,c++","Communication, technical",,Na,"Quantative Aptitude, Logical Reasoning, Puzzle Based Questions, Coding MCQs, General Coding"
+BE-ECE,Ritesh Raju Hanchate,1CR22EC188,Capgemini,4.25,Oops and sql,No,Oops and sql and coding,Coding,C,Communication,No,Pseudo code,Coding MCQs
+BE-ECE,J Mexlin Jeni,1CR22EC095,Capgemini,4lpa,Nil,Nil,"I was asked questions on my projects and in python(characteristics, immutable datatypes and mutable datatypes,classes and objects) and in ece core knowledge (modulation, amplification, communication protocols, microcontrollers and microprocessor)",Nil,C and java can be used and not python,,,Nil,"Logical Reasoning, Puzzle Based Questions, Coding MCQs, General Coding"
+BE-ECE,Keerthana S,1CR22EC117,Capgemini,4.25,,,"1. Introduce yourself 2. Tell me about your projects in detail 3. Ece basics questions like what is microcontroller, semiconductor, xor gate, types of microcontroller, transistor",Computer network and Os basics,"Languages can be used are c, java, c++","First round is technical MCQ, second round is coding, third round is gaming round and last is technical interview",,,"Puzzle Based Questions, Coding MCQs, General Coding"

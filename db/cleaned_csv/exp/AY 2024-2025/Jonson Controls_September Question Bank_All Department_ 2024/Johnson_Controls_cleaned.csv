@@ -1,0 +1,160 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.
+BE-ECE,Likith M S,1CR21EC106,Johnson Controls,5 LPA,"The test was easy, all based on electronics (basic) and electricals and some aptitude questions.",There was no JAM session,There was no GD,"HR round was easy to pass, the only struggle lies to reach HR round, after passing 2 technical Interviews you will reach HR,
+Questions asked are:
+1.whats your nature.?
+2.what do u do other than studies.?
+3.what do you do if u have leadership responsibility,?
+4.why did u choose CMRIT.?
+5.Why do u think Johnson Control is right place for you to work.?","There were 2 technical rounds L1,L2
+L1 Round:
+They will test your communication skills and project based outcomes
+Questions:
+Introduce about yourself and talk about your family and where do you live?
+Tell me something about your projects?
+What is a relay?
+What is a diode?
+What is the contact switch ?",No programming questions asked
+BE-ECE,Prajwal C M,1CR21EC147,Johnson Controls,5 LPA,Aptitude level was easy there were around 75 questions and most of them were based on electronics and electricals basic questions,No JAM session,No GD,"1st Technical Interview round was based on core electronics knowledge 
+2nd Technical interview was totally based on electronics real time application and scenario based questions
+HR round was personal interaction 
+1 Tell me about yourself 
+2 Family Background 
+3 What is your discomfort zone
+4 What is your nature","What is resistance, sensors,transducers,encoders and about projects Relays",-
+BE-ECE,GANGAVARAM KEERTHANA,1CR21EC078,Johnson controls,5 LPA,"Online test which covered the subject background questions, aptitude, reasoning questions",,,"There are 2 technical round namely L1 and L2 and a HR interview.
+In L1- It went around 20 mins staring from introduction to technical questions on the subject background specifically 
+1) what is a relay
+2) difference between microprocessor and microcontroller
+3) difference between MOSFET and bjt 
+4)which type of current flows in our home and what type
+5)what is rectifier?types?
+6)Types of transmitter
+7) explain a home appliances in terms of electronics 
+8) difference between electrical and electronics 
+9) explain the process of ac in terms of electronics
+10) Explain mobile application complete working 
+11) questions on projects
+12)Family background
+13)hobbies
+14)What is ohm's law
+15)Any questions 
+
+In L2 -It went around 45 mins starting from introduction (Panel interview-2/3 persons)
+1) Favourite subject?Reason
+2)What do you about the company 
+3) what's your opinion on it industry 
+4)which is best Service or It 
+5)what are universal gates
+6) what is multiplexing
+7) what are types of multiplexing
+8)Real time example of multiplexing 
+9)what are OFCs
+10) Principle behind OFC
+11)Why copper is not used in ofc 
+12)what is difference between copper cables and fibre cables
+13)What is OSI model
+14)what are layers of OSI model
+15)which layer is responsible for networking 
+16)design a Nand gate using nor gates
+17)truth tables of nand and nor gates
+18)About family background and occupation 
+19)Any questions 
+
+
+In the HR  interview 
+1) introduction 
+2)Hobbies
+3) Comfort zone
+4) Discomfort zone
+5)Real time example of discomfort zone
+6)Other languages known?
+7)What excited you about the company
+8)Hobbies
+9) questions on hobbies 
+10) Family background 
+11)Any questions?","There are 2 technical round namely L1 and L2 and a HR interview.
+In L1- It went around 20 mins staring from introduction to technical questions on the subject background specifically 
+1) what is a relay
+2) difference between microprocessor and microcontroller
+3) difference between MOSFET and bjt 
+4)which type of current flows in our home and what type
+5)what is rectifier?types?
+6)Types of transmitter
+7) explain a home appliances in terms of electronics 
+8) difference between electrical and electronics 
+9) explain the process of ac in terms of electronics
+10) Explain mobile application complete working 
+11) questions on projects
+12)Family background
+13)hobbies
+14)What is ohm's law
+15)Any questions 
+
+In L2 -It went around 45 mins starting from introduction (Panel interview-2/3 persons)
+1) Favourite subject?Reason
+2)What do you about the company 
+3) what's your opinion on it industry 
+4)which is best Service or It 
+5)what are universal gates
+6) what is multiplexing
+7) what are types of multiplexing
+8)Real time example of multiplexing 
+9)what are OFCs
+10) Principle behind OFC
+11)Why copper is not used in ofc 
+12)what is difference between copper cables and fibre cables
+13)What is OSI model
+14)what are layers of OSI model
+15)which layer is responsible for networking 
+16)design a Nand gate using nor gates
+17)truth tables of nand and nor gates
+18)About family background and occupation 
+19)Any questions 
+
+
+In the HR  interview 
+1) introduction 
+2)Hobbies
+3) Comfort zone
+4) Discomfort zone
+5)Real time example of discomfort zone
+6)Other languages known?
+7)What excited you about the company
+8)Hobbies
+9) questions on hobbies 
+10) Family background 
+11)Any questions?",
+BE-ECE,Swaroop M Chikkorde,1CR21EC258,Johnson Controls,5,"Aptitude cum technical round, was easy but need to complete as soon as possible",,,"HR was really kind .
+Some of the basic HR question to be prepared are-
+Complete knowledge about urself , parents , family , college etc 
+What if I reject ? How would u feel ? 
+Why are u different from others that I shlould hire you ? 
+What extra qualities do you have than the others waiting outside ? 
+What I u fail as a leader ? What will u do ? 
+If in a team of 10 members and out the 10, 9 of them are not ready to cooperate with you then what would you do?
+Learn about the currents affairs like I was asked about olympics and para olympic 
+Many more…….","L1 interview——
+All questions based on the project ( to study each and every component of the project and it’s real time application) 
+What is thermistor ? 
+Name 15 RLC components ? 
+What are your strengths and weaknesses? 
+How does an Opamp work ?  
+
+L2 interview——
+What is ur favourite subject?? And they will go deeeep into the subject? ( choose electronic related subjects for core company and vice Versa for software company ) be thorough about the subject .
+What is relay ? 
+Real time application of relay ? 
+What is micro processor and real time application? 
+What is micro processor and real time application?
+Explain one micro controller in detail ? 
+And all questions based on resume 
+What are logic gates ? 
+Draw all logic gates and mention any 2 truth table ? 
+What is k- map y do we use that ? 
+And many more",Core company hence no coding question
+BE-MECH,Abhinou Ramesh,1CR21ME001,Johnson Control,5,Solvable questions in the given time frame,,,Generic questions based on family and my intentions towards higher studies were asked along with a situation based question on my domain.,"Based on fluid mechanics, thermodynamics, heat transfer",1 question based on concept of stack
+"Important Links for Placement Preparation: 
+
+Refer basics of electronics and electricals.
+Subject background Provided from placement department (HR)
+YouTube all videos are there for preparation",,,,,,,,,,

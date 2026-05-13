@@ -1,0 +1,47 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.
+BE-ISE,Goutham G S Nair,1CR21IS056,Koch,7.5 LPA,Basic aptitude questions on quants and logical reasoning. 2 basic coding questions on strings.,"Questions from resume, scenario based questions on working in a team, weaknesses, strengths etc.",Basic questions on networking such as how to find IP and it's configurations. Few questions on projects.,"Prepend 0 to a sum in order to make it a particular length. 
+
+Print alternate digits in a number excluding the leading 0s
+
+(Any language)"
+BE-CSE,Golamaru Harsha Vardhan Reddy,1CR21CS068,Koch,7.5 LPA,"Aptitude test maximum covers major topics like:
+1. Blood Relationship 
+2. Time, Speed distance 
+3. Profit and Loss
+4. Time taken problems 
+5. Graph based questions 
+6. Shapes
+etc...","Questions asked during my Personal/HR Interview are:
+1. What is the Aim of selecting a particular project and what are the functionalities.
+2. How can I tackle a Deadline situation.
+3. What is your passion and why?
+4. Scenario based questions.
+5. How can I handle a team as a Team Leader.
+6. Tell me about yourself. 
+etc....","Technical related questions asked:
+1. About project and the technology used in the project.
+2. Why the particular tech stack is used?",
+BE-CSE,Mohammad Afzal,1CR21CS103,Koch,7.5 lpa,"OA was conducted on Hirepro platform, total of 32 questions, among which 2 were coding questions which were to be solved in 40 minutes. Remainnig 30 questions were divided in two parts i.e. aptitude and basic technical questions with time restrictions on each section.","One round of around 40 minutes, there were two panel members, it was mostly a discussion about the projects mentioned in the resume, the internships done followed by behavioral, HR and personal questions.",Tech stacks used in the project.,
+BE-ISE,Gaurav Pandey,1CR21IS054,Koch,7.5,"MCQ on aptitude, sql and java questions, basic os,DBMS, cloud questions, 2 coding questions (easy level)","1) How will you buy a car?
+2) How did you implement koch's 8 principles throughout your college life?
+3) Questions on my projects 
+4) Introduce yourself 
+5) How do resolve a conflict in your team?
+6) Questions on extra curriculars and hobbies",,Na
+BE-CSE,Mithun Baabu A M,1CR21CS102,KOCH,7.5,"Basic aptitude questions were asked and there were 2 coding questions, which were simple as well.",All managerial questions were asked. A lot of emphasis was given to the 8 principles of KOCH. Questions were mostly based on projects. Questions were asked only from the resume.,Very few technical questions were asked. Most of them were based on projects mentioned in Resume. DBMS related questions were asked.,"1) Print alternate characters from the given string with a space between them.
+2) Add the two inputs and add leading zeroes to make the output the specified size."
+BE-ISE,AKSHAT NIGAM,1CR21IS014,KOCH,7.5,"Online assessment was in two parts,
+In first part there were mcq questions based on dbms, aptitude, computer network, some questions on cloud, oops. (level of questions was medium).
+In second part there was coding round consist of two questions (questions was of easy level on topics like array and strings).","HR Round,
+There were Scenario based questions mostly on how will handle things in a given situation.
+They wanted to know how well you can handle things when you work as a team for any project. They were trying to understand one's situational awareness here. This round went for around 40 minutes and was easy to medium level.",Questions were mostly related to projects.,"To find age of two given person on the basis of given data.
+To find a number with specific number of preceding zero based on given conditions."
+"Important Links for Placement Preparation:
+
+1. Java - https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop
+
+2. JavaScript - https://www.youtube.com/playlist?list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW
+
+3. The Complete 2024 Web Development Bootcamp - https://www.udemy.com/course/the-complete-web-development-bootcamp/
+
+4. React - https://v1.scrimba.com/learn/learnreact",,,,,,,,

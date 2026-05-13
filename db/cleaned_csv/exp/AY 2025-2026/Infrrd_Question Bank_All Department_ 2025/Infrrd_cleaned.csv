@@ -1,0 +1,34 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Online Exam Pattern
+","Important Links for Placement Preparation
+"
+BE-ISE,G.L.K. Abhiram Reddy,1CR22IS049,Infrrd,6-9 LPA,"The first qualifying test held at college was based on OOP concept, situation based api design question, two DSA questions : 1) Letter Combinations of a Phone Number, 2) Maximum sum of Non-adjacent nodes, SQL Questions",,"At Company Rounds: 
+ 
+ 1st Round : Written Test
+ 
+ Given two DSA questions, 1. Decode String (Leetcode 394), 2. Combination Sum (Leetcode 39)
+ These are medium level DSA, topics were Stack, Recursion, Backtracking
+ 
+ 2nd Round : Technical Interview 1
+ 
+ Q1) Why is Python considered Dynamically typed and Strongly Typed
+ Q2) Pillars of OOPs with written examples and in-depth analysis by cross questions concepts
+ Q3) Decorators in Python
+ Q4) Abstract classes and Interfaces in Python
+ Q5) Binary Search Algorithm discussion
+ Q6) List Comphrehension
+ 
+ 3rd Round : Technical Interview 2
+ 
+ Q1) Maximal Rectangle (Leetcode 85, Hard) 
+ Q2) Memory Management in Python
+ Q3) Contiguous Array (Leetcode 525, Medium) 
+ Q4) HTTP Method question with example of API Exposure, If there is an endpoint for DEL method at backend and at the front end you go the end point and call GET method on the same endpoint what will happen?
+ Q5) Python difference between pass and return
+ Q6) SQL Query given table. Student, Attendance, CGPA table. Find the student name who is debarred due to <40% attendance, but with high CGPA.
+ Q7) Any of the best project, technical contribution/implementation
+ Q8) Any strong domain in python one is confident at","Decode String (Leetcode 394),Combination Sum (Leetcode 39),Maximal Rectangle (Leetcode 85, Hard),Contiguous Array (Leetcode 525, Medium)","SQL question, DBMS Concept Question, Development of API simple question, OOP class and object quetsion, Two DSA Questions","https://leetcode.com/problems/decode-string
+ https://leetcode.com/problems/combination-sum
+ https://leetcode.com/problems/maximal-rectangle
+ https://leetcode.com/problems/contiguous-array"
+BE-ISE,Siddharth Bharadwaj G,1CR22IS150,Infrrd,6,"Communication checked on call, they will give u a topic and we hav to speak about it for a short time","Leetcode 394 (Decode String)
+ Leetcode 39 (combination sum)",,"Python or java (u can choose), hav already given the questions",,

@@ -1,0 +1,46 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview/HR Round experience.,Provide the list of Technical/Domain based questions asked during the interview,Provide the list of programming/Domain based (MBA) questions,"Online Exam Pattern
+","Provide questions on Quantitative Aptitude, Reasoning, and Verbal Ability",Provide the Prominent Section during online test
+MCA,H R SHIVANI RAMESH,1CR24MC038,Accenture,6.2Lpa,,Na,"1. Tell me about yourself
+2. Explain any one project.
+3. Challenges faced during the project and how did you resolve it.
+4. Have you faced any issue with your teammate if so how did you manage?
+5. You are currently working in Accenture what if other company offers a higher package than your current one?
+6. What will you do if task assigned to you takes a long time?
+7. Any questions",The interviewer didn't ask any technical questions,"Array based question
+ Java",1.Behavioral 2.Cognitive(Gaming)3.Technical round 4.Communication round 5.Interview,"1st round is Communication round where our verbal ability is checked.
+ Gaming round was there instead of Aptitude","Puzzle Based Questions, Coding MCQs"
+MCA,Nanjunda H S,1CR24MC069,Accenture,4.5,.,.,"1. Tell about yourself, 
+2. explain projects which Mentioned in resume , 
+3. basic hr questions","Joins in sql, array",.,,.,"Puzzle Based Questions, Coding MCQs, General Coding"
+BE-ECE,Raja Pratheek Nayaka,1CR22EC179,Accenture,4.5 lpa,,,"1.Tell me abt yourself
+ 2.can you explain your project (
+ 3.if u had to redo ur whole project what would u change
+ 4.asked me about my leadership skills when i was in ieee club
+ 5.difference btw machine learning n nlp
+ 6. sql basics
+ 7. how did you resolve issues when working as a team
+ 8. do you have any questions for me","CS-SQL, Data storage",,,"Round 1: Psychometric Test This was a standard personality/behavioral test. 
+ 
+ Round 2: Gamified Assessment After clearing Round 1, it immediately moved to a series of brain games:
+ 
+ A memory-based game.
+ 
+ A quick-fire math game.
+ 
+ A grid puzzle where you had to find the path in the least number of steps.
+ 
+ Round 3: Technical Assessment 
+ 
+ What was gone: Quantitative Aptitude, LR, and English were completely absent.
+ 
+ What was there (IN-DEPTH): Pseudo Code, MS Office, Cloud, Computer Networks, and Cybersecurity were asked in great detail with many scenario-based questions.
+ 
+ The Curveballs: They also asked us on Python OOPs, Java OOPs, and JavaScript-based frontend questions.
+ 
+ Round 4: The Coding Round 
+ 
+ DSA: A simple array-based question.
+ 
+ SQL: A query question involving JOINs on 2-3 tables/schemas.
+ 
+ JavaScript Frontend: A task like creating some colored boxes or a basic UI element.","Puzzle Based Questions, Coding MCQs, General Coding"

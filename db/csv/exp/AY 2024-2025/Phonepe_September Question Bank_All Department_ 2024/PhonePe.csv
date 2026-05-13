@@ -1,0 +1,127 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.
+BE-CSE,D Dheeraj,1CR21CS064,PhonePe,16LPA + 650000 esops,"The first round was an online test which had questions related to python programming, infosec, computer networks, etc",,,"There were 2 rounds of interviews, both were technical. Most of the questions asked were from computer networks, linux and programming. The 2nd interview was more focussed on deployment of projects etc (might differ from others)
+The interview rounds were comparatively hard and needs hands-on knowledge","1. 3 way handshake
+2. Docker: (what is docker file, docker image, docker container)
+3. Nginx
+4. Types of encryption
+5. Difference between encryption and hash and where are they used","Java question and around 5 python programming questions where asked
+Java program was to find the age given the date using localdate and period
+
+Python questions were easy if you have a good hold over it.
+It included questions like finding the frequency of each character and printing it like ""e2r3"" this meaning the e was repeated twice and r was repeated thrice, the other program in python which I remember them asking was giving discount based on the number of books purchased"
+BE-ECE,Pratham Sinha ,1CR21ECE153,PhonePe,16LPA,There was no aptitude round,There was no JAM session ,There was no GD,"The technical interview was good and very interesting and random off topic questions were asked, compared to the JD provided ","Asked about Python scripting then ECE related questions, after I mentioned I am from ece ","We were asked Java, python OOP concepts "
+BE-CSE,Aayanam Anirudh,1CR21CS002,PhonePe,16LPA + 6.5L ESOPS,,,,,"Linux related questions (directory and little concepts)
+Firewall related theory
+Javascript async await
+Asked about IDS/IPS
+How to improve security of network
+Authorisation vs authentication
+SSD vs HDD
+What is UEFI
+Project + resume related questions
+Bash scripts basics
+What is GRUB loader?
+",Python and JS. Nothing specific to programming languages
+BE-ECE,Suhani Pargal,1CR21EC216,PhonePe,16lpa,"No aptitude questions, the coding questions were easy and covered arrays and strings only, 1 question was oops based. The mcq’s mainly covered topics like linux basics, shell scripting, few python code snippets and a lot of networking questions.",No JAM,No GD,"There was no HR round instead there were two technical interviews and i was asked few HR questions in the first round itself
+- They asked me to tell them about myself
+- They asked that why do i want to work in IT even though i am from ece
+","There were 2 technical interviews. 
+First interview: 
+-Project based questions, i used authentication and sockets in my project so a lot of questions were asked on that.
+-they asked if i knew linux and since i only had a basic idea about it they skipped asking linux questions
+- For about 30 minutes I was only asked networking questions like OSI model, difference between TCP and UDP, HTTP, what is the type of encryption you have used in your project, Explain all the protocols you know eg FTP, POP, HTTP, IP etc, DHCP, NAT, DNS, why is DNS used etc.
+- I was also asked to explain how cookies work
+Second interview: 
+-The interviewer had opened my github and was asking about all the projects in my github.
+-He told me to explain my project and even he asked me about encryption.
+- I had used docker in my project so questions were asked on that.
+-Since i used django channels for using Sockets, he asked what was the use of redis, what is the schema of redis and how am i using it.
+- Another one of my projects used google maps api, so i was asked what is latitude and longitude, what determines time zone, explain GPS, min number of satellites required for gps to work etc
+-Then since my github had a lot of python projects and codes, he asked me why do i use anaconda, few questions on jupyter were asked. 
+- As i used Django for my projects he asked few questions on django, like what port dies django use, is the protocol used http or https, what is the difference between http and https.","No programming questions were asked in the technical interviews as such
+Programming questions asked in OA were:
+- Finding the age from given dob(strictly in java)
+-one Oops question(strictly in python)
+- finding the sum of digits(any language)
+-merging two sorted arrays(any language)
+-few condition were given as in when to apply how much discount and then we had to find out the final discounted price(any language). 
+- One question based on hashmap from a string we had to find the number of occurances of a letter and append it in another string with the number of occurrences.
+"
+BE-CSE,Prabhu M,1CR21CS127,Phonepe,16,,,,,"round 1:
+about project on resume
+what is chmod and chown
+about firewall in linux
+what is NAT
+what is a subnet and related questions
+where are system logs stored in linux
+router and switch
+http vs https
+how to secure a box
+how is ssh secur
+default ports of http,https,ssh
+lateral cyber attack
+
+round 2:
+about project on resume
+experience in linux
+what is WSL
+what kernel does wsl use
+how is wsl implemented in windows
+what is hyper-v
+what is a virtual system
+how to create a virtual system
+questions about curl,grep and basic shell scripting
+what is repeater in burpsuite
+how to replicate repeater feature in command line
+how do u stay updated with infosec
+","multithreading and multiprocessing in python
+what are decorators in python
+opinion on rust
+perl related questions may be asked if you know about it"
+BE-CSE,Yogesh Bhatta,1CR21CS217,Phonepe,16,,,,,"Questions from resume, projects and tech stacks mentioned
+
+Cryptography and its types and how does asymmetric cryptography works in detail
+
+Inter process communication  and how is it possible in between files in python
+
+Questions on docker image , docker container and docker compose and docker file
+
+Questions on basics of linux and linux commands such as echo, cat,etc
+
+Bash scripting commands to make a post request using curl
+
+RESTful and RESTless api
+
+Is http stateless or stateful and how
+If stateless, how does it maintain state of a user
+
+Why is accept cookies prompt shown in websites nowadays.
+
+What is jwt and how is it better the older ways of tokens and authentication.
+How is jwt tamper proof
+What is jwt token secret is leaked
+
+How to ensure that confidential credentials are not pushed on to github.
+",
+BE-CSE,Akarsh Kumar,1CR21CS019,PhonePe,16,,,,Introduce yourself and talk about your projects. Later questions were asked with whatever mentioned in resume,"Questions on Linux and Computer Networks mainly. Scripting languages as well
+Explain TCP/IP and SSL protocols
+How will you verify a website you are visiting is authentic and not fake. 
+Questions on bash
+How would you do user authorization and authentication in Django","Merge sorted array
+Count frequency of letters
+Programming question on OOPs concept
+Convert a given date into years by finding difference from a given date (Easy, 3-lines code using Java library, question was restricted to solve using java only)"
+BE-ISE,Sudiksha Biradar,1CR21IS161,PhonePe,16,,,,Tell me about yourself,"Questions mainly on using of Linux and concepts of Computer Networks.
+1. Explain how search engine works. How it retrieves the data
+2. Explain the process of how email works.
+3. Difference between Authentication and Authorisation","1. Determine age (java)
+2. Classes and Object (Python)
+3. Sum of Digits
+4. Character Occurrence
+5. Calculate Discount
+6. Merging Two Arrays"
+"Important Links for Placement Preparation:
+
+https://www.infosectrain.com/blog/top-information-security-interview-questions/
+
+",,,,,,,,,,

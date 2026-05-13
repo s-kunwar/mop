@@ -1,0 +1,47 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Important Links for Placement Preparation
+",Online Exam Pattern
+BE-CSE,Ajay Kumar Chaubey ,1CR21CS017,Bottomline Solutions ,11 Lpa,There were easy to medium questions asked on each of these topics ,,,Always remember to maintain eye contact with your interviewer. Overall it was a great experience ,"Anagram, bubble sort with time complexity, stack implementation, SQL case queries",Used java language ..i quite don't remember the coding questions ,"Coder army (YouTube channel)
+Leetcode for solving questions 
+Aditya Verma (for dynamic programming)
+Striver(for building basics )
+Links i don't have :)","Aptitude, logical reasoning, networking, DBMS, Coding"
+BE-CSE,Preetesh Shetty,1CR21CS137,Bottomline ,11,"Aptitude, logical reasoning, DSA, OS, Networking, Coding",,,"Behaviour based.
+-where do you see yourself in the next 5 years?
+-why Bottomline?
+-why haven't you been placed before?
+-Hobbies?
+","Full conceptual knowledge on Java, Python, C, Javascript and the projects mentioned in the Resume",2 programming code - any language.,,"Aptitude (MCQ), 2 coding questions"
+BE-CSE,Anusha M,1CR21CS036 ,Bottomline Technologies ,11LPA,"Quantitative Aptitude, reasoning, Programming mcqs, core subject questions like OS, CN, DBMS, Software testing etc ",,,"In technical.. They asked from resume,  java basics to medium level,  Python basics, JavaScript since it was mentioned in my resume,  my patents, about AI, OOPS, 2 puzzle questions, 1 quantitative aptitude,  sql basics to medium level queries,  SDLC, a situation in my life where I handled with positive attitude..
+In hr... Asked my introduction,  then what did I enjoy the most in my engineering, about my family,  about my internships, why Bottomline, what's my carreer goal. ","In technical.. They asked from resume,  java basics to medium level,  Python basics, JavaScript since it was mentioned in my resume, about AI, OOPS, sql basics to medium level queries,  SDLC. ","They asked to write a program to  sum numbers from range [1, n] given that it should not be a multiple of x and y. They gave values of n, x and y..
+They asked to write a program to add adjacent numbers until we found the the numbers are not circular which means the forst number and last number are same and increase the count if the sum of those adjacent numbers is divisible by N. They gave arr[], N.",Prepare aptitude and coding .,"MCQs, 35 which includes quantitative aptitude from all the topics, logical and  reasoning , programming, core subjects like OS, CN, Testing, DBMS and 2 Coding questions , easy and both were arrays.."
+BE-CSE,S Varshini,1CR21CS155,Bottomline Technologies ,11LPA,"The online test was 80mins. We had technical mcq on some java, oops, sql queries, os, aptitude questions( profit loss, tap filling tank, ratio etc). 2 coding questions based on arrays. Each of the sections were timed.",No,No,"Technical round - In-depth of the projects and skills mentioned in resume. Some aptitude questions. Goals in life. Team building and leadership 
+HR - Family details, expections from the company, any extracurricular? Asked about the Patent. If you have another offer, then they ask why choose Bottomline over the other company. Where do you see yourself in 5 years. Etc","SQL queries 
+OS
+Oops based on Java
+","1) sum of all numbers from 1 to N which are not a multiple of X and Y
+2) Find the sum of the couples in an array that are divisible by N and not a wrap around of the non cur circular array. ",Geeks for Geeks and Hackerrank,"MCQ and Coding, each section is timed and totally 80mins "
+BE-CSE,Ayush Kumar,1CR21CS045,Bottomline Technologies,11 LPA,"There were sections like Quantitative Aptitude , Logical Reasoning, Networking Concepts, Operating System, Programming Snippets (OOPs), 2 Coding Questions ",,,"There were two rounds of interview:
+1. Technical/Managerial Interview: Asked about the projects and internships. Asked about OOPs concepts and any project example where I've used OOPs. Try being confident and have a good communication. It helps a lot.(Keep your GitHub and other sites you have mentioned in your resume...most of the time they check and an updated one is good to have)
+2. HR Interview: Asked about my Open Source Contribution. Asked personal questions and HR questions. Try doing some certifications(Try doing reputed ones...I had Azure AI-900 certification, it gave an edge)","OOPs in JAVA(Full with examples), My Spring boot projects and Flutter experience",..,"Leetcode, Striver Sheet",
+BE-ECE,Sathvika H U,1CR21EC189,Bottomline,11 LPA,Aptitude round was of medium difficulty. Could easily clear if prepared.,There was no jam.,There was no GD.,"Technical round-Basics in Java was tested.
+Confidence, Attitude and Presentation was scrutinised.","Scope of the program.
+Hashset,Hashmap ,Linkedlist,Stack,Queue,.
+Explain the program flow attended in the interview.
+Few aptitude questions.","Sorting,
+Searching,
+Java Basics.",,35 mcqs and 2 programming.
+BE-ECE,Shreeraksha M Rao,1CR21CS218,Bottomline,11,"Complete the sequence, speed time and distance, direction sense, syllogism",,,"Introduce yourself, why do you want to work with us, about the company, strengths and weakness","Scenario based api end point creation, 
+ Given an array of numbers bring all the zeros to the end(no using an extra array);
+ Docker image creation;
+ Redis and Mongodb related;
+ Project related;","Sum of couples in an array which are divisible by n;
+ 
+ Sum of numbers from 1 to N which are not divisible either by x or t;
+ 
+ Bring all the zeros to the end of the array(the order of other numbers should be preserved and no additional array can be used)
+ 
+ You can code in any language comfortable to you.","Do dsa questions through leetcode(not all easy) of all kinds it will help build problem solving and these questions will feel simple.
+ 
+ Sql 50 leetcode for strong hold on sql","MCQ:- Aptitude, logical reasoning, operating system, computer networks, DBMS, Core. Followed by 2 coding questions"
+BE-CSE,Sujan Revankar,1CR21CS192,Bottomline technologies,11,35 aptitude qns,,,Technical interview is based on questions that is been solved in online assessment and normal logical scenario based questions,Easy to medium level array based qn,Easy to medium level array based qn,,
+AInDS*,Parth Sharma,1CR21AD036,Bottomline technologies,11 LpA,"Aptitude question ls were ther with medium level complexity, questions related to core subjects like operating system, network, automata theory , dbms along with two coding questions .",,,"In personal interview, interviewer asked questions based on the resume and projects that I have done and my was mostly on the dbms and its fundamental along with the data structures and algorithms. In HR interview they asked me basic questions and some questions like why should we hire you? , tell me about your self, will you able work on different Technologies , what's your long term goals and other similar kind of questions.",Advanced topics of sql like joins including all 6 types with window functions and fundamentals of database management system. Dsa questions were asked along with the some riddles as well.,Mostly questions based on the array manipulation and array functions.,,"35 questions mcq including aptitude and core subjects , and 2 questions of coding questions."

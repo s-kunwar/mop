@@ -1,0 +1,41 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.
+BE-CSE,Harshini S,1CR21AI026,Oracle,7.27,Greedy dsa questions along with mcq on aptitude operating systems computer networks and English,,,It was great. The interviewer was extremely friendly. The questions were on sql and sql queries. I was also tested on my python programming skills as well as java oops concepts,"Write sql queries, python programs to find prime number and Fibonacci series, java oops concept",Python programming questions to find if a number is prime and Fibonacci series
+BE-CSE,Tanya Havanoor,1CR21CS196,Oracle FSS,7.27,"Percentage, profit and loss, ratio and proportion, analyze the given bar graph and answer the Questions, mcqs about DBMS and normalization, Rest API mcq, 1 coding Question, Jenkins mcq, number pattern mcq(guess the next no in the series), paging concepts, exception handling in java pseudo code MCQ",-,-,"Asked about how's college, how are ur friends, tell me something about u which isn't mentioned in resume, hobbies, how do u manage stress, asked if u are willing to relocate, gave scenario based Qs","Prime no. and fibonacci code, sql queries, diff bw drop truncate delete in sql, indexing in sql and why its imp, foreign key and primary key and composite key in dbms, Java and its features, OOPs, thread and multithreading, exception handling and its types, get post put in api , what is method overloading and overriding and which one is runtime, Write Inheritance code, types of Inheritance, is multiple Inheritance allowed in java, synchronized block and synchronized method in java, abstraction and encapsulation, diff bw linked list and arraylist, what are the diff types of collections in java","Code in java, find the max no. of ways a graph can be formed using the given no. Of vertices"
+BE-ECE,Divyanshu Kumar,1CR21EC072,Oracle Financial Services Software,7.27,"There were 36 questions which was to be done in 2 hours.
+1 DSA Question 
+20 Technical MCQ - Topics covered was DBMS, OOPS, Rest APIs and basic questions of OS and Networking
+15 Reasoning - Topics like percentage, finding next pattern in a series, Coding Decoding and some verbal aptitude questions.",,,"Technical Interview was mainly discussion about projects, 2-3 easy DSA questions,OOPS concept and SQL queries.","Discussion about projects.
+Writing a Program to Reverse a number.
+Writing a Program to find if the string is Palindrome.
+Sorting techniques.
+Method Overriding.
+2 basic Sql query","Writing a Program to Reverse a number.
+Writing a Program to find if the string is Palindrome.
+Writing program for sorting algorithms."
+BE-CSE,Aparna Dayanand Hiremath,1CR21CS037,Oracle(OFSS),7.27,"MCQs - aptitude, reasoning, core subjects. One coding question.",,,"Total 2 interviews
+First one is technical- asked about SQL queries, oops concepts, scenario based technical questions, Java. 
+Second one was hr + technical - hr questions and some technical - oops, Java, SQL queries, coding question about reverse string.","Oops concepts
+SQL query - retrieve the details about third highest salary person. 
+Java libraries 
+DBMS scenario based question",Reverse a strong and count the number of vowels and consonants.(any language your preference)
+BE-CSE,Annapurna Morabad,1CR21CS034,Oracle,7.27,,,,"Two technical interview rounds - mainly focused on SQL queries, Java, OOPs concepts, projects, Exception handling and (prepare well for whatever tech skills mentioned in resume. 
+1.Find the count of possible palindromes in string
+2.Find the count of vowels and consonants in string 
+3.Prime number with exception handling
+4.sql queries to find maximum salary of emp
+5.doing left join from two tables
+6.Based on experience of employees group there salary
+7.diagrammatically explain your project 
+And every oops concepts with examples they will go on cross question whatever you answer","DBMS concepts, oops and mainly they will ask sql queries","Java programming language is preferred
+1.Find the count of possible palindromes in string
+2.Find the count of vowels and consonants in string 
+3.Prime number with exception handling
+4.sql queries to find maximum salary of emp
+5.doing left join from two tables
+6.Based on experience of employees group there salary
+7.diagrammatically explain your project 
+And every oops concepts with examples they will go on cross question whatever you answer"
+BE-ECE,V G DHARSHINI,1CR21EC231,Oracle,7.27LPA,all MCQs with 1 coding question. (easy level),,,all were based on your projects only . Java oops and collection framework. SQL questions and some queries ; palindrome without case sensitive program. hr round was only about family and about the company.,"java heap,stack,view in sql,palindrome,why ec and now IT, 2nd highest salary, no of emp getting highest salary. keys in sql.main method in java, jvm,jdk,interpretor and compiler.",Palindrome in java
+Important Links for Placement Preparation,https://drive.google.com/open?id=1Uqc5rB35PkplxNrBxW6d5jrDLkf1sQQQ,,,,,,,,,
+,Leetcode and geeksforgeeks,,,,,,,,,
+,W3school and sqlbolt for sql,,,,,,,,,

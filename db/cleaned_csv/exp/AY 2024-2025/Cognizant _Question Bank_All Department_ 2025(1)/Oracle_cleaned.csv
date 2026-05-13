@@ -1,0 +1,9 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.
+BE-ISE,M Sathwik Rao,1CR21IS085,Cognizant,4,"Aptitude,game based problems, coding and Communication",Question based on python and SQL,"Opps concepts 
+Collection data types in python
+Stack 
+Queue
+SQL basics","Palindrome
+Pattern printing
+Linear search
+Fibonacci series"

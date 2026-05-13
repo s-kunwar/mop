@@ -1,0 +1,15 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Online Exam Pattern
+"
+BE-ISE,AYUSH KUMAR,1CR22IS029,Parallel Wireless,2025-08-10 00:00:00,,"Basic DSA, project","DSA,project","valid parenthesis, reversing of linked list",
+BE-ECE,Shekhar Annappa Patil,1CR22EC202,Parallel wireless,Not selected,"Mcq:
+ 1) questions on networking(tcp/udp).
+ 2) questions on snowflake.
+ 3) questions on Python programming.
+ 4) questions on operating system.
+ 5) questions on object oriented programming language.","1) indepth questions about projects.
+ 2) Python problem solving(Armstrong num).
+ 3) questions on oops ( inheritance, obstruction,polymorphism, encapsulation)","1) indepth questions about projects.
+ 2) Python problem solving(Armstrong num).
+ 3) questions on oops ( inheritance, obstruction,polymorphism, encapsulation)","1) questions on permutation and combination.
+ 2) question on class and objects.
+ 3) question on strings and list.","25 mcq, 3 coding questions."

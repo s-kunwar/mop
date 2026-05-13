@@ -1,0 +1,244 @@
+Column_0,Column_1,Column_2,Column_3,Column_4
+S.No,Name of the Company/Drive,Personal interaction, Technical questions,Programming questions
+1,Epicor,"1.Very formal and relatively stricter
+2. Default parametrics in OOPS
+3 100 identical looking boxes, 99 of same weight, how to find the odd box, given a
+comparison weighing scale. This question was asked to all the interviewees.
+4 What kind of a coder do you want to be?
+5 Experience of working in a team, role performed.
+Introduction of myself.
+6 How can I contribute to the company?
+7 What are my short term and long goals?
+8Instances where I resolved team conflicts.","1Basic OOPS questions(classes, objects, inheritance)
+2 Explanation of the different modules in the projects and how they were used.
+3 In detail explanation of models used in projects(working of face recognition,
+OpenCV).", 1.DSA question(Dutch National Flag problem)
+2,SAP,"1.Standard HR questions to assess my personality and motivations.
+2A significant number of questions to test my knowledge of the SAP STAR program, company details, and its
+culture.
+3 Questions to determine if the program was a good fit for my career aspirations.","1.Questions on Computer Science fundamentals (CN, OS, DBMS).
+2.SQL coding questions.
+3 DSA questions primarily involving stacks and queues. A specific question about parentheses matching using a
+stack was asked.
+4 Application-based questions to test practical knowledge of CS fundamentals.",
+3,Maesrk,"1Tell me about yourself.
+2Talk about your internship experience and your contributions.
+3How do you select the right model for a classification task
+4What is your experience with Docker
+5How would you debug an agentic workflow working for one language but failing in another
+6When should you use LLMs vs traditional ML models
+7Will the project you've built be practically helpful in real-world use cases
+8How well have you maintained Git and version control practices","1.What are the evaluation metrics used for different types of ML algorithms
+2.What is regularization
+3.How can you avoid model overfitting
+4Explain PCA.
+5How do you build an end-to-end ML workflow using APIs
+6What are embeddings
+7What is quantization in fine-tuning
+8Difference between a list and a tuple in Python.",
+5,J P Morgan,"1.Individual contributions to the Project
+2.Explaination of the overall solution to the problem statement
+3.How to handle conflicts within your team
+4.Problem solving Mindset",1. Hackathon,"1.String Manipulation Problem working with Transformation
+2.Dynamic Programming Problem"
+6,Kantar,"1. Scenario based questions
+2.SQL questions
+3.Aptitude questions
+4.Talk about self other than technical background.","1.About projects and Internships
+2.3-4 Scenario based questions","1Basic Aptiude Questions
+2.SQL questions
+3.Case Study questions"
+7,Plivo,"1.Personal Introduction
+2.About projects","1.SQL and NoSQL
+2.Pass by value and Pass by address
+3.UDP and TCP
+4.Compiler and Interpreter
+5.Supervised and unsupervised learning","1. 3 Coding questions in Python, Typescript
+2. Difficulty level is high
+3. Questions on nested list and dictionaries"
+8,Opentext,"1.Personal Introduction
+2.About non technical skills
+3.Why OpenText?
+4.Standard HR questions to asses personality","1.Questions on Projects
+2.Basic DSA Questions
+3.Python questions 
+4.What is a tuple, dictionary, list etc.
+5.Cloud frameworks
+6.Questions on MLops
+7.AI related questions
+8.Complex ML questions
+9.AI ethics",
+9,Infosys,"1.Pertsonal Introduction
+2.Working as a team
+3.Power BI and Tableau
+4.Uniqueness as a person
+5.About Projects
+6.Contribution towards project
+7.Current final year projects
+8.About hackathons participated",,"1.Reasoning ability
+2.Technical ability
+3.Puzzle
+4.Essay
+5.Psuedocode
+6.Verbal
+7.English grammar"
+10,Mathco,"1.Self introduction
+2.Personal background
+3.Concepts of Dataengineering
+4.Questions on Machine learning","1.SQL questions
+2.Python concepts and coding questions
+3.Puzzles related to logical reasoning
+4.Discussion on projects",1.Aptitude questions covering puzzles and logical reasoning
+9,Thermofisher,"1.Self Introduction
+2.Explain any one of your project.
+3.Questions on other projects.
+4.Challenges faced during internship
+5.About Seminar attended","1.About NLP.
+2.LLM API
+3.Sentiment Analysis
+4.Scenario based questions
+5.Devops related questions
+6.AWS basics
+7. SQL injection
+8.DDOS",1.Python code to reverse a sentence
+10,Mindsprint,"1.Self Introduction
+2.Strength and Weakness
+3.Are you a team player or individual player
+4.Where do you see in next 5 years
+5.Why did you choose engineering?
+6.What we can expect from a fresher?","1.CNN based questions
+2.Difference between init and new.
+3.Difference between Authorization and Authentication
+4.Encryption and HashID
+5.Method Overlaoding
+6.Stack and queue realworld examples
+7.KNN nodel
+8.Regular Expression
+9.OSI model
+","1.Remove duplicates
+2.String count"
+11,Winwire,"1.Self Introduction
+2.Project explaination","1.OOPS Concepts
+2.DSA questions
+3. Virtualization
+4.ML basic concepts
+5.Types of ML
+6.RAG",
+12,Bajaj Finserv,"1.Project level questions
+2.Java springboot
+3.Annotations in java
+4.Explain all projects mentioned in resume","1.SQL 
+2.DBMS Concepts","1.Write an api call and implement cache as well
+2.Compress a string and then decompress it
+3.Maximum of a sum subarray
+4.SQL quesry using where and join"
+13,Genpact,"1.Self Introduction
+2.About Projects
+3.Coding skills
+4.Project responsibility","1.SQL queries
+2.Joins in SQL
+3.Linux Commands
+4.Union and Joins
+5.Python libraries
+6.DDL and DML
+7.truncate, drop and delete
+8.Real life example of OOPs
+9.Exceptions
+10.RDBMS
+11.Gen AI and Agentic AI
+12.TechStack
+13.Types of sorting","1.Print prime nos in alist
+2.Print second largest element
+3.Palindrome
+4.Frequency of characters in a string"
+14,Capgemini,"1.Self intro 
+2.Why Capgemini 
+3,1 Scenario based question","1.List tuple difference 
+2.Why do u prefer python
+3.What is lambda function 
+4.Method function difference 
+5.What is Hash map/table 
+6.What is Ai
+7.What is ML 
+8.What is Normalisation 
+9.Truncate drop delete difference 
+10.What is Dictionary 
+11.What is no Nosql
+What are joins explain its types.
+Different type of Sql(DDL,DCL,DML,TCL)
+What is method overloading and overriding give the real world exampl",
+15,Vdart,"1.Self Introduction
+2.About Projects
+","1.Project based question were asked and gen Ai and machine learning questions 
+2. what is rag,types of ML, transformer architecture,
+3.what is self attention mechanism, oops four pillars, were asked ","1.Checking balanced paranthesis 
+2.longest substring length without repeating characters in string"
+16,Accenture,"1.Self Introduction
+2.About the projects done 
+3.Challenges faced during project","1.The technical questions asked during the interview were primarily based on the technologies used in my projects. 
+2.Specific questions were asked related to blockchain concepts mentioned in my project.",
+17,Altimterik,"1.SelfIntroduction
+2.About mini and major projects
+3. deep learning questions
+4.ML Related questions","1.Questions related to core subjects
+2.Project related questions
+3.Basic questions on SQL,Machine learning",1.There was project round- they sent a zip file which had a dataset and we had to make an mL prediction model and upload it. 
+18,Fractal Analytics,"1.Self Introduction
+2.About Projects mentioned in the resume",,
+19,Flowedge,"1Problem solving skills
+2 General discussion about projects
+3.Explanation of the role
+","1Asked about modern c++
+2 DSA easy/medium problems 
+3 Linked Lists
+4 Maps
+5 Unordered Maps
+6 How memory can be allocated/managed in c++
+7 Time complexities
+8 They were curious about my c++ projects so I had to explain that to them.
+-Total Duration: 1 hour 
+
+Second Round, Presentation/Soft Skills/Communication round:
+9Present about any topic of your choosing
+10Discussion/Questions based on your topic and presentation
+11 Linux basics
+12 Excel basics",
+20,IBM,"1.About self introduction
+2.About projects
+3.Role in projects
+4.basic skills mentioned in resume
+5.About career
+","1.About projects mentioned in CV
+2.About competitions participated","1.Leetcode easy level questions on array and stack
+2.Find largest number of non overlap intervals.2 intervals considered non overlap if 1 end before other starts
+3.sql questions on e commerce website maintenance"
+21,Surewaves,"1.Self introduction
+2.Scenario based questions","1.About API
+2.Questions on OOPS
+3.Python based questions
+4.Linked list based questions
+5.SQL based questions
+6.Solving puzzles",
+22,XfilesPro,"1.Questions on projects
+2.AWS
+3.Salesforce
+4.Project requirements","1.Fetch employee details from each department
+2.Fetch the highest salary of the employee
+3.Fetch department which have highest salary
+4.Fetch employee who joined after 1-Jan-2000","1.Pattern problem
+2.Sum of array
+3.Largest element in an array
+4.Sum of prime numbers
+5.Duplicate Number"
+23,TEConnectivity,"1.Self Introduction
+2.About Resume
+3.Internship","1) Even though LLMs are trained on vast datasets, why do they sometimes fail to answer simple mathematics questions? What is the reason behind hallucinations?
+2) Explain CNN architecture.
+3) Explain LSTM architecture.
+4) Explain your internship experience.
+5) When you are provided with a task, how do you approach it?
+6) If you are building an AI project, how will you ensure sensitive data won't get leaked to AI?
+7) What algorithms can be used for semantic search in a vector database?
+8) What are embeddings? Why do we need them?
+9) What is chunking? (This question is related to RAG)
+10) Explain a basic RAG pipeline in detail.",

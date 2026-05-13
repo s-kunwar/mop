@@ -1,0 +1,19 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.
+BE-CSE,Ayush Kumar,1CR21CS045,Q Sys,7 lpa,"Total 12 qns in OA round 
+2 python coding questions ( We were only allowed to code in either python or c++ since they were looking for python proficiency). 5-8 aptitude qns and rest pseudo code ig.","GD round was there. Topic was ""Impact of AI on our jobs"". Try to speak more on the topic rather than going out of scope and attend Mouna mam's gd classes at least. It helped a lot.","Tip: Don't write anything on resume which you can't answer about and be honest 
+Started with normal intro. They asked if I can code in python. I did my DSA in Java but I knew python too. I told them that my main stack is java but I can code in python and I can learn more of required. They gave me 2 DSA(easy to medium level) which I coded. Then asked questions about java like inheritance, oops, constructors and destructors and other basic questions. Then they asked me 2 aptitude questions. Asked about features and advantages of java. The interviewer was also typing something ( maybe checking my GitHub and leetcode). I had also experience with open source contributions so we discussed about that too. Overall 40-50 min interview. Try being confident about your stack and whatever you write on resume you should be able to justify that you know it.","Oops
+Constructors and destructors 
+Properties and advantages of java
+Spring boot features ( I had mentioned in resume that I know spring boot)
+Example code for inheritance","Frequency of a substring in a given string
+Reverse each word of a string"
+BE-CSE,Devika H,1CR21CS062,QSYS,7LPA,"Questions on discount, profit percentage ranking and some technical questions like minimum swaps and puzzles",GD on social media connecting or isolating,"Prime number, Gfg puzzles and difference between list and array project related questions and frequency of substring and missing number and kth element",Python related basic questions,"Kth element 
+Frequency of substring 
+Sum of numbers"
+BE-ISE,Darshan S,1CR21IS189,QSC,7 LPA,"Had 2 programming questions , 5 aptitude,5 theory based questions","gave ""cybersecurity"" as a group discussion topic and there was no time limit mentioned .",Asked questions completely based on resume and few python releted codes were give to solve,questions related to datastructure and python theoritical concepts like garbage collection,kth largest number in an array of repeating numbers with some conditions of not to use extra space
+"Important Links for Placement Preparation:
+Striver sheet, leetcode, coding ninjas (underrated but their daily qns are very helpful)
+
+https://www.geeksforgeeks.org/python-interview-questions/
+
+",,,,,,,,,

@@ -1,0 +1,117 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.
+BE-CSE,Akarsh Kumar,1CR21CS019,Eurofins,10.75,Basic aptitude questions along with technical MCQs,,"Strong command on OOPS, DSA and DBMS. They ask fundamental questions and ask you to write code on paper for these topics. Along with this also look over GFG top puzzle questions where they ask at least one from. 
+
+Managerial Round they asked me to draw a system design for my project and behaviour questions but mainly focused on your project and whatever is mentioned in the resume.","Print words inside a bracket for a given string with random values.
+Print star pyramid pattern","Anagrams
+Substring questions 
+Maximum subarray but for 2D array
+Find saddle point in a 2D array
+Total 5 questions: 2 easy 1 medium 2 hard"
+BE-CSE,Shradha Agarwal,1CR21CS170,Eurofins,10.75 LPA,"There were 40 mcq  questions in the 1st round.
+They were divided into 2 sections : 20 questions were from aptitude and logical reasoning and 20 were technical questions.
+The aptitutde and logical reasoning questions were from easy to medium difficulty.
+The technical questions were mostly from c and c++, they had code snippets which were based on core language and oops and questions from dbms were also there.",Na,"There were 2 rounds of interviews and both of them were one-on-one interviews.
+For the first round, I firstly introduced myself and then I was asked my favourite subjects in college  and was asked questions according to that. The first question I was asked was that which algorithm is used by google maps to give the best shortest possible route(A* algorithm and djikstra's algorithm) and then I was asked to write some dbms queries and asked to explain joins and some questions from computer networks.
+It was not the matter of how much you studied the previous night, all they tested is how much knowledge you actually have as they switched randomly from one subject to the other and even if you don't know everything, just explain the basic idea of what they are asking.
+For the second round, it was supposed to be an hr round but the only hr question I was asked was tell me about yourself and then they drilled a lot on my technical knowledge, they asked why python is becoming very famous nowadays(the answer he expected was because python is open source and cross platform) and then I was asked about my projects and was asked to draw a schema based on a given scenario in such a way that writing the queries would be pretty neat and easy( just include more foreign keys) and then I was asked to make a class in java which represents a meeting room and was asked questions on threading and traffic management. They'll mostly stick to the projects and ask questions around that","1. Different types of data types in python.
+2. Why is python becoming more famous nowadays.
+3. How will you manage traffic in websites?
+4. Suppose you have a movie booking platform and two people are trying to book the same seat at the same time, then what will you do?(use threads)
+5. Which algorithm is used by google maps and explain its working?
+6. Internal working of joins(cartesian product and all)
+7. Dbms queries based on scenarios.
+8. About subscription and polling.
+9. Bootstrap classes and html css functioning 
+10. Write a java class based on a scenario
+","The questions were from easy to hard level, you could do in any language(mostly c, c++, python, java etc.):
+1. Maximum sum subarray
+2. Remove single vowels from a string
+3. Saddle point in matrix
+4. Suppose you have a string as om* and the entered word is bombay, then print ombay
+5. Valid anagram"
+BE-CSE,Vismitha S,1CR21CS214,Eurofins,10.75,Basic aptitude questions along with few mcqs on CS basics,,"Asked about myself, discussed my hobbies, how my usual day goes, how I learn new courses/concepts","1. What is OOP and explain concepts of OOP along with code examples
+2. Asked to write program to print words within brackets in a given string
+3. Program to print pyramid pattern
+4. Asked aptitude questions like how to get 1L, 2L,…, 9L from a flask of only 9L and 4L","1. Print substring from an input string starting with given pattern
+2. Find if two given strings are anagram
+3. Find saddle points in a matrix
+4. Remove single occurring vowels from a string
+5. Find sub matrix giving maximum sum of elements"
+BE-CSE,Aditi,1CR21CS008,CMR Institute of Technology ,10.75 LPA,"2 round were there - 
+1. Programming language code snippets
+Given and asked about their output 
+2. SQL queries based question 
+3. Aptitude questions which had logical reasoning and quantitative  reasoning 
+ 
+2nd round was coding/dsa questions were there - total 5 questions were there -
+1. Whether the string is anagram or not 
+2. Whether the string contain a given substring or not. If yes, then print remaining string... 
+Example - string : ompati, substring : pa
+It should print pati
+
+3. 2 matrix based question 
+5. String based question
+",,"Question on projects and internships in depth 
+One dsa question - divide the given string into substrings having 3 character each 
+One sql query - find max salary employee 
+One puzzle - 9 balls problem where 9 balls are given and all are of same weight except one. How many steps will it take to identify the unique one.  ","1. Whether the string is anagram or not 
+2. Whether the string contain a given substring or not. If yes, then print remaining string... 
+Example - string : ompati, substring : pa
+It should print pati
+
+3. 2 matrix based question 
+5. String based question
+
+
+divide the given string into substrings having 3 character each 
+sql query - find max salary employee puzzle - 9 balls problem where 9 balls are given and all are of same weight except one. How many steps will it take to identify the unique one.  ","1. Whether the string is anagram or not 
+2. Whether the string contain a given substring or not. If yes, then print remaining string... 
+Example - string : ompati, substring : pa
+It should print pati
+
+3. 2 matrix based question 
+5. String based question
+
+divide the given string into substrings having 3 character each"
+BE-ISE,Pushkar Jha,1CR21IS122,Eurofins,10.75,"First round was apti round which was easy but accuracy mattered a lot. 20apti questions, 10 from SQL and 10 from OOPS.""
+Next round was OA which had 5 DSA ques (2easy, 2medium and 1 hard) mostly based on string, array, map, matrix",,"Round 1: Technical Interview (55-60 minutes)
+Started with introductory exchanges, followed by an in-depth discussion on my projects for about 20 minutes. After that some Key questions included: differences between SQL and NoSQL databases, selection sort with its space and time complexities, three data structure questions (two on ArrayList, one on HashMap), a real-life example and code of inheritance and polymorphism in Java, and three SQL queries (two manageable, one challenging, focused on joins and subqueries). The interview concluded with a reasoning puzzle and a discussion on my solutions in the online assessment. Most questions required me to write code or pseudocode on paper and explain my thought process.
+
+Round 2: Technical + Managerial Interview (35-40 minutes)
+Focused extensively on my first project, specifically the implementation of authentication and session management and the DB design of my project. I was given a problem statement on traffic management and asked to design a project for that and i  proposed a machine learning-based solution. Additional questions included 2-3 SQL-related queries and behavioral questions about my strengths and weaknesses.
+","sql vs nosql,
+selection sort,
+trim starting and ending zero,
+inheritence and polymorphism code example,
+multiple sql queries based on join, union, aggregate function, subqueries
+some more ques based on string","Valid Anagram
+Saddle Point in a Matrix
+Eliminate more than 1 consecutive vowel
+maximum sum submatrix
+String matching 
+Missing number in array
+choose whatever language you want to code in OA as well as in Interview"
+BE-ISE,Sai Suhas P G ,1CR21IS133,Eurofins ,10.75LPA,"The aptitude round included a variety of straightforward questions covering topics such as time and work, pipes and cisterns, blood relations, and age-related problems.
+",,"In this interview experience, there were two rounds, both primarily focused on technical aspects.
+
+The first round was a technical deep dive and lasted almost an hour. The interviewer asked detailed questions about my projects and concepts from object-oriented programming (OOP). I was required to write code snippets to demonstrate my understanding of OOP concepts, and I explained the principles behind them. Following this, the interviewer shifted to data structures and algorithms (DSA), where I was tested on various DSA topics. One of the questions involved parsing a string that contained patterns like ""[MOD1] ABC [MOD2] XYZ "" The task was to extract the substrings within the parentheses and return them as a collection, such as a list in Python or ArrayList in Java
+Output: [""MOD1"",""MOD2""]
+
+Next, I was asked to solve a star pattern problem where I had to generate a triangle pattern of stars. The first row would have one star, followed by three stars in the next row, and so on, with spaces properly aligned for each row. I had to write the code on paper, walk the interviewer through the logic, and dry run the solution to explain what was happening at each step. Towards the end of the round, the interviewer moved to SQL questions, focusing on basic concepts like joins and other simple SQL operations.
+
+After some time, I was called for the second round, which had a more managerial focus. In this round, I was required to apply my technical knowledge to practical situations. The interviewer provided scenarios where I had to implement data structures and algorithms to solve real-world problems. This round aimed to test how well I could translate theoretical knowledge into practical applications.","- OOP
+- DSA
+- SQL
+- Optimisation related questions ","
+
+1. to check if 2 words are anagram or not
+2. pattern matching,ex: give 2 string """"""""bombay"""""""" an """"""""om*"""""""", it should print """"""""ombay""""""""
+3. find saddle points in a matrix, points in a matrix which have the highest value in a row and lowest value in column, print index in sorted order
+4. given string , remove single vowels, if continuos not remove it, for ex """"""""abbaabb"""""""" will be """"""""bbaabb""""""""
+5. given matrix of n*n, find m*m matrix with maximum sum, 2<=m<n
+I used python, but mostly every language was there.
+"
+"Important Links for Placement Preparation: Interview Bit , GFG 
+DSA is a must to clear the OA , but OOPS and SQL was very very important on every stage of interview as well the apti round.
+i used javapoint.com for OOPS and SQL. and for DSA leetcode easy to medium is enough. 
+",,,,,,,,,

@@ -1,0 +1,23 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,Important Links for Placement Preparation
+BE-CSE,Uday Kiran R H,1CR21CS199,Quantum Street AI,9LPA,"The Questions were based on Quantitative Aptitude, Verbal , Software Development Life Cycle and Python programming related questions.",No JAM session happened,No Group Discussion Happened,"Personal Interview was good and Everything went on related to Python and Testing along with ML.
+ Questions include about : 
+ 1. Self introduction.
+ 2. About Python Programming related coding questions.
+ 3. Knowledge on Testing.
+ 4. Outputs for the given syntaxes.
+ 5. Logical Reasoning related Questions in HR.
+ 6. Knowledge on Stock Market.
+ 7. Difference between Testing and Development Team.
+ 8. Relationship between Testing and Development Team, that how the bond should be.
+ 9. Personal Hobbies related Questions.
+ 10. Greatest Achievement in my life.
+ 11. Greatest Strengths and weaknesses.","1. Code of Prime number, 
+ 2. Difference between Dictionary and List.
+ 3. Difference between Set and List.
+ 4. Define AI, Machine Learning, ML Model.",Prime number code and syntax based questions.,Geeks for Geeks and ML Textbook.
+BE-ISE,Kirthan M,1CR21IS078,QuantumStreet AI,9LPA,Basic aptitude with English and python basics mcqs cut off was 80%,,,"Managerial round basic conversation similar to hr at last one previous CAT question was given to jusdge the thinking and mainly they assessed on the way the we tried to solve the problem 
+ qlink-https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-17.shtml",Basic conversation round with team lead just to know more about the fitness of the candidate. Situational questions and questions regarding the role to know how much knowledge is there with respect to the open role,"-Basics of python
+  -4 coding questions to be compiled in laptop that was given
+  -qns were create an dictionary out of the two lists given, palindrome, prime number, anagrams
+  -testing related questions basics","kunal kushwaha and striver for dsa
+ development can be learnt from anywhere"

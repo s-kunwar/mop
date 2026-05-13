@@ -1,0 +1,61 @@
+serial_number,company_name,technical_questions,programming_questions
+1,Ellucian,"Java basic logics(Code snippets) 
+SQL Quires, 
+C basic Concepts,
+OOPs  and Structure oriented concepts","How do you approach debugging code?
+ What is cloud computing? 
+Can you describe a challenging technical problem you faced and how you overcame it?
+ Explain about your project.
+ Can you tell me about yourself? 
+What's your experience with specific technology or tools?"
+2,MSG,"Project based Questions. 
+python basic Questions
+basic javaScript Questions.
+DSA Basic Questions.","How to connect with database.
+How to retrieve data from database.
+if i add login details how it will change in the database.
+What is linear Regression."
+3,Accenture,Basic HR Questions.,"what is ML?
+least favourite subject and why?
+How will you manage your team.
+tell me about your Project."
+4,Mathco,"Logical Reasoning
+Aptitude(trainbased,probability,percentage).","pseudo code.
+situation based:-
+situation like internal conflicts among employees or team members."
+5,Intellipat,It was a sales-based company. They are only checking only communication and negotiation skills.,
+6,LaunchX Labs,"1.DSA questions:-
+2.questions about project and fastapi
+ 3.Gen ai projects","Leetcode problems:
+1. Divide two integer
+2. Palindrom partitioning"
+7,Capgemini,"1.java basic questions like methodoverloading,overriding,
+2.oops concepts,arrays,strings,stack,queue,
+3.agile method,
+4. features of java.
+5.sql questions like ddl,dml queries,joins,operations.","1.code snippets of java which includes operators and methods.
+2.c++,SQL"
+8,Atomwalk Technologies Pvt Ltd,"1.JavaScript, basics of react
+2. In depth Question about projects.",
+9,Tap Academy,"1.Basic question related to java,python, c aand C++(Student Convinient)","1)Write a program to find the largest element in an array 
+2)Write a program to find the second Largest Element in an array"
+10,Synoptics technologies Limited,"Since the company was non-IT, they asked business-related questions",
+11,Veeva System,No Technical Questions,"1. A government agency maintains a database that stores the addresses of all the people living in the country. The data is stored in the table – tbl_address_data ( sNo , personId, Address). The address contains a zip code – a six-digit numeric code unique to every location in the country. In the address, the zip code can be obtained by searching for the keyword – ‘zip’ (case insensitive) followed by space(s), dash (-) or both and then the numeric code. Write a query to parse the given addresses and extract the list of personId’s whose address does not have any zip code.
+
+2. In the customer database of the company Veeva, there are two key tables 'customers' and 'sales'. The 'customers' table contains details about the customers, including their customer_id and city. The 'sales' table contains sales transaction data, including the sales_id, customer_id and product_id. Your task is to write a SQL query to find out the number of customers from each city who bought the product with product_id 'P001.
+
+3.Veeva is a company that's operating in the life sciences industry offering products like CRM, content management, and data management solutions. Imagine you are a data analyst at Veeva. You have been tasked to analyze the monthly sales of each product and understand revenue trends.
+
+Given a sales table, which contains sales data containing columns: sale_id, product_id, sale_price, and sale_date. Write a SQL query to find the average monthly sales revenue for each product.
+
+4.Veeva is a leading provider of industry-specific cloud solutions for the life sciences industry. Their customer records database contains specific data about the pharmaceutical companies, they serve as customers and the products these companies have purchased.
+
+See below for sample tables. Your task is to write a query that filters customers who have purchased either 'Product_A' or 'Product_B', and are located either in the 'West' or 'North' region.
+
+5.Veeva is a cloud-computing company focused on pharmaceutical and life sciences industry applications. Given the nature of the business, let's say a user (healthcare professionals or companies) is regarded as a 'Power User' if they have requested more than 50 medical documents in any given month. Write a SQL query to identify these power users.
+
+6.For a company like Veeva, that builds cloud-based applications for the global life sciences industry, it is critical to track customer feedback about their various products over time. As an interview question, you might be asked:
+
+You are given a table called product_reviews that stores product reviews submitted by users. Write a SQL query to compute the running average of stars received by each product, month over month."
+12,,,
+13,,,

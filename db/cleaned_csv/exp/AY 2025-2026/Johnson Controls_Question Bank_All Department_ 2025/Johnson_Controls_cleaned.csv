@@ -1,0 +1,93 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,"Online Exam Pattern
+","Important Links for Placement Preparation
+"
+BE-ECE,Tungashree D,1CR22EC227,JOHNSON CONTROLS,YES,"Speed and distance concept (Train,boat concept also)
+ Work distribution
+ Mensuration
+ Code and Decode
+ Blood Relation
+ Cause and Effect regarding two Statements
+ permutation and Combination
+ Correction of sentence
+ Basics of Core(laws,transistor,waves,electrical components)
+ Finding speed of the train
+ Finding time of boat in still water when its speed is provided
+ If Computer is RFUVQNPC then decode for ""hospital""
+ Finding time :if A and B are in race...and what time B can beat A
+ Volume of Cube,cylinder problems
+ ""Detail""....in this word Vowels occupying odd position
+ ratio of two trains with provide speed",.,.,"There were 2 technical rounds(L1 and L2) and HR round
+ In all rounds they asked me to introduce briefly
+ During L1:
+ Questions related to project,why did we do that project,what was my contribution to the project,if sensors are detecting what was my work in the project.
+ Formulas of Resistance,Inductance,Capacitance ,each working principle and their real time application?
+ What is Impedance and its real time application and when and how impedance is obtained?
+ what is Oscillation and oscillator?
+ What is Multiplexing and types?why Multiplexing?
+ what are transistor and transformer?
+ what is Demodulation and why it is done?
+ Family Background
+ Favourite subject and few question related to it
+ If any hobbies mentioned in resume...few question were asked regarding to that.
+ About Relocation was also asked
+ OSI model and layers
+ Why AI is used and can it replace humans
+ Regarding to Power Factor
+ In L1 they ask mainly basics of all electronics and electrical
+ During L2:
+ More question were asked about project,they asked to draw block diagram of how project works,if any IOT components are used in project :mention about how many pins are there and their working,background principle of how each sensors work,if Lcd/Led is used how letters/numbers is formed?Everything should be explained briefly.
+ Should be very clear about our project to explain .
+ In digital electronics : Conversion of numbers from decimal to binary,octal and hexadecimal and vice versa .
+ Working of flip-flops(SR,JK) with gate diagram and should explain the truth table of it.
+ Why rectifiers are used?Types of it with diagram and using the same diagram we shlould explain the output waveforms ,which rectifier is used more and why.
+ If 230V DC is provide make it electronics gadgets needed 24V DC with circuit diagram and explain how?In this conversion if diode consumes some voltage,how can you exactly get 24V DC?
+ Universal gates and their working....draw NOT using NAND and vice-versa
+ Why AI is needed,What is genAi? difference between gemini and chatgpt?
+ Why shld we hire you and how different you are from others?
+ How all electrical components in home works?
+ If diode is there why Zener diode is invented? how zener diode is working and how it will regulate volatge? what is the amount of voltage silicon and germanium diode is needed?
+ why Capacitor is used as filter?
+ During HR round:
+ Questions related to our 3 weekness and strength?
+ any conflits during projects and to overcome?
+ Failures in life and how to resolve it?
+ Regarding Higher studies?
+ Few technical questions were also asked regarding core basics
+ Why you dont want to continue parents business?","There were 2 technical rounds(L1 and L2) and HR round
+ In all rounds they asked me to introduce briefly
+ During L1:
+ Questions related to project,why did we do that project,what was my contribution to the project,if sensors are detecting what was my work in the project.
+ Formulas of Resistance,Inductance,Capacitance and their real time application?
+ What is Impedance and its real time application and when and how impedance is obtained?
+ what is Oscillation and oscillator?
+ What is Multiplexing and types?why Multiplexing?
+ what are transistor and transformer?
+ what is Demodulation and why it is done?
+ Family Background
+ Favourite subject and few question related to it
+ If any hobbies mentioned in resume...few question were asked regarding to that.
+ About Relocation was also asked
+ OSI model and layers
+ Why AI is used and can it replace humans
+ Regarding to Power Factor
+ In L1 they ask mainly basics of all electronics and electrical
+ During L2:
+ More question were asked about project,they asked to draw block diagram of how project works,if any IOT components are used in project :mention about how many pins are there and their working,background principle of how each sensors work,if Lcd/Led is used how letters/numbers is formed?Everything should be explained briefly.
+ Should be very clear about our project to explain .
+ In digital electronics : Conversion of numbers from decimal to binary,octal and hexadecimal and vice versa .
+ Working of flip-flops(SR,JK) with gate diagram and should explain the truth table of it.
+ Why rectifiers are used?Types of it with diagram and using the same diagram we shlould explain the output waveforms ,which rectifier is used more and why.
+ If 230V DC is provide make it electronics gadgets needed 24V DC with circuit diagram and explain how?In this conversion if diode consumes some voltage,how can you exactly get 24V DC?
+ Universal gates and their working....draw NOT using NAND and vice-versa
+ Why AI is needed,What is genAi? difference between gemini and chatgpt?
+ Why shld we hire you and how different you are from others?
+ How all electrical components in home works?
+ If diode is there why Zener diode is invented? how zener diode is working and how it will regulate volatge? what is the amount of voltage silicon and germanium diode is needed?
+ why Capacitor is used as filter?
+ During HR round:
+ Questions related to our 3 weekness and strength?
+ any conflits during projects and to overcome?
+ Failures in life and how to resolve it?
+ Regarding Higher studies?
+ Few technical questions were also asked regarding core basics
+ Why you dont want to continue parents business?",No,.,Chatgpt and Youtube

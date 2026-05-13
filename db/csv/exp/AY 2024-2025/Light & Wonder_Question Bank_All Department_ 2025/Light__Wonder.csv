@@ -1,0 +1,15 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.,Online Exam Pattern
+BE-CSE,Mihir Sahu,1CR21CS101,Light & Wonder,855000,The round consists of 16 basic C++ MCQs.,"There were a total of three rounds: the Technical round, the Vice President round, and, lastly, the HR round. The Technical round began with an introduction, followed by React-related questions such as state management, hooks, and inheritance in React. Then, I was asked some basic Java questions related to polymorphism, followed by writing basic DSA questions ranging from arrays to linked lists. Additionally, I was asked two puzzle questions.
+ 
+ After that, I moved to the Vice President round, where I was asked to frame a technical question about the company. Then, we discussed my projects, the difference between Java and C++, the async and await concepts, and a scenario-based question on it.
+ 
+ Finally, in the HR round, I was asked about my four-year experience in college, my family, my hometown, and some basic personality-based questions.","1. State management in React
+ 2. Hooks in React
+ 3. Inheritance in React
+ 4. Polymorphism
+ 5. Difference between Java and C++
+ 6. Async and await concepts
+ 7. Scenario-based question on async and await","1. Reverse a number
+ 2. Reverse a string
+ 3. Detect a cycle in a linked list
+ 4. Check whether a string is a palindrome or not",The round consists of 16 basic C++ MCQs.

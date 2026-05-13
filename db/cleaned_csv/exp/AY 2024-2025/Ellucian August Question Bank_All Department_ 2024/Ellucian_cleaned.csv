@@ -1,0 +1,101 @@
+Branch,student_name,university_seat_number,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.
+BE-ISE,Prakriti Singh,1CR21IS114,Ellucian Drive,8.60LPA,"In the online assessment, Reasoning questions were asked and few quantitative aptitude",,,,"In the Personal Technical round of my interview, I was asked a mix of technical and situational questions. The technical questions primarily focused on the projects listed on my resume. The interviewer explored the technologies used, my role in the projects, and the challenges faced.
+I was asked to:
+Write code in an IDE to check for odd and even numbers.
+Frame SQL queries based on given scenarios.
+The situational questions revolved around handling work challenges and teamwork experiences. The overall focus was on evaluating my technical proficiency and problem-solving abilities.","write a program to check even or odd numbers, in Java language"
+BE-CSE,Aditi,1CR21CS008,Ellucian,8.6,"1st round had all coding related questions- 
+15 MCQ were there in which code snippets(C, C++, Java) were given and output was asked.
+2 puzzle or situation based question 
+1 DSA question",,,,"2nd round - Technical interview 
+Project related in depth question and technical questions like HTTP status and methods, what is nosql, list,  tuple and set. One coding question -
+Sort the list and give largest number from it.","Code for printing Nth number that is divisible by both number a and b. 
+Input given is N,  a and b
+Sql queries to write as well as to give 
+expected output of sql, C, Python, C++ code snippet.
+Code for Sorting the list and return largest element in the list"
+BE-ISE,Priyanshu Kumar,1CR21IS121,Ellucian,8.6,"Detailed Questions Based on SQL Queries(Given Table and Query, determine Output)
+Aptitude Questions(2)
+Code Snippets, Predict Output
+One Coding Question(Mine: Find LCM)",,,"Experience: The Interview was Good, the Interviewer was very supportive
+Questions asked:
+1)Detailed Overview of Project and Questions related to it
+2)Questions based on HTML, CSS, Javascript
+3)Questions based on Skills mentioned in Resume
+4)Code Snippets and Their possible output","1)JavaScript Code snippet, to predict it's possible output
+2)What is SQL and NoSQL
+3)What is MongoDB
+4)How to limit number of elements in database using MongoDB
+5)What are CSS Grid, How to deploy it
+6)How to style a text in center in HTML",Find the LCM of two given numbers(No specific language mentioned)
+BE-ISE,Sarvottam Bhagat,1CR21IS141,Ellucian,8.60 LPA,"Overall, the aptitude test was a valuable experience that helped me identify my strengths and weaknesses. I found it challenging, yet interesting, as it forced me to think critically and strategically. I was able to apply my knowledge and skills to solve complex problems, and I'm confident that this experience will help me in my future endeavors.",,,"I had a 45-minute personal interview with an HR representative who was also a technical expert. We discussed my projects, cloud architecture, API integration, Python, Docker, and SaaS. He asked behavioral questions and provided insight into the company culture. The conversation was engaging and focused on my technical expertise.","1.How do you design and implement RESTful APIs?
+2.What is your experience with Python frameworks Django ?
+3.How do you use Docker for containerization?
+4.How do you design and deploy cloud architecture?
+5.What is your understanding of the SaaS model?
+6.How have you implemented or integrated Ellucian Journey AI in your projects?","1.Basic c++ core questions
+2. Python 
+3.Create a Docker container and write a Python script to run inside it.
+4.Implement a simple RESTful API using Django.
+5.Have you worked with any AI tools or frameworks? If yes, please name them.
+6.How do you integrate AI models into your applications?"
+BE-CSE,Mayank Raj,1CR21AI031,Ellucian,8.62 LPA,,,,"Intoduce your self 
+Mainly focued on the projects 
+	- asked challenges faced during making of project
+	- Was it a team project 	
+	- how its unique 
+	- what motivated to create this project
+Asked some situational questions 
+How do u handle pressure 
+Some question related to python","Python , Cloud","Sort an array increasing decreasing , print odd even numbers , Language : python"
+MCA,Tanushree B R,1CR23MC111,Ellucian,8.60LPA,its was very good,,,"They asked me around 20 to 30 questions ,all  are from my resume only and its very good experience    the question like introducing yourself and related cloud computing and AI.",what is pointer in c language?                                                                                                                                  what is the advantages and disadvantages of AI ?                                                                               and tell me about machine learning algorithm?                                                                                        give a brief description about cloud technologies?                                                                                                                                                                                                          router in computer Networks?                                                                                                                      what is kernal in operating system?                                                                                                         and questions from my online assessment test?,what is pointer in c language?                                                                                                         compare java and python?                                                                                                                                 most of the questions are from python and c language
+BE-CSE,Akshita R,1CR21CS021,Ellucian,8.6,,,,,"Complete overview of Projects
+Complete overview of Internships
+Some basic Java string questions",Java string question ( Reverse each word in a sentence)
+BE-CSE,Neha Baiju,1CR21CS111,Ellucian,8.6,"If there are 66 handshakes, how many people in the room?
+3 people in a row, 3 white hats and 2 black hats question 
+Sql questions, postgresql, javascript, cloud, etc - mostly medium to hard level questions",,,-,"Oops concepts in detail, explain projects in detail, web development, 1 coding question prime number, cloud.",Prime number in java
+BE-ISE,Vandana,1CR21IS174,Ellucian,8.60LPA,Questions AWS and java...Basic Coding questions on array and strings.,,,"Questions on projects, Programming language the u mentioned in Resume, Aws and cloud.","1.Reading a file in python
+2.basic codes 
+3.DBMS and OOPS","Java, Python (mentioned language in the resume)"
+BE-ISE,Amith S,1CR21IS018,Ellucian,8.6 L,"Aptitude reasoning of 2 question, one coding, 15 questions of c, c++, sql",,,,"All about the resume, every technical skills, project, and internship.","Question on the language mentioned in resume 
+About c inbuilt function (printf, scanf, sorting, pointers, arrays and use,) 
+About sql queries (create, select and conditions) 
+About python libraries
+More focused on cloud computing especially AWS"
+BE-ISE,Sneha Sharma,1CR21IS156,Ellucian,8.6 LPA,"Scenario based questions,Coding question,dbms questions.",,,,"Sql Query related questions , cloud,one coding question","one in assesment,2 in interview all in java."
+BE-CSE,Soumya Raj,1CR21AD051,Ellucian,8.6,2 aptitude questions out of 18 questions,Na,Na,About projects,"About python,Java basically the languages mentioned in the resume",Prime factorisation in a given range
+BE-ECE,GUTTA SAI VINDHYA,1CR21EC083,ELLUCIAN,8.6,Aptitude round had all technical questions and descriptive questions and no aptitude questions,,,"Everything was related to technical questions, nothing about HR questions","About Fibonacci series, OSI model, project related questions, exception handling of python and hobbies","Mostly related to the languages mentioned in resume , cloud computing , web development and python"
+BE-ISE,Akanksha Bharti,1CR21IS009,Ellucian,8.6 LPA,Easy pattern matching and percentage questions,,,Questions on projects and hr questions like biggest achievement in group how you tackled group activities and other similar questions,Coding question on string manipulation pattern based question which was there in online assessment along with that in depth questions about resume and projects,Any language question was you're given a array return a list of unique no such that most frequent comes first and if frequency same then the bigger no comes first
+BE-ISE,Harish M,1CR21IS057,Ellucian,8.6,NO,NO,NO,"DBMS Concepts
+MYSQL
+Resume related questions
+Data Structures and Algorithms
+HR questions
+Project Related Questions","DBMS concepts
+Resume related concepts
+MYSQL
+JAVA OOPS
+Project related
+Data Structurtes and Algorithms","Prime TIme
+Prime factors in a range"
+"Important Links for Placement Preparation:
+
+https://www.geeksforgeeks.org/operating-systems-interview-questions/
+
+https://www.interviewbit.com/oops-interview-questions/
+
+https://www.interviewbit.com/ (Core)
+
+https://leetcode.com/  
+
+https://codeforces.com/ (For OAs )
+
+InterviewBit , geeksforgeeks
+
+https://www.w3schools.com/
+
+https://www.interviewbit.com/
+
+https://www.javatpoint.com/",,,,,,,,,,
+Drive Links for any material/Materials for Placement Drive Preparation: https://drive.google.com/file/d/1ozdDdh35MvxWJeykych7pw920AP2cFP_/view,,,,,,,,,,

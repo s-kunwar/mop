@@ -1,0 +1,10 @@
+Branch,Name,USN,Name of the Company/Drive,CTC offered,"Provide aptitude round/test details( Quantitative aptitude, Reasoning and Verbal ability )",Provide JAM session details if any,Provide group discussion details if any,Provide Personal Interview experience. List out the questions asked in personal interaction round.,Provide the list of technical questions asked during the interview (technical subject related),Provide the list of programming questions asked during the selection process. Also mention the programming language.
+MCA,CHARAN BABU V,1CR23MC025,LAUNCHX LABS,7LPA,"there were 5 questions of the aptitude 
+1. work and time
+2. probablity question
+3.logical solving
+4.missing number
+5.permutation question",intro of candidate and project related questions,about project,"1.dsa questions
+2.questions about project and fastapi 
+3.gen ai projects",they gave three leetcode questions to solve,python
+Important Links for Placement Preparation,leetcode and gfg for dsa,,,,,,,,,
