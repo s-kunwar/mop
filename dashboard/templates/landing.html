@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOP - Placement Data System</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif;
+            background: linear-gradient(135deg, #f5f3f0 0%, #fafbf7 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+        
+        .container {
+            max-width: 600px;
+            width: 100%;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 12px;
+            padding: 4rem 3rem;
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+            text-align: center;
+        }
+        
+        .logo {
+            font-size: 3.5rem;
+            font-weight: 300;
+            letter-spacing: -2px;
+            color: #2c2c2c;
+            margin-bottom: 1rem;
+            line-height: 1;
+        }
+        
+        .subtitle {
+            color: #999;
+            font-size: 0.95rem;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            margin-bottom: 3rem;
+            font-weight: 500;
+        }
+        
+        .description {
+            color: #666;
+            line-height: 1.8;
+            margin-bottom: 2.5rem;
+            font-size: 0.95rem;
+        }
+        
+        .description strong {
+            color: #2c2c2c;
+            font-weight: 600;
+        }
+        
+        .highlight {
+            color: #999;
+            font-size: 0.9rem;
+            margin: 1.5rem 0;
+            padding: 1rem;
+            background: #f9f8f6;
+            border-radius: 6px;
+            border-left: 2px solid #d4ccc5;
+        }
+        
+        .form-group {
+            margin-bottom: 1.5rem;
+            text-align: left;
+        }
+        
+        .form-label {
+            display: block;
+            margin-bottom: 0.6rem;
+            color: #555;
+            font-size: 0.9rem;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+        }
+        
+        .form-input {
+            width: 100%;
+            padding: 0.85rem 1.1rem;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            font-size: 0.95rem;
+            background: #fafaf9;
+            color: #2c2c2c;
+            transition: all 0.3s ease;
+            font-family: 'Monaco', 'Courier New', monospace;
+        }
+        
+        .form-input:focus {
+            outline: none;
+            border-color: #b8a899;
+            background: white;
+            box-shadow: 0 0 0 2px rgba(184, 168, 153, 0.1);
+        }
+        
+        .form-input::placeholder {
+            color: #bbb;
+        }
+        
+        .button-group {
+            display: flex;
+            gap: 1rem;
+            margin-top: 2.5rem;
+        }
+        
+        .btn {
+            flex: 1;
+            padding: 0.95rem 2rem;
+            border: none;
+            border-radius: 6px;
+            font-size: 0.95rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+        }
+        
+        .btn-primary {
+            background: #2c2c2c;
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background: #1a1a1a;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+        
+        .btn-primary:active {
+            transform: translateY(1px);
+        }
+        
+        .btn-secondary {
+            background: #e8e4df;
+            color: #555;
+        }
+        
+        .btn-secondary:hover {
+            background: #ddd9d2;
+        }
+        
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        
+        .loading {
+            display: none;
+            margin-top: 1rem;
+        }
+        
+        .spinner {
+            display: inline-block;
+            width: 16px;
+            height: 16px;
+            border: 2px solid #e8e4df;
+            border-top-color: #999;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        .loading-text {
+            display: inline-block;
+            margin-left: 0.8rem;
+            color: #999;
+            font-size: 0.9rem;
+        }
+        
+        .features {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.5rem;
+            margin: 2rem 0;
+            text-align: left;
+        }
+        
+        .feature {
+            padding: 1rem;
+            background: #f9f8f6;
+            border-radius: 6px;
+            border-left: 2px solid #d4ccc5;
+        }
+        
+        .feature-icon {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .feature-title {
+            font-weight: 600;
+            color: #2c2c2c;
+            margin-bottom: 0.3rem;
+            font-size: 0.9rem;
+        }
+        
+        .feature-desc {
+            font-size: 0.8rem;
+            color: #999;
+            line-height: 1.5;
+        }
+        
+        .error-message {
+            display: none;
+            color: #d9534f;
+            background: #fef5f5;
+            padding: 0.9rem;
+            border-radius: 4px;
+            margin-bottom: 1.5rem;
+            border-left: 3px solid #d9534f;
+            font-size: 0.9rem;
+        }
+        
+        @media (max-width: 600px) {
+            .card {
+                padding: 2rem 1.5rem;
+            }
+            
+            .logo {
+                font-size: 2.5rem;
+            }
+            
+            .features {
+                grid-template-columns: 1fr;
+            }
+            
+            .button-group {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="logo">MOP</div>
+            <div class="subtitle">Data Intelligence System</div>
+            
+            <div class="description">
+                <strong>Machine for Organizational Processing</strong><br>
+                Transform placement preparation materials into a searchable, structured knowledge base.
+            </div>
+            
+            <div class="features">
+                <div class="feature">
+                    <div class="feature-icon">📊</div>
+                    <div class="feature-title">208 Companies</div>
+                    <div class="feature-desc">Recruitment data from leading organizations</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">❓</div>
+                    <div class="feature-title">298 Questions</div>
+                    <div class="feature-desc">Interview questions across branches</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">�</div>
+                    <div class="feature-title">5000+ Placements</div>
+                    <div class="feature-desc">Student experience database</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">�</div>
+                    <div class="feature-title">Smart Search</div>
+                    <div class="feature-desc">Find companies and insights</div>
+                </div>
+            </div>
+            
+            <div class="highlight">
+                Provide the path to your cleaned CSV database to begin. The system will scan, index, and build your personal wiki.
+            </div>
+            
+            <div class="error-message" id="errorMessage"></div>
+            
+            <form id="dbForm">
+                <div class="form-group">
+                    <label class="form-label">Database Directory Path</label>
+                    <input 
+                        type="text" 
+                        class="form-input" 
+                        id="dbPath" 
+                        placeholder="db/cleaned_csv"
+                        value="db/cleaned_csv"
+                        required
+                    >
+                </div>
+                
+                <div class="button-group">
+                    <button type="button" class="btn btn-secondary" onclick="setDefaultPath()">
+                        Use Default
+                    </button>
+                    <button type="submit" class="btn btn-primary" id="submitBtn">
+                        Initialize System
+                    </button>
+                </div>
+                
+                <div class="loading" id="loading">
+                    <div class="spinner"></div>
+                    <span class="loading-text">Preparing system...</span>
+                </div>
+            </form>
+        </div>
+    </div>
+    
+    <script>
+        function setDefaultPath() {
+            document.getElementById('dbPath').value = 'db/cleaned_csv';
+        }
+        
+        document.getElementById('dbForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const dbPath = document.getElementById('dbPath').value.trim();
+            const errorMsg = document.getElementById('errorMessage');
+            const loading = document.getElementById('loading');
+            const submitBtn = document.getElementById('submitBtn');
+            
+            if (!dbPath) {
+                errorMsg.style.display = 'block';
+                errorMsg.textContent = 'Please enter a database path';
+                return;
+            }
+            
+            errorMsg.style.display = 'none';
+            loading.style.display = 'block';
+            submitBtn.disabled = true;
+            
+            try {
+                const response = await fetch('/api/start-processing', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        database_path: dbPath
+                    })
+                });
+                
+                if (!response.ok) {
+                    throw new Error('Failed to start processing');
+                }
+                
+                // Redirect to processing page
+                window.location.href = '/processing';
+                
+            } catch (error) {
+                errorMsg.style.display = 'block';
+                errorMsg.textContent = 'Error: ' + error.message;
+                loading.style.display = 'none';
+                submitBtn.disabled = false;
+            }
+        });
+    </script>
+</body>
+</html>

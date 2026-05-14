@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Processing - MOP System</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif;
+            background: linear-gradient(135deg, #f5f3f0 0%, #fafbf7 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+        
+        .container {
+            max-width: 500px;
+            width: 100%;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 12px;
+            padding: 3.5rem 2.5rem;
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+            text-align: center;
+        }
+        
+        .logo {
+            font-size: 2.5rem;
+            font-weight: 300;
+            letter-spacing: -2px;
+            color: #2c2c2c;
+            margin-bottom: 2rem;
+        }
+        
+        .title {
+            color: #2c2c2c;
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            letter-spacing: 0.5px;
+        }
+        
+        .subtitle {
+            color: #999;
+            font-size: 0.9rem;
+            margin-bottom: 2.5rem;
+            line-height: 1.6;
+        }
+        
+        .progress-section {
+            margin: 2rem 0;
+        }
+        
+        .progress-label {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+        
+        .progress-step {
+            color: #999;
+            font-size: 0.9rem;
+            font-weight: 500;
+        }
+        
+        .progress-percent {
+            color: #2c2c2c;
+            font-size: 0.95rem;
+            font-weight: 600;
+        }
+        
+        .progress-bar {
+            width: 100%;
+            height: 4px;
+            background: #e8e4df;
+            border-radius: 2px;
+            overflow: hidden;
+            margin-bottom: 2rem;
+        }
+        
+        .progress-fill {
+            height: 100%;
+            background: #2c2c2c;
+            width: 0%;
+            transition: width 0.3s ease;
+            border-radius: 2px;
+        }
+        
+        .stages {
+            text-align: left;
+            margin: 2.5rem 0;
+        }
+        
+        .stage {
+            display: flex;
+            align-items: center;
+            margin: 1rem 0;
+            padding: 0.75rem;
+            border-radius: 6px;
+            transition: background 0.3s ease;
+        }
+        
+        .stage-icon {
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            background: #e8e4df;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 0.75rem;
+            font-size: 0.8rem;
+            flex-shrink: 0;
+            transition: all 0.3s ease;
+            color: #999;
+        }
+        
+        .stage.active .stage-icon {
+            background: #2c2c2c;
+            color: white;
+            animation: pulse 1.5s ease-in-out infinite;
+        }
+        
+        .stage.complete .stage-icon {
+            background: #27ae60;
+            color: white;
+        }
+        
+        .stage-text {
+            color: #999;
+            font-size: 0.9rem;
+            transition: color 0.3s ease;
+        }
+        
+        .stage.active .stage-text {
+            color: #2c2c2c;
+            font-weight: 500;
+        }
+        
+        .stage.complete .stage-text {
+            color: #666;
+        }
+        
+        .stats {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+            margin: 2rem 0;
+            text-align: left;
+        }
+        
+        .stat-item {
+            padding: 1rem;
+            background: #f9f8f6;
+            border-radius: 6px;
+            border-left: 2px solid #d4ccc5;
+        }
+        
+        .stat-label {
+            color: #999;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 0.5rem;
+        }
+        
+        .stat-value {
+            color: #2c2c2c;
+            font-size: 1.4rem;
+            font-weight: 600;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        
+        .complete-message {
+            display: none;
+            color: #27ae60;
+            font-size: 0.95rem;
+            margin-top: 1.5rem;
+            font-weight: 500;
+        }
+        
+        @media (max-width: 600px) {
+            .card {
+                padding: 2rem 1.5rem;
+            }
+            
+            .logo {
+                font-size: 2rem;
+            }
+            
+            .title {
+                font-size: 1rem;
+            }
+            
+            .stats {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="logo">MOP</div>
+            
+            <div class="title">Building Your Wiki</div>
+            <div class="subtitle">Scanning data, cleaning records, and building search index...</div>
+            
+            <div class="progress-section">
+                <div class="progress-label">
+                    <span class="progress-step" id="currentStep">Initializing...</span>
+                    <span class="progress-percent"><span id="percentage">0</span>%</span>
+                </div>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+            </div>
+            
+            <div class="stages">
+                <div class="stage" id="stage1">
+                    <div class="stage-icon">1</div>
+                    <div class="stage-text">Initializing system</div>
+                </div>
+                <div class="stage" id="stage2">
+                    <div class="stage-icon">2</div>
+                    <div class="stage-text">Loading experience data</div>
+                </div>
+                <div class="stage" id="stage3">
+                    <div class="stage-icon">3</div>
+                    <div class="stage-text">Loading question banks</div>
+                </div>
+                <div class="stage" id="stage4">
+                    <div class="stage-icon">4</div>
+                    <div class="stage-text">Building search index</div>
+                </div>
+                <div class="stage" id="stage5">
+                    <div class="stage-icon">5</div>
+                    <div class="stage-text">Finalizing wiki</div>
+                </div>
+            </div>
+            
+            <div class="stats">
+                <div class="stat-item">
+                    <div class="stat-label">Companies</div>
+                    <div class="stat-value" id="companyCount">0</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">Questions</div>
+                    <div class="stat-value" id="questionCount">0</div>
+                </div>
+            </div>
+            
+            <div class="complete-message" id="completeMessage">✓ Ready to explore!</div>
+        </div>
+    </div>
+    
+    <script>
+        const stages = [
+            { id: 'stage1', minProgress: 0, name: 'Initializing system' },
+            { id: 'stage2', minProgress: 15, name: 'Loading experience data' },
+            { id: 'stage3', minProgress: 50, name: 'Loading question banks' },
+            { id: 'stage4', minProgress: 80, name: 'Building search index' },
+            { id: 'stage5', minProgress: 95, name: 'Finalizing wiki' }
+        ];
+        
+        function updateStages(progress) {
+            stages.forEach((stage, index) => {
+                const element = document.getElementById(stage.id);
+                if (progress >= stage.minProgress) {
+                    element.classList.add('active');
+                    if (progress > stage.minProgress + 10 || (index < stages.length - 1 && progress >= stages[index + 1].minProgress)) {
+                        element.classList.remove('active');
+                        element.classList.add('complete');
+                    }
+                } else {
+                    element.classList.remove('active', 'complete');
+                }
+            });
+        }
+        
+        async function checkProgress() {
+            try {
+                const response = await fetch('/api/progress');
+                const data = await response.json();
+                
+                const progress = data.progress;
+                const progressFill = document.getElementById('progressFill');
+                const percentage = document.getElementById('percentage');
+                const currentStep = document.getElementById('currentStep');
+                const companyCount = document.getElementById('companyCount');
+                const questionCount = document.getElementById('questionCount');
+                const completeMessage = document.getElementById('completeMessage');
+                
+                progressFill.style.width = progress + '%';
+                percentage.textContent = Math.min(progress, 100);
+                currentStep.textContent = data.current_step || 'Processing...';
+                companyCount.textContent = data.total_companies || 0;
+                questionCount.textContent = data.total_questions || 0;
+                
+                updateStages(progress);
+                
+                if (data.is_complete) {
+                    completeMessage.style.display = 'block';
+                    progressFill.style.width = '100%';
+                    percentage.textContent = '100';
+                    
+                    // Mark all stages complete
+                    stages.forEach(stage => {
+                        document.getElementById(stage.id).classList.remove('active');
+                        document.getElementById(stage.id).classList.add('complete');
+                    });
+                    
+                    // Redirect after 2 seconds
+                    setTimeout(() => {
+                        window.location.href = '/dashboard';
+                    }, 2000);
+                } else {
+                    // Check again in 500ms
+                    setTimeout(checkProgress, 500);
+                }
+            } catch (error) {
+                console.error('Error checking progress:', error);
+                setTimeout(checkProgress, 1000);
+            }
+        }
+        
+        // Start checking progress
+        checkProgress();
+    </script>
+</body>
+</html>

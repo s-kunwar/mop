@@ -1,0 +1,129 @@
+{% extends "base.html" %}
+
+{% block title %}{{ company }} - MOP Dashboard{% endblock %}
+
+{% block content %}
+<a href="/dashboard" class="back-link">← Back to Dashboard</a>
+
+<div class="section-header">
+    <div>
+        <h1>{{ company }}</h1>
+    </div>
+</div>
+
+<!-- Stats -->
+<div class="stats-grid">
+    <div class="stat-box">
+        <div class="stat-value">{{ stats.total_placements }}</div>
+        <div class="stat-label">Total Placements</div>
+    </div>
+    {% if stats.avg_package %}
+    <div class="stat-box">
+        <div class="stat-value">{{ stats.avg_package }}</div>
+        <div class="stat-label">Average Package</div>
+    </div>
+    {% endif %}
+    {% if stats.max_package %}
+    <div class="stat-box">
+        <div class="stat-value">{{ stats.max_package }}</div>
+        <div class="stat-label">Highest Package</div>
+    </div>
+    {% endif %}
+</div>
+
+<!-- Company Info Card -->
+<div class="card">
+    <div class="card-title">ℹ Company Information</div>
+    
+    {% if stats.branches %}
+    <h3>Engineering Branches</h3>
+    <div style="margin-bottom: 1.5rem;">
+        {% for branch in stats.branches %}
+        <span class="badge badge-secondary">{{ branch }}</span>
+        {% endfor %}
+    </div>
+    {% endif %}
+    
+    {% if stats.years %}
+    <h3>Academic Years</h3>
+    <div style="margin-bottom: 1.5rem;">
+        {% for year in stats.years %}
+        <span class="badge">{{ year }}</span>
+        {% endfor %}
+    </div>
+    {% endif %}
+</div>
+
+<!-- Interview Questions Section -->
+{% if questions %}
+<h2>❓ Interview Questions</h2>
+{% for q in questions %}
+<div class="card" style="margin-bottom: 1.5rem;">
+    <div style="color: var(--accent); font-weight: 600; margin-bottom: 1rem;">Branch: <span style="color: var(--primary);">{{ q.branch }}</span></div>
+    
+    {% if q.technical %}
+    <h3>Technical Questions</h3>
+    <div style="background: var(--bg-subtle); padding: 1.2rem; border-radius: 6px; border-left: 3px solid var(--accent); margin-bottom: 1.5rem; white-space: pre-wrap; word-break: break-word; max-height: 350px; overflow-y: auto; font-size: 0.9rem; line-height: 1.6;">{{ q.technical }}</div>
+    {% endif %}
+    
+    {% if q.programming %}
+    <h3>Programming Questions</h3>
+    <div style="background: var(--bg-subtle); padding: 1.2rem; border-radius: 6px; border-left: 3px solid var(--accent); margin-bottom: 1.5rem; white-space: pre-wrap; word-break: break-word; max-height: 350px; overflow-y: auto; font-size: 0.9rem; line-height: 1.6;">{{ q.programming }}</div>
+    {% endif %}
+    
+    {% if q.personal %}
+    <h3>Personal / HR Questions</h3>
+    <div style="background: var(--bg-subtle); padding: 1.2rem; border-radius: 6px; border-left: 3px solid var(--accent); white-space: pre-wrap; word-break: break-word; max-height: 350px; overflow-y: auto; font-size: 0.9rem; line-height: 1.6;">{{ q.personal }}</div>
+    {% endif %}
+    
+    <div class="source-file">
+        <span class="source-file-label">📁 Data Source:</span>
+        <span class="source-file-path">db/cleaned_csv/que/{{ q.branch }}/[academic_year]/[questions_file].csv</span>
+    </div>
+</div>
+{% endfor %}
+{% endif %}
+
+<!-- Student Placements Section -->
+{% if experiences %}
+<h2>👥 Student Placements</h2>
+<div class="card">
+    <div style="overflow-x: auto;">
+        <table>
+            <thead>
+                <tr>
+                    <th>Student Name</th>
+                    <th>USN</th>
+                    <th>Email</th>
+                    <th>CGPA</th>
+                    <th>Package</th>
+                    <th>Rounds</th>
+                    <th>Feedback</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for exp in experiences %}
+                {% if exp.get('Name') or exp.get('name') or exp.get('STUDENT_NAME') %}
+                <tr>
+                    <td style="font-weight: 500;">{{ exp.get('Name') or exp.get('name') or exp.get('STUDENT_NAME') or '—' }}</td>
+                    <td><code style="background: var(--bg-subtle); padding: 0.3rem 0.6rem;">{{ exp.get('USN') or exp.get('usn') or exp.get('UNIVERSITY_SEAT_NUMBER') or '—' }}</code></td>
+                    <td><code style="background: var(--bg-subtle); padding: 0.3rem 0.6rem; font-size: 0.8rem;">{{ exp.get('Email') or exp.get('email') or exp.get('EMAIL') or '—' }}</code></td>
+                    <td>{{ exp.get('CGPA') or exp.get('cgpa') or '—' }}</td>
+                    <td><span class="badge badge-secondary">{{ exp.get('Package') or exp.get('package') or exp.get('PACKAGE_OFFERED') or '—' }}</span></td>
+                    <td style="font-size: 0.85rem; max-width: 150px; overflow-y: auto; max-height: 80px;">{{ exp.get('No. of rounds & Names of those') or exp.get('RECRUITMENT_ROUNDS') or '—' }}</td>
+                    <td style="font-size: 0.85rem; max-width: 150px; overflow-y: auto; max-height: 80px;">{{ exp.get('Questions asked during F2F interview') or exp.get('INTERVIEW_QUESTIONS') or exp.get('FEEDBACK') or '—' }}</td>
+                </tr>
+                {% endif %}
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    
+    <div class="source-file">
+        <span class="source-file-label">📁 Data Source:</span>
+        <span class="source-file-path">db/cleaned_csv/exp/[academic_year]/{{ company }}/[recruitment_file].csv</span>
+    </div>
+</div>
+{% endif %}
+
+{% endblock %}

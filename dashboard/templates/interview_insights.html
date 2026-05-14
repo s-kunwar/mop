@@ -1,0 +1,113 @@
+{% extends "base.html" %}
+
+{% block title %}Interview Insights - MOP Dashboard{% endblock %}
+
+{% block content %}
+<div style="margin-bottom: 2.5rem;">
+    <h1>Interview Insights & Analytics</h1>
+    <p style="color: var(--text-muted); margin-top: 0.5rem; font-size: 0.95rem;">
+        Aggregate patterns from {{ total_companies }} companies and {{ common_topics|length }} unique topics
+    </p>
+</div>
+
+<!-- Stats -->
+<div class="stats-grid">
+    <div class="stat-box">
+        <div class="stat-value">{{ total_companies }}</div>
+        <div class="stat-label">Companies</div>
+    </div>
+    <div class="stat-box">
+        <div class="stat-value">{{ common_topics|length }}</div>
+        <div class="stat-label">Unique Topics</div>
+    </div>
+</div>
+
+<!-- Top Recruiting Companies -->
+<h2>🏆 Top Recruiting Companies</h2>
+<div class="card">
+    <div style="overflow-x: auto;">
+        <table style="margin: 0;">
+            <thead>
+                <tr>
+                    <th style="width: 60px;">Rank</th>
+                    <th>Company</th>
+                    <th style="text-align: right;">Placements</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for company, count in insights['companies_by_placements'] %}
+                <tr>
+                    <td style="font-weight: 600; color: var(--accent);">#{{ loop.index }}</td>
+                    <td><a href="/company/{{ company | replace(' ', '%20') }}" class="company-link">{{ company }}</a></td>
+                    <td style="text-align: right;"><span class="badge badge-secondary">{{ count }}</span></td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<!-- Common Interview Topics -->
+<h2>📌 Most Frequent Interview Topics</h2>
+<div class="card">
+    <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1.5rem;">
+        Topics appearing most frequently across {{ total_companies }} companies' technical interviews
+    </p>
+    
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem;">
+        {% for topic, count in common_topics[:20] %}
+        <div style="background: var(--bg-subtle); padding: 1.2rem; border-radius: 6px; border-left: 3px solid var(--accent);">
+            <div style="font-weight: 600; color: var(--primary); margin-bottom: 0.5rem; text-transform: capitalize;">{{ topic }}</div>
+            <div style="color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.8rem;">Mentioned {{ count }} times</div>
+            <div style="background: var(--bg-card); height: 4px; border-radius: 2px; overflow: hidden;">
+                <div style="background: var(--accent); height: 100%; width: {{ (count / 20 * 100) }}%;"></div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<!-- Key Insights -->
+<h2>💡 Key Preparation Areas</h2>
+<div class="card">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
+        <div>
+            <h3>🎯 Top 5 Topics to Master</h3>
+            <div style="margin-top: 1rem;">
+                {% for topic, count in common_topics[:5] %}
+                <div style="padding: 0.7rem; margin-bottom: 0.8rem; background: var(--bg-subtle); border-radius: 4px; border-left: 3px solid var(--accent);">
+                    <span style="color: var(--primary); font-weight: 600; text-transform: capitalize;">{{ topic }}</span>
+                    <span style="color: var(--text-light); font-size: 0.85rem;">({{ count }} mentions)</span>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        
+        <div>
+            <h3>📚 Recommended Focus Areas</h3>
+            <ul style="margin-top: 1rem; list-style: none;">
+                <li style="padding: 0.7rem 0; border-bottom: 1px solid var(--border-subtle); font-size: 0.9rem;">✓ Data structures and algorithms</li>
+                <li style="padding: 0.7rem 0; border-bottom: 1px solid var(--border-subtle); font-size: 0.9rem;">✓ Object-oriented design principles</li>
+                <li style="padding: 0.7rem 0; border-bottom: 1px solid var(--border-subtle); font-size: 0.9rem;">✓ Database design & SQL queries</li>
+                <li style="padding: 0.7rem 0; border-bottom: 1px solid var(--border-subtle); font-size: 0.9rem;">✓ System design & scalability</li>
+                <li style="padding: 0.7rem 0; font-size: 0.9rem;">✓ Problem-solving approach</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- Branch Explorer -->
+<h2>🔗 Explore by Engineering Branch</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 1.5rem; margin-top: 1.5rem;">
+    {% set branches = ['CSE', 'ECE', 'EEE', 'AIML', 'AInDS', 'CV', 'ISE', 'MBA', 'MCA', 'ME'] %}
+    {% for branch in branches %}
+    <a href="/questions/{{ branch }}" style="text-decoration: none;">
+        <div class="result-card" style="text-align: center;">
+            <div style="font-weight: 600; color: var(--primary); margin-bottom: 0.3rem;">{{ branch }}</div>
+            <div style="color: var(--text-muted); font-size: 0.85rem;">View Interview Questions →</div>
+        </div>
+    </a>
+    {% endfor %}
+</div>
+
+{% endblock %}

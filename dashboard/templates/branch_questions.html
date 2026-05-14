@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{% block title %}{{ branch }} - Interview Questions - MOP Dashboard{% endblock %}
+
+{% block content %}
+<a href="/interview-insights" class="back-link">← Back to Insights</a>
+
+<div style="margin-bottom: 2.5rem;">
+    <h1>{{ branch }} — Interview Questions</h1>
+    <p style="color: var(--text-muted); margin-top: 0.5rem; font-size: 0.95rem;">
+        Questions from {{ questions_by_company|length }} companies across multiple interview rounds
+    </p>
+</div>
+
+<!-- Questions by Company -->
+{% for company, questions in questions_by_company.items() %}
+<div class="card" style="margin-bottom: 2rem;">
+    <div class="card-title">{{ company }}</div>
+    
+    {% for q in questions %}
+    <div style="margin-bottom: 2rem; padding-bottom: 2rem; border-bottom: 1px solid var(--border-subtle);">
+        {% if q.technical %}
+        <h3 style="color: var(--primary); margin-bottom: 0.8rem;">Technical Questions</h3>
+        <div style="background: var(--bg-subtle); padding: 1.2rem; border-radius: 6px; border-left: 3px solid var(--accent); margin-bottom: 1.5rem; white-space: pre-wrap; word-break: break-word; max-height: 400px; overflow-y: auto; font-size: 0.9rem; line-height: 1.6;">{{ q.technical }}</div>
+        {% endif %}
+        
+        {% if q.programming %}
+        <h3 style="color: var(--primary); margin-bottom: 0.8rem;">Programming Questions</h3>
+        <div style="background: var(--bg-subtle); padding: 1.2rem; border-radius: 6px; border-left: 3px solid var(--accent); margin-bottom: 1.5rem; white-space: pre-wrap; word-break: break-word; max-height: 400px; overflow-y: auto; font-size: 0.9rem; line-height: 1.6;">{{ q.programming }}</div>
+        {% endif %}
+        
+        {% if q.personal %}
+        <h3 style="color: var(--primary); margin-bottom: 0.8rem;">Personal / HR Questions</h3>
+        <div style="background: var(--bg-subtle); padding: 1.2rem; border-radius: 6px; border-left: 3px solid var(--accent); white-space: pre-wrap; word-break: break-word; max-height: 400px; overflow-y: auto; font-size: 0.9rem; line-height: 1.6;">{{ q.personal }}</div>
+        {% endif %}
+    </div>
+    {% endfor %}
+    
+    <div class="source-file">
+        <span class="source-file-label">📁 Data Source:</span>
+        <span class="source-file-path">db/cleaned_csv/que/{{ branch }}/[academic_year]/[questions_file].csv</span>
+    </div>
+</div>
+{% endfor %}
+
+{% if not questions_by_company %}
+<div class="card">
+    <p style="color: var(--text-muted); text-align: center; padding: 2rem;">
+        No questions found for {{ branch }} branch
+    </p>
+</div>
+{% endif %}
+
+{% endblock %}

@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard - MOP{% endblock %}
+
+{% block content %}
+<div style="margin-bottom: 3rem;">
+    <h1>Placement Intelligence Dashboard</h1>
+    <p style="color: var(--text-muted); font-size: 0.95rem; margin-top: 0.5rem;">
+        Explore companies, placements, and interview insights from your cleaned database
+    </p>
+</div>
+
+<!-- Key Stats -->
+<div class="stats-grid">
+    <div class="stat-box">
+        <div class="stat-value">{{ stats.total_companies }}</div>
+        <div class="stat-label">Companies</div>
+    </div>
+    <div class="stat-box">
+        <div class="stat-value">{{ stats.total_placements }}</div>
+        <div class="stat-label">Placements</div>
+    </div>
+    <div class="stat-box">
+        <div class="stat-value">{{ stats.total_questions }}</div>
+        <div class="stat-label">Questions</div>
+    </div>
+</div>
+
+<!-- Search Section -->
+<div class="card" style="margin-bottom: 2.5rem;">
+    <div class="card-title">🔍 Find Companies</div>
+    <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Search by company name...">
+        <button class="btn" onclick="performSearch()">Search</button>
+    </div>
+    <div id="searchResults" class="search-results"></div>
+</div>
+
+<!-- Browse Section -->
+<h2>📚 All Companies</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 1.5rem;">
+    {% for company in companies %}
+    <div class="result-card" onclick="window.location='/company/{{ company | replace(' ', '%20') }}'">
+        <div class="result-company">{{ company }}</div>
+        <div class="result-info">View profile & details</div>
+    </div>
+    {% endfor %}
+</div>
+
+{% endblock %}
+
+{% block extra_js %}
+<script>
+function performSearch() {
+    const query = document.getElementById('searchInput').value;
+    if (!query) {
+        document.getElementById('searchResults').innerHTML = '';
+        return;
+    }
+    
+    fetch(`/api/search?q=${encodeURIComponent(query)}`)
+        .then(r => r.json())
+        .then(data => {
+            const resultsDiv = document.getElementById('searchResults');
+            if (data.results.length === 0) {
+                resultsDiv.innerHTML = '<p style="color: var(--text-muted); padding: 2rem; text-align: center;">No companies found</p>';
+                return;
+            }
+            
+            resultsDiv.innerHTML = data.results.map(r => `
+                <div class="result-card" onclick="window.location='/company/${encodeURIComponent(r.name)}'">
+                    <div class="result-company">${r.name}</div>
+                    <div class="result-info">👥 ${r.placements} placements</div>
+                    ${r.branches.map(b => `<span class="badge">${b}</span>`).join('')}
+                </div>
+            `).join('');
+        });
+}
+
+document.getElementById('searchInput').addEventListener('keypress', (e) => {
+    if (e.key === 'Enter') performSearch();
+});
+</script>
+{% endblock %}
