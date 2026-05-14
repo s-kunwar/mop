@@ -163,6 +163,13 @@
             margin-top: 1rem;
         }
         
+        .progress-message {
+            color: #555;
+            font-size: 0.95rem;
+            margin-top: 1rem;
+            min-height: 1.2rem;
+        }
+        
         .spinner {
             display: inline-block;
             width: 16px;
@@ -313,6 +320,7 @@
                     <div class="spinner"></div>
                     <span class="loading-text">Preparing system...</span>
                 </div>
+                <div class="progress-message" id="progressMessage"></div>
             </form>
         </div>
     </div>
@@ -322,13 +330,15 @@
             document.getElementById('dbPath').value = 'db/cleaned_csv';
         }
         
+        const errorMsg = document.getElementById('errorMessage');
+        const loading = document.getElementById('loading');
+        const submitBtn = document.getElementById('submitBtn');
+        const progressMessage = document.getElementById('progressMessage');
+
         document.getElementById('dbForm').addEventListener('submit', async (e) => {
             e.preventDefault();
             
             const dbPath = document.getElementById('dbPath').value.trim();
-            const errorMsg = document.getElementById('errorMessage');
-            const loading = document.getElementById('loading');
-            const submitBtn = document.getElementById('submitBtn');
             
             if (!dbPath) {
                 errorMsg.style.display = 'block';
@@ -337,6 +347,7 @@
             }
             
             errorMsg.style.display = 'none';
+            progressMessage.textContent = '';
             loading.style.display = 'block';
             submitBtn.disabled = true;
             
@@ -355,8 +366,10 @@
                     throw new Error('Failed to start processing');
                 }
                 
-                // Redirect to processing page
-                window.location.href = '/processing';
+                progressMessage.textContent = 'Initializing demo processing...';
+                loading.style.display = 'block';
+                submitBtn.disabled = true;
+                pollProgress();
                 
             } catch (error) {
                 errorMsg.style.display = 'block';
@@ -365,6 +378,27 @@
                 submitBtn.disabled = false;
             }
         });
+
+        async function pollProgress() {
+            try {
+                const response = await fetch('/api/progress');
+                const data = await response.json();
+
+                if (data.is_complete) {
+                    progressMessage.textContent = 'Demo ready! Redirecting to dashboard...';
+                    setTimeout(() => {
+                        window.location.href = '/dashboard';
+                    }, 1000);
+                    return;
+                }
+
+                progressMessage.textContent = data.current_step || 'Processing...';
+                setTimeout(pollProgress, 500);
+            } catch (error) {
+                progressMessage.textContent = 'Still initializing...';
+                setTimeout(pollProgress, 1000);
+            }
+        }
     </script>
 </body>
 </html>

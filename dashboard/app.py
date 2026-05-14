@@ -15,6 +15,11 @@ import re
 
 app = Flask(__name__, template_folder='templates', static_folder='static')
 app.secret_key = 'mop-dashboard-secret-key-2026'
+ROOT_DIR = Path(__file__).resolve().parent.parent
+
+def resolve_db_path(path_str):
+    path = Path(path_str)
+    return path if path.is_absolute() else ROOT_DIR / path
 
 # Global data storage
 DATA = {
@@ -50,10 +55,12 @@ def scan_csv_files(base_path='db/cleaned_csv'):
     
     print("📂 Scanning CSV files...")
     
-    base_path = Path(base_path)
+    base_path = resolve_db_path(base_path)
     
     if not base_path.exists():
         print(f"❌ Path does not exist: {base_path}")
+        PROCESSING_STATE['current_step'] = f'Database path not found: {base_path}'
+        PROCESSING_STATE['progress'] = 0
         PROCESSING_STATE['is_processing'] = False
         return False
     
@@ -108,18 +115,6 @@ def scan_csv_files(base_path='db/cleaned_csv'):
     print(f"✅ Loaded {len(DATA['all_questions'])} question entries")
     
     return True
-    que_path = base_path / 'que'
-    if que_path.exists():
-        for branch_dir in que_path.iterdir():
-            if branch_dir.is_dir():
-                branch = branch_dir.name
-                for item in branch_dir.rglob('*.csv'):
-                    load_questions_csv(item, branch)
-    
-    # Build search index
-    build_index()
-    print(f"✅ Loaded {len(DATA['companies'])} companies")
-    print(f"✅ Loaded {len(DATA['all_questions'])} question entries")
 
 def load_experience_csv(filepath, year):
     """Load experience CSV file"""
@@ -231,9 +226,7 @@ def start_processing():
 @app.route('/processing')
 def processing():
     """Processing page"""
-    if DATA['loaded']:
-        return redirect(url_for('index'))
-    return render_template('processing.html')
+    return redirect(url_for('landing'))
 
 @app.route('/api/progress')
 def get_progress():
