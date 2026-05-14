@@ -277,6 +277,9 @@
             { id: 'stage4', minProgress: 80, name: 'Building search index' },
             { id: 'stage5', minProgress: 95, name: 'Finalizing wiki' }
         ];
+        let displayedProgress = 0;
+        const fakeMaxProgress = 95;
+        const fakeIncrement = 2;
         
         function updateStages(progress) {
             stages.forEach((stage, index) => {
@@ -298,7 +301,13 @@
                 const response = await fetch('/api/progress');
                 const data = await response.json();
                 
-                const progress = data.progress;
+                const actualProgress = Math.min(Math.max(data.progress || 0, 0), 100);
+                if (actualProgress > displayedProgress) {
+                    displayedProgress = actualProgress;
+                } else if (displayedProgress < fakeMaxProgress && !data.is_complete) {
+                    displayedProgress = Math.min(displayedProgress + fakeIncrement, fakeMaxProgress);
+                }
+                const progressValue = data.is_complete ? 100 : displayedProgress;
                 const progressFill = document.getElementById('progressFill');
                 const percentage = document.getElementById('percentage');
                 const currentStep = document.getElementById('currentStep');
@@ -306,8 +315,8 @@
                 const questionCount = document.getElementById('questionCount');
                 const completeMessage = document.getElementById('completeMessage');
                 
-                progressFill.style.width = progress + '%';
-                percentage.textContent = Math.min(progress, 100);
+                progressFill.style.width = progressValue + '%';
+                percentage.textContent = Math.min(progressValue, 100);
                 currentStep.textContent = data.current_step || 'Processing...';
                 companyCount.textContent = data.total_companies || 0;
                 questionCount.textContent = data.total_questions || 0;

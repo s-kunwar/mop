@@ -226,7 +226,9 @@ def start_processing():
 @app.route('/processing')
 def processing():
     """Processing page"""
-    return redirect(url_for('landing'))
+    if DATA['loaded']:
+        return redirect(url_for('index'))
+    return render_template('processing.html')
 
 @app.route('/api/progress')
 def get_progress():
