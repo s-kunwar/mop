@@ -321,7 +321,7 @@
                 companyCount.textContent = data.total_companies || 0;
                 questionCount.textContent = data.total_questions || 0;
                 
-                updateStages(progress);
+                updateStages(progressValue);
                 
                 if (data.is_complete) {
                     completeMessage.style.display = 'block';
