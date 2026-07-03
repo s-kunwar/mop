@@ -287,8 +287,4 @@ Configuration files in `docs/` allow customization of:
 
 ## License
 
-This repository contains organizational intelligence processing tools. Please ensure appropriate usage rights for source materials and comply with data privacy regulations.
-
-## Contact
-
-For issues, questions, or enterprise deployment inquiries, please open an issue in this repository or contact the development team.
+This project is open-source and licensed under the MIT License. Built for the community, by the community.
